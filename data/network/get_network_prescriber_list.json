@@ -1,0 +1,33 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "prescriber_list": [
+      {
+        "NPI": "1760465553",
+        "First Name": "MUHAMMADA",
+        "Last Name": "A. SATTAR",
+        "Start Date": "09/29/2017",
+        "End Date": "09/29/2017",
+        "Network ID": 1167,
+        "did": 161776,
+        "Created By": "admin",
+        "Created Date": "/Date(1506614368317)/",
+        "Updated By": null,
+        "Updated Date": null
+      },
+      {
+        "NPI": "1801093968",
+        "First Name": "MELANIE",
+        "Last Name": "AABERG",
+        "Start Date": "09/29/2017",
+        "End Date": "09/29/2017",
+        "Network ID": 1167,
+        "did": 1709602,
+        "Created By": "admin",
+        "Created Date": "/Date(1506614384030)/",
+        "Updated By": null,
+        "Updated Date": null
+      }
+    ]
+  }
+}

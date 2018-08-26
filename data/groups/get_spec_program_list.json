@@ -1,0 +1,15 @@
+{
+  "d": {
+      "__type": "System.Data.DataSet",
+      "spec_program_list": [
+        {
+          "program_id": 1,
+          "desc_txt": "Special Program 1"
+        },
+        {
+          "program_id": 2,
+          "desc_txt": "Special Program 2"
+        }
+      ]
+  }
+}

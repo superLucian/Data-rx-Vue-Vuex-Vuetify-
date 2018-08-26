@@ -1,0 +1,15 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network_chain": [
+      {
+        "network_desc": "TEST NETWORK - 1142",
+        "contract_id": -1,
+        "created_by": "admin",
+        "created_dt": "/Date(1506583014877)/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "user_classes": [
+            {
+                "id": 32013,
+                "desc_txt": "Accounting"
+            },
+            {
+                "id": 32010,
+                "desc_txt": "Acct Mgnt"
+            },
+            {
+                "id": 32006,
+                "desc_txt": "External 340B"
+            },
+            {
+                "id": 32008,
+                "desc_txt": "External Card"
+            },
+            {
+                "id": 32007,
+                "desc_txt": "External Hospice"
+            },
+            {
+                "id": 32005,
+                "desc_txt": "External PBM"
+            },
+            {
+                "id": 32003,
+                "desc_txt": "Full Access"
+            },
+            {
+                "id": 32009,
+                "desc_txt": "Help Desk"
+            },
+            {
+                "id": 32004,
+                "desc_txt": "Hospice Nurse"
+            },
+            {
+                "id": 32014,
+                "desc_txt": "IT Tech Support"
+            },
+            {
+                "id": 32000,
+                "desc_txt": "No Access"
+            },
+            {
+                "id": 32002,
+                "desc_txt": "Read and Edit"
+            },
+            {
+                "id": 32001,
+                "desc_txt": "Read Only"
+            },
+            {
+                "id": 32011,
+                "desc_txt": "Sales"
+            },
+            {
+                "id": 32012,
+                "desc_txt": "Super User"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "group_permissions_list": [
+      {
+        "group_id": "*",
+        "Group": "All Groups",
+        "class_id": 32003,
+        "sid": 3412,
+        "Class": "Full Access",
+        "Updated By": "RxSenseAdmin",
+        "Updated Date": "/Date(1503527625543)/",
+        "Created By": "laugustine",
+        "Created Date": "/Date(1488853341113)/"
+      }
+    ]
+  }
+}

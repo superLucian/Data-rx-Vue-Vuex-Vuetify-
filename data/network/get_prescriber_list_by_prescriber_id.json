@@ -1,0 +1,18 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "prescriber_list": [
+      {
+        "did": 512652,
+        "NPI": "1194753186",
+        "Last Name": "AABERG",
+        "First Name": "THOMASA",
+        "UPIN": "",
+        "Address": "2757 LEONARD ST NE",
+        "City": "GRAND RAPIDS",
+        "State": "MI",
+        "Phone": "6169542020"
+      }
+    ]
+  }
+}

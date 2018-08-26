@@ -1,0 +1,34 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "authorization_data": [
+      {
+        "Auth Number": "17285151627",
+        "Effective Dt": "10/13/2017",
+        "Expiration Dt": "10/15/2017",
+        "Processed Dt": null,
+        "Provider Id": "1255485603",
+        "Provider Name": "A & A DRUG COMPANY",
+        "Member Id": "1234567",
+        "Person Cd": "01",
+        "Last Name": null,
+        "First Name": null,
+        "NDC": "70882011330",
+        "Tier": "09",
+        "Max Days Supply Amt": 1,
+        "Max Qty Amt": 1,
+        "Max Claim Amt": 10,
+        "Comments": "J",
+        "Created By": "admin",
+        "Created Dt": "/Date(1507835791270)/",
+        "Updated By": null,
+        "Updated Dt": null,
+        "Auth Type Cd" :"0,1,2,3,4",
+        "Static Flag": "T",
+        "Prescriber NPI": "1760465553"
+      }
+
+
+    ]
+  }
+}

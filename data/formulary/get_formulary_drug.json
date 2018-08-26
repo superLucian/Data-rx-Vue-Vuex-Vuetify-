@@ -1,0 +1,213 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "formulary_drug": [
+      {
+        "form_id": 476,
+        "drug_id": "57665000101",
+        "drug_id_type_cd": "N",
+        "drug_desc_txt": "ADAGEN",
+        "drug_type_cd": "*",
+        "network_id": -1,
+        "product_type_cd": "-1",
+        "tier": "",
+        "include_exclude_ind": "I",
+        "pa_req_ind": " ",
+        "min_days": "",
+        "max_days": "",
+        "min_qty": "",
+        "max_qty": "",
+        "min_age": null,
+        "max_age": null,
+        "ds_qty_limit": "",
+        "qty_term_cd": "-1",
+        "gender": " ",
+        "effect_start_dt": "11/01/2016",
+        "effect_end_dt": "12/31/9998",
+        "msg_txt": "",
+        "created_by": "tjsadmin",
+        "created_dt": "/Date(1479271674153)/",
+        "updated_by": "",
+        "updated_dt": "/Date(-2209017600000)/"
+      }
+    ],
+    "product_type_cd_data": [
+      {
+        "product_type_cd": "WG",
+        "product_type_desc_txt": "$4 Generic"
+      },
+      {
+        "product_type_cd": "AB",
+        "product_type_desc_txt": "340B Brand Product"
+      },
+      {
+        "product_type_cd": "AG",
+        "product_type_desc_txt": "340B Generic Product"
+      },
+      {
+        "product_type_cd": "AP",
+        "product_type_desc_txt": "Alternate Plan Pricing"
+      },
+      {
+        "product_type_cd": "A1",
+        "product_type_desc_txt": "AWP+5%"
+      },
+      {
+        "product_type_cd": "A2",
+        "product_type_desc_txt": "AWP-10%"
+      },
+      {
+        "product_type_cd": "A3",
+        "product_type_desc_txt": "AWP-12%"
+      },
+      {
+        "product_type_cd": "A4",
+        "product_type_desc_txt": "AWP-13%"
+      },
+      {
+        "product_type_cd": "A5",
+        "product_type_desc_txt": "AWP-15%"
+      },
+      {
+        "product_type_cd": "A6",
+        "product_type_desc_txt": "AWP-17%"
+      },
+      {
+        "product_type_cd": "A7",
+        "product_type_desc_txt": "AWP-25%"
+      },
+      {
+        "product_type_cd": "A8",
+        "product_type_desc_txt": "AWP-30%"
+      },
+      {
+        "product_type_cd": "A9",
+        "product_type_desc_txt": "AWP-75%"
+      },
+      {
+        "product_type_cd": "11",
+        "product_type_desc_txt": "Chemical for Compounding"
+      },
+      {
+        "product_type_cd": "CF",
+        "product_type_desc_txt": "Compound Drug (Formulary)"
+      },
+      {
+        "product_type_cd": "CN",
+        "product_type_desc_txt": "Compound Drug (Non-Formulary)"
+      },
+      {
+        "product_type_cd": "DS",
+        "product_type_desc_txt": "Diabetic Supplies"
+      },
+      {
+        "product_type_cd": "EX",
+        "product_type_desc_txt": "Excluded (SNF)"
+      },
+      {
+        "product_type_cd": "FE",
+        "product_type_desc_txt": "Fee"
+      },
+      {
+        "product_type_cd": "FV",
+        "product_type_desc_txt": "Flu Vaccines"
+      },
+      {
+        "product_type_cd": "HS",
+        "product_type_desc_txt": "House Supply (SNF)"
+      },
+      {
+        "product_type_cd": "IN",
+        "product_type_desc_txt": "Insulin"
+      },
+      {
+        "product_type_cd": "IV",
+        "product_type_desc_txt": "Intravenous (SNF)"
+      },
+      {
+        "product_type_cd": "PU",
+        "product_type_desc_txt": "IV Push (SNF)"
+      },
+      {
+        "product_type_cd": "KI",
+        "product_type_desc_txt": "Kit"
+      },
+      {
+        "product_type_cd": "ME",
+        "product_type_desc_txt": "Medical Equipment/Procedure"
+      },
+      {
+        "product_type_cd": "MF",
+        "product_type_desc_txt": "Monthly Fee"
+      },
+      {
+        "product_type_cd": "07",
+        "product_type_desc_txt": "OTC/Brand Name"
+      },
+      {
+        "product_type_cd": "08",
+        "product_type_desc_txt": "OTC/Generic"
+      },
+      {
+        "product_type_cd": "09",
+        "product_type_desc_txt": "OTC/Repackaged"
+      },
+      {
+        "product_type_cd": "PD",
+        "product_type_desc_txt": "Per Diem"
+      },
+      {
+        "product_type_cd": "06",
+        "product_type_desc_txt": "Reserved"
+      },
+      {
+        "product_type_cd": "01",
+        "product_type_desc_txt": "Rx/Brand Name"
+      },
+      {
+        "product_type_cd": "05",
+        "product_type_desc_txt": "Rx/Branded Generic"
+      },
+      {
+        "product_type_cd": "02",
+        "product_type_desc_txt": "Rx/Generic"
+      },
+      {
+        "product_type_cd": "04",
+        "product_type_desc_txt": "Rx/Repackaged Brand Name Product"
+      },
+      {
+        "product_type_cd": "10",
+        "product_type_desc_txt": "Rx/Repackaged Branded Generic Product"
+      },
+      {
+        "product_type_cd": "CS",
+        "product_type_desc_txt": "Specialty Compound"
+      },
+      {
+        "product_type_cd": "S1",
+        "product_type_desc_txt": "Specialty Drug"
+      },
+      {
+        "product_type_cd": "SB",
+        "product_type_desc_txt": "Submitted Pricing"
+      },
+      {
+        "product_type_cd": "03",
+        "product_type_desc_txt": "Surgical/Device"
+      },
+      {
+        "product_type_cd": "TP",
+        "product_type_desc_txt": "Total Parenteral Nutrition"
+      },
+      {
+        "product_type_cd": "00",
+        "product_type_desc_txt": "Unknown"
+      },
+      {
+        "product_type_cd": "VO",
+        "product_type_desc_txt": "Vaccines - Other"
+      }
+    ]
+  }
+}

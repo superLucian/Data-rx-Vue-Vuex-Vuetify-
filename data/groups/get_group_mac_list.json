@@ -1,0 +1,41 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "mac_list": [
+            {
+                "pcc": null,
+                "Group": "NEW GROUP DESC",
+                "Plan ID": "123",
+                "network_id": -1,
+                "Network": "All Networks",
+                "MAC Description": "DRXMAC - DRX MAC Pricing List",
+                "Status": "A",
+                "MAC Fee": 0,
+                "Dispense Fee": 0,
+                "Group ID": 3486,
+                "MAC ID": 49,
+                "Created By": "akulchandani",
+                "Created Date": "/Date(1505277005830)/",
+                "Updated By": "",
+                "Updated Date": "/Date(-2208970800000)/"
+            },
+            {
+                "pcc": null,
+                "Group": "NEW GROUP DESC",
+                "Plan ID": "789",
+                "network_id": -1,
+                "Network": "All Networks",
+                "MAC Description": "DRXMAC - DRX MAC Pricing List",
+                "Status": "A",
+                "MAC Fee": 0,
+                "Dispense Fee": 0,
+                "Group ID": 3486,
+                "MAC ID": 49,
+                "Created By": "akulchandani",
+                "Created Date": "/Date(1505283894750)/",
+                "Updated By": "",
+                "Updated Date": "/Date(-2208970800000)/"
+            }
+        ]
+    }
+}

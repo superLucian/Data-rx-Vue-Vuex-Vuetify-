@@ -1,0 +1,33 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network_provider_list": [
+      {
+        "pid": 156508,
+        "NABP": "5653402",
+        "NPI": "1619374006",
+        "Provider Name": "AAA COMPOUNDING PHARMACY",
+        "Store ID": "888",
+        "Address": "7921 WESTMINSTER BLVD",
+        "City": "WESTMINSTER",
+        "State": "CA",
+        "Zip Code": "926834001",
+        "Phone Number": "7149886888",
+        "Spec Pgm Ind": "N"
+      },
+      {
+        "pid": 148530,
+        "NABP": "2135576",
+        "NPI": "1750684346",
+        "Provider Name": "ASD CENTERS LLC",
+        "Store ID": "",
+        "Address": "14 REDGATE CT",
+        "City": "SILVER SPRING",
+        "State": "MD",
+        "Zip Code": "209055726",
+        "Phone Number": "3019890548",
+        "Spec Pgm Ind": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "chain_list": [
+      {
+        "Chain Name": "ACCREDO",
+        "Description": "ACCREDO PHARMACIES",
+        "Network ID": 1142,
+        "Chain ID": 69
+      },
+      {
+        "Chain Name": "ADS",
+        "Description": "THE NEW ALBERTSONS",
+        "Network ID": 1142,
+        "Chain ID": 3
+      },
+      {
+        "Chain Name": "BROOKSHIRE'S",
+        "Description": "BROOKSHIRE GROCERY COMPANY PHARMACY",
+        "Network ID": 1142,
+        "Chain ID": 65
+      }
+    ]
+  }
+}

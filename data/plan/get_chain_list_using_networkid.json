@@ -1,0 +1,13 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "chain_list": [
+      {
+        "Chain Name": "ACCREDO",
+        "Description": "ACCREDO PHARMACIES",
+        "Network ID": 1001,
+        "Chain ID": 69
+      }
+    ]
+  }
+}

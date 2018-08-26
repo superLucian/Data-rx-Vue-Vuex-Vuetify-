@@ -1,0 +1,195 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "wholesaler_list": [
+      {
+        "wholesaler_id": 7,
+        "wholesaler_name": "ABergen"
+      },
+      {
+        "wholesaler_id": 8,
+        "wholesaler_name": "HDSmith"
+      },
+      {
+        "wholesaler_id": 9,
+        "wholesaler_name": "SmithDrug"
+      },
+      {
+        "wholesaler_id": 10,
+        "wholesaler_name": "Cardinal"
+      },
+      {
+        "wholesaler_id": 11,
+        "wholesaler_name": "McKesson"
+      },
+      {
+        "wholesaler_id": 12,
+        "wholesaler_name": "McKessonTest"
+      },
+      {
+        "wholesaler_id": 13,
+        "wholesaler_name": "Cardinal NHCAC"
+      },
+      {
+        "wholesaler_id": 15,
+        "wholesaler_name": "CARDINAL QLHS"
+      },
+      {
+        "wholesaler_id": 21,
+        "wholesaler_name": "ABERGEN FRMC"
+      },
+      {
+        "wholesaler_id": 23,
+        "wholesaler_name": "MCKESSON FHI"
+      },
+      {
+        "wholesaler_id": 25,
+        "wholesaler_name": "MCKESSON TCMH"
+      },
+      {
+        "wholesaler_id": 27,
+        "wholesaler_name": "CARDINAL JRMC"
+      },
+      {
+        "wholesaler_id": 29,
+        "wholesaler_name": "HDSmith LPR"
+      },
+      {
+        "wholesaler_id": 31,
+        "wholesaler_name": "SmithDrug CHOICERX"
+      },
+      {
+        "wholesaler_id": 32,
+        "wholesaler_name": "SmithDrug TRMH"
+      },
+      {
+        "wholesaler_id": 33,
+        "wholesaler_name": "SmithDrug SWGHC"
+      },
+      {
+        "wholesaler_id": 35,
+        "wholesaler_name": "ABergen AAPHC"
+      },
+      {
+        "wholesaler_id": 37,
+        "wholesaler_name": "McKesson RMHC"
+      },
+      {
+        "wholesaler_id": 38,
+        "wholesaler_name": "MDickson"
+      },
+      {
+        "wholesaler_id": 40,
+        "wholesaler_name": "MDickson GSMC"
+      },
+      {
+        "wholesaler_id": 41,
+        "wholesaler_name": "MDickson CCMH"
+      },
+      {
+        "wholesaler_id": 42,
+        "wholesaler_name": "HDSmith SWMH"
+      },
+      {
+        "wholesaler_id": 43,
+        "wholesaler_name": "Cardinal NHCAC2"
+      },
+      {
+        "wholesaler_id": 44,
+        "wholesaler_name": "McKesson VNACJCHC"
+      },
+      {
+        "wholesaler_id": 45,
+        "wholesaler_name": "Cardinal BTAMC"
+      },
+      {
+        "wholesaler_id": 46,
+        "wholesaler_name": "CARDINAL SMHCS"
+      },
+      {
+        "wholesaler_id": 47,
+        "wholesaler_name": "KINRAY"
+      },
+      {
+        "wholesaler_id": 48,
+        "wholesaler_name": "RDC ICL"
+      },
+      {
+        "wholesaler_id": 49,
+        "wholesaler_name": "ABergen NMDC"
+      },
+      {
+        "wholesaler_id": 50,
+        "wholesaler_name": "RDC"
+      },
+      {
+        "wholesaler_id": 52,
+        "wholesaler_name": "SmithDrug PCSWGA"
+      },
+      {
+        "wholesaler_id": 53,
+        "wholesaler_name": "CARDINAL DONH"
+      },
+      {
+        "wholesaler_id": 54,
+        "wholesaler_name": "MCKESSON CRMC"
+      },
+      {
+        "wholesaler_id": 55,
+        "wholesaler_name": "HDSmith BBHC"
+      },
+      {
+        "wholesaler_id": 56,
+        "wholesaler_name": "CARDINAL HBCH"
+      },
+      {
+        "wholesaler_id": 57,
+        "wholesaler_name": "HDSmith KCHD"
+      },
+      {
+        "wholesaler_id": 58,
+        "wholesaler_name": "CARDINAL ORMC"
+      },
+      {
+        "wholesaler_id": 59,
+        "wholesaler_name": "HDSmith SCHA"
+      },
+      {
+        "wholesaler_id": 60,
+        "wholesaler_name": "DAKOTA PCMHA"
+      },
+      {
+        "wholesaler_id": 61,
+        "wholesaler_name": "McKesson UCHC"
+      },
+      {
+        "wholesaler_id": 62,
+        "wholesaler_name": "CARDINAL MFHC"
+      },
+      {
+        "wholesaler_id": 63,
+        "wholesaler_name": "CARDINAL GCHC"
+      },
+      {
+        "wholesaler_id": 70,
+        "wholesaler_name": "MCKESSON PCMHAT"
+      },
+      {
+        "wholesaler_id": 71,
+        "wholesaler_name": "ABERGEN TRMHCC"
+      },
+      {
+        "wholesaler_id": 72,
+        "wholesaler_name": "CARDINAL DECK"
+      },
+      {
+        "wholesaler_id": 73,
+        "wholesaler_name": "CARDINAL HCCLCWB"
+      },
+      {
+        "wholesaler_id": 74,
+        "wholesaler_name": "MDICKSON HCCLCWH"
+      }
+    ]
+  }
+}

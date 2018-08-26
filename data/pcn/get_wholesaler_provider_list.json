@@ -1,0 +1,33 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "wholesaler_provider_list": [
+      {
+        "Provider Name": "RITE AID",
+        "pid": 1504,
+        "Account#": "123",
+        "NABP": "0128416",
+        "NPI": "1699781989",
+        "Name": "RITE AID",
+        "Address1": "2302 WHITESBURG DR S",
+        "Address2": "",
+        "City": "HUNTSVILLE",
+        "State": "AL",
+        "Zip": "358013818"
+      },
+      {
+        "Provider Name": "RITE",
+        "pid": 1504,
+        "Account#": "1234567890",
+        "NABP": "0128416",
+        "NPI": "1699781989",
+        "Name": "RITE AID",
+        "Address1": "2302 WHITESBURG DR S",
+        "Address2": "",
+        "City": "HUNTSVILLE",
+        "State": "AL",
+        "Zip": "358013818"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+
+{
+   "d": {
+       "__type": "System.Data.DataSet",
+       "compound_ingredient_list": [
+           {
+               "Ingredient#": 1,
+               "NDC": "51552128804",
+               "Product Name": "TRAMADOL HCL",
+               "Strength": "",
+               "Qty": 1.5,
+               "Drug TYPE": "Rx/Generic",
+               "Ingredient Amt": 31.77,
+               "Pricing Source": "Pricing Parameters",
+               "Reject Codes": ""
+           },
+           {
+               "Ingredient#": 2,
+               "NDC": "51552116706",
+               "Product Name": "Unknown Product",
+               "Strength": "",
+               "Qty": 150,
+               "Drug TYPE": "",
+               "Ingredient Amt": 0,
+               "Pricing Source": "Other",
+               "Reject Codes": "54"
+           }
+       ]
+   }
+}

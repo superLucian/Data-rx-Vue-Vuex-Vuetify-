@@ -1,0 +1,22 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network": [
+      {
+        "network_id": 1146,
+        "type_cd": "D",
+        "status_cd": "A",
+        "pcc": "340BASICS",
+        "desc_txt": "DESC",
+        "comment_txt": "A",
+        "created_by": "admin",
+        "created_dt": "/Date(1506401837660)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1506401955110)/",
+        "deleted_by": null,
+        "deleted_dt": null,
+        "contract_id": 131
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "mpp_drug_list": [
+      {
+        "mpp_id": 55,
+        "Zip Code": "MINNESOTA",
+        "Price Code": "Chain Med",
+        "Drug ID": "78310000000300",
+        "Product Description": "A THRU Z ADVANCED  TABS",
+        "price_cd": "03",
+        "Drug Type": "Generic"
+      },
+      {
+        "mpp_id": 55,
+        "Zip Code": "MINNESOTA",
+        "Price Code": "Indep Med",
+        "Drug ID": "78310000000300",
+        "Product Description": "A THRU Z ADVANCED  TABS",
+        "price_cd": "06",
+        "Drug Type": "Generic"
+      },
+      {
+        "mpp_id": 55,
+        "Zip Code": "MINNESOTA",
+        "Price Code": "Mass Med",
+        "Drug ID": "78310000000300",
+        "Product Description": "A THRU Z ADVANCED  TABS",
+        "price_cd": "09",
+        "Drug Type": "Generic"
+      }
+    ]
+  }
+}

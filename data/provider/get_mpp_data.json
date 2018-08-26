@@ -1,0 +1,65 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "mpp_id": [
+      {
+        "mpp_id": 35,
+        "desc": "35  ALABAMA",
+        "desc_txt": "ALABAMA"
+      },
+      {
+        "mpp_id": 36,
+        "desc": "36  ALABAMA",
+        "desc_txt": "ALABAMA"
+      },
+      {
+        "mpp_id": 99,
+        "desc": "99  ALASKA/WASHINGTON",
+        "desc_txt": "ALASKA/WASHINGTON"
+      },
+      {
+        "mpp_id": 85,
+        "desc": "85  ARIZONA",
+        "desc_txt": "ARIZONA"
+      }
+    ],
+    "price_cd": [
+      {
+        "field_value": "01",
+        "desc_txt": "Chain Min"
+      },
+      {
+        "field_value": "02",
+        "desc_txt": "Chain Max"
+      },
+      {
+        "field_value": "03",
+        "desc_txt": "Chain Med"
+      },
+      {
+        "field_value": "04",
+        "desc_txt": "Indep Min"
+      },
+      {
+        "field_value": "05",
+        "desc_txt": "Indep Max"
+      },
+      {
+        "field_value": "06",
+        "desc_txt": "Indep Med"
+      },
+      {
+        "field_value": "07",
+        "desc_txt": "Mass Min"
+      },
+      {
+        "field_value": "08",
+        "desc_txt": "Mass Max"
+      },
+      {
+        "field_value": "09",
+        "desc_txt": "Mass Med"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "d": {
+    "__type": "DataRx.Data.Pbmsys.EntityFramework.GroupMac",
+    "GroupId": 2348,
+    "PlanId": "340B TEST",
+    "NetworkId": 716,
+    "MacId": 70,
+    "Description": "Cardinal NHCAC 340B MAC list",
+    "IsActive": true,
+    "EffectiveStartDate": "\/Date(1359993600000)\/",
+    "EffectiveEndDate": "\/Date(253370649600000)\/",
+    "MacFee": 1.00,
+    "DispenseFee": null,
+    "Rank": 15,
+    "DeletedBy": null,
+    "DeletedDate": null,
+    "Group": null,
+    "Mac": null,
+    "CreatedBy": "nmerriman",
+    "CreatedDate": "\/Date(1360042569003)\/",
+    "UpdatedBy": "swalker",
+    "UpdatedDate": "\/Date(1494299221877)\/"
+  }
+}

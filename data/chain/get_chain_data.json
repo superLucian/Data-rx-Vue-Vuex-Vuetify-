@@ -1,0 +1,24 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "chain_list": [
+      {
+        "Chain ID": 3,
+        "Chain Name": "ADS",
+        "Reference ID": "75",
+        "Description": "THE NEW ALBERTSONS",
+        "Contact": "",
+        "Address 1": "3030 CULLERTON ST",
+        "Address 2": "",
+        "City": "FRANKLIN PARK",
+        "State": "IL",
+        "Zip": "601315",
+        "Status": "A",
+        "updated_by": "swalker",
+        "created_by": "tjsadmin",
+        "updated_dt": "/Date(1418256822133)/",
+        "created_dt": "/Date(1124726400000)/"
+      }
+    ]
+  }
+}

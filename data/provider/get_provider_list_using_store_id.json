@@ -1,0 +1,20 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "provider_list": [
+      {
+        "pid": 154181,
+        "NPI": "1093143570",
+        "NAPB": "5716533",
+        "Name": "ERGOGENIC LABS LLC",
+        "Store Number": "27127",
+        "Address": "11496 PIERSON RD C-6",
+        "City": "WELLINGTON",
+        "State": "FL",
+        "Zip Code": "33414",
+        "Phone Number": "5614082361",
+        "Fax Number": "5614082365"
+      }
+    ]
+  }
+}

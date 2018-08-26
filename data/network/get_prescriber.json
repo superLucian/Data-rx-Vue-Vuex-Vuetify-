@@ -1,0 +1,31 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "prescriber": [
+      {
+        "npi": "1255630869",
+        "lname": "AABERG",
+        "fname": "MAURA",
+        "mname": "",
+        "title_txt": "C.N.M., W.H.",
+        "upin": null,
+        "spin": null,
+        "fed_license_num": null,
+        "state_license_num": null,
+        "addr1_txt": "5507 11TH AVE",
+        "addr2_txt": "",
+        "city_txt": "BROOKLYN",
+        "state_cd": "NY",
+        "zip_cd": "112194136",
+        "phone_num": "7188547385",
+        "fax_num": "1234",
+        "email_addr_txt": null,
+        "comment_txt": null,
+        "created_by": "NPPES",
+        "created_dt": "/Date(1305960494107)/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ]
+  }
+}

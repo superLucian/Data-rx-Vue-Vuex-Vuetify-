@@ -1,0 +1,18 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "spec_program_list": [
+            {
+                "Program Name": "APPRORx Generic Drug List ",
+                "Status": "A",
+                "Basis": "Days Supply & Quantity Pricing",
+                "Fee": 0,
+                "Program ID": 22,
+                "Created By": "slbadmin",
+                "Created Date": "/Date(1233158400000)/",
+                "Updated By": null,
+                "Updated Date": null
+            }
+        ]
+    }
+}

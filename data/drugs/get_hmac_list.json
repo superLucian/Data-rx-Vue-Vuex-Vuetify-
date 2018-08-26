@@ -1,0 +1,2559 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "hmac_list": [
+      {
+        "Generic DID": "24359",
+        "GCN": "",
+        "Name": "ACETAMINOPHEN/CODEINE",
+        "Strength": "300 MG-60 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "330",
+        "GCN": "",
+        "Name": "ACETYLCYSTEINE",
+        "Strength": "10%",
+        "Price": 0.1167,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "24418",
+        "GCN": "43790",
+        "Name": "ACYCLOVIR",
+        "Strength": "200 MG",
+        "Price": 0.14,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "24422",
+        "GCN": "13721",
+        "Name": "ACYCLOVIR",
+        "Strength": "800 MG",
+        "Price": 0.2,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "680",
+        "GCN": "41681",
+        "Name": "ALBUTEROL SULFATE",
+        "Strength": "0.08%",
+        "Price": 0.115,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "681",
+        "GCN": "41680",
+        "Name": "ALBUTEROL SULFATE",
+        "Strength": "0.50%",
+        "Price": 0.35,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "916",
+        "GCN": "",
+        "Name": "ALPRAZOLAM",
+        "Strength": "2 MG",
+        "Price": 0.265,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "913",
+        "GCN": "14260",
+        "Name": "ALPRAZOLAM",
+        "Strength": "0.25 MG",
+        "Price": 0.205,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "914",
+        "GCN": "14261",
+        "Name": "ALPRAZOLAM",
+        "Strength": "0.5 MG",
+        "Price": 0.225,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "915",
+        "GCN": "14262",
+        "Name": "ALPRAZOLAM",
+        "Strength": "1 MG",
+        "Price": 0.245,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "995",
+        "GCN": "",
+        "Name": "AMANTADINE HCL",
+        "Strength": "50 MG/5 ML",
+        "Price": 0.0875,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "24680",
+        "GCN": "10920",
+        "Name": "AMIODARONE HCL",
+        "Strength": "200 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1127",
+        "GCN": "15270",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.19,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1128",
+        "GCN": "16513",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "100 MG",
+        "Price": 0.27,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1129",
+        "GCN": "",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "150 MG",
+        "Price": 0.28,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1130",
+        "GCN": "15273",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.21,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1131",
+        "GCN": "15274",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "50 MG",
+        "Price": 0.23,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1132",
+        "GCN": "15275",
+        "Name": "AMITRIPTYLINE HCL",
+        "Strength": "75 MG",
+        "Price": 0.25,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1158",
+        "GCN": "39661",
+        "Name": "AMOXICILLIN",
+        "Strength": "500 MG",
+        "Price": 0.35,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1160",
+        "GCN": "39681",
+        "Name": "AMOXICILLIN",
+        "Strength": "125 MG/5 ML",
+        "Price": 0.07,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1161",
+        "GCN": "39683",
+        "Name": "AMOXICILLIN",
+        "Strength": "250 MG/5 ML",
+        "Price": 0.0467,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "1180",
+        "GCN": "",
+        "Name": "AMPICILLIN",
+        "Strength": "250 MG",
+        "Price": 0.175,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "24358",
+        "GCN": "",
+        "Name": "APAP/CODEINE",
+        "Strength": "300 MG-30 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "40158",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "500 MG-2.5 MG",
+        "Price": 0.175,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "40159",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "500 MG-7.5 MG",
+        "Price": 0.2743,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "40161",
+        "GCN": "70335",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "750 MG-7.5 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "40162",
+        "GCN": "70331",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "500 MG-5 MG",
+        "Price": 0.0833,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "66149",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "325 MG-10 MG",
+        "Price": 0.2567,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "49362",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "500 MG-10 MG",
+        "Price": 0.217,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "50992",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "650 MG-10 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "85174",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "500 MG/15 ML-7.5 MG/15 ML",
+        "Price": 0.05,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "79825",
+        "GCN": "",
+        "Name": "APAP/HYDROCODONE BITARTRATE",
+        "Strength": "325 MG-7.5 MG",
+        "Price": 0.2743,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30301",
+        "GCN": "",
+        "Name": "APAP/PROPOXYPHENE NAPSYLATE",
+        "Strength": "650 MG-100 MG",
+        "Price": 0.18,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2011",
+        "GCN": "20662",
+        "Name": "ATENOLOL",
+        "Strength": "25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2012",
+        "GCN": "20661",
+        "Name": "ATENOLOL",
+        "Strength": "50 MG",
+        "Price": 0.4951,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2070",
+        "GCN": "",
+        "Name": "ATROPINE SULFATE",
+        "Strength": "1%",
+        "Price": 0.565,
+        "Status": "I"
+      },
+      {
+        "Generic DID": "2070",
+        "GCN": "",
+        "Name": "ATROPINE SULFATE",
+        "Strength": "1%",
+        "Price": 2,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2070",
+        "GCN": "",
+        "Name": "ATROPINE SULFATE",
+        "Strength": "1%",
+        "Price": 0.5,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2070",
+        "GCN": "",
+        "Name": "ATROPINE SULFATE",
+        "Strength": "1%",
+        "Price": 0.375,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6787",
+        "GCN": "65030",
+        "Name": "ATROPINE SULFATE/DIPHENOXYLATE HCL",
+        "Strength": "0.025 MG-2.5 MG",
+        "Price": 0.1088,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2388",
+        "GCN": "18010",
+        "Name": "BACLOFEN",
+        "Strength": "10 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2389",
+        "GCN": "18011",
+        "Name": "BACLOFEN",
+        "Strength": "20 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2762",
+        "GCN": "29840",
+        "Name": "BENZONATATE",
+        "Strength": "100 MG",
+        "Price": 0.4387,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "62909",
+        "GCN": "",
+        "Name": "BENZONATATE",
+        "Strength": "200 MG",
+        "Price": 0.7328,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2776",
+        "GCN": "",
+        "Name": "BENZTROPINE MESYLATE",
+        "Strength": "0.5 MG",
+        "Price": 0.2828,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "2777",
+        "GCN": "17621",
+        "Name": "BENZTROPINE MESYLATE",
+        "Strength": "1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "69228",
+        "GCN": "67160",
+        "Name": "BETAMETHASONE/CLOTRIMAZOLE",
+        "Strength": "0.05%-1%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46421",
+        "GCN": "45062",
+        "Name": "BISOPROLOL/HCTZ",
+        "Strength": "5 MG-6.25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25477",
+        "GCN": "35021",
+        "Name": "BUMETANIDE",
+        "Strength": "1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25478",
+        "GCN": "35022",
+        "Name": "BUMETANIDE",
+        "Strength": "2 MG",
+        "Price": 0.6207,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "84762",
+        "GCN": "16386",
+        "Name": "BUPROPION HCL",
+        "Strength": "150 MG",
+        "Price": 0.9633,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25493",
+        "GCN": "28891",
+        "Name": "BUSPIRONE HCL",
+        "Strength": "10 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25494",
+        "GCN": "28890",
+        "Name": "BUSPIRONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "44756",
+        "GCN": "28892",
+        "Name": "BUSPIRONE HCL",
+        "Strength": "15 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25724",
+        "GCN": "01481",
+        "Name": "CAPTOPRIL",
+        "Strength": "25 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "3874",
+        "GCN": "17450",
+        "Name": "CARBAMAZEPINE",
+        "Strength": "200 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25748",
+        "GCN": "",
+        "Name": "CARBIDOPA/LEVODOPA",
+        "Strength": "10 MG-100 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25749",
+        "GCN": "62741",
+        "Name": "CARBIDOPA/LEVODOPA",
+        "Strength": "25 MG-100 MG",
+        "Price": 0.3739,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25750",
+        "GCN": "",
+        "Name": "CARBIDOPA/LEVODOPA",
+        "Strength": "25 MG-250 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "3943",
+        "GCN": "17912",
+        "Name": "CARISOPRODOL",
+        "Strength": "350 MG",
+        "Price": 0.2643,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25906",
+        "GCN": "47281",
+        "Name": "CEFUROXIME AXETIL",
+        "Strength": "250 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25915",
+        "GCN": "39801",
+        "Name": "CEPHALEXIN",
+        "Strength": "250 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25917",
+        "GCN": "39802",
+        "Name": "CEPHALEXIN",
+        "Strength": "500 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "25984",
+        "GCN": "",
+        "Name": "CHLORHEXIDINE GLUCONATE",
+        "Strength": "0.12%",
+        "Price": 0.0148,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "4519",
+        "GCN": "",
+        "Name": "CHLORPROMAZINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.3408,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "4531",
+        "GCN": "17901",
+        "Name": "CHLORZOXAZONE",
+        "Strength": "500 MG",
+        "Price": 0.125,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26225",
+        "GCN": "",
+        "Name": "CHOLESTYRAMINE",
+        "Strength": "4 GM/9 GM",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26230",
+        "GCN": "",
+        "Name": "CHOLINE MAGNESIUM TRISALICYLATE",
+        "Strength": "500 MG",
+        "Price": 0.3095,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26231",
+        "GCN": "",
+        "Name": "CHOLINE MAGNESIUM TRISALICYLATE",
+        "Strength": "750 MG",
+        "Price": 0.3254,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "59829",
+        "GCN": "47050",
+        "Name": "CIPROFLOXACIN",
+        "Strength": "250 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "59831",
+        "GCN": "47051",
+        "Name": "CIPROFLOXACIN",
+        "Strength": "500 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "56846",
+        "GCN": "16343",
+        "Name": "CITALOPRAM HYDROBROMIDE",
+        "Strength": "40 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "50847",
+        "GCN": "16342",
+        "Name": "CITALOPRAM HYDROBROMIDE",
+        "Strength": "20 MG",
+        "Price": 0.7778,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "75613",
+        "GCN": "31770",
+        "Name": "CLINDAMYCIN PHOSPHATE",
+        "Strength": "1%",
+        "Price": 0.1167,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26364",
+        "GCN": "17470",
+        "Name": "CLONAZEPAM",
+        "Strength": "0.5 MG",
+        "Price": 0.2455,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26365",
+        "GCN": "17471",
+        "Name": "CLONAZEPAM",
+        "Strength": "1 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26366",
+        "GCN": "17472",
+        "Name": "CLONAZEPAM",
+        "Strength": "2 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "4756",
+        "GCN": "01390",
+        "Name": "CLONIDINE HCL",
+        "Strength": "0.1 MG",
+        "Price": 0.35,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "4757",
+        "GCN": "01391",
+        "Name": "CLONIDINE HCL",
+        "Strength": "0.2 MG",
+        "Price": 0.28,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "4758",
+        "GCN": "01392",
+        "Name": "CLONIDINE HCL",
+        "Strength": "0.3 MG",
+        "Price": 0.28,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "5573",
+        "GCN": "18020",
+        "Name": "CYCLOBENZAPRINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "5787",
+        "GCN": "",
+        "Name": "DANAZOL",
+        "Strength": "200 MG",
+        "Price": 3.84,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "26628",
+        "GCN": "",
+        "Name": "DEMECLOCYCLINE HCL",
+        "Strength": "150 MG",
+        "Price": 5.5458,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6248",
+        "GCN": "",
+        "Name": "DESONIDE",
+        "Strength": "0.05%",
+        "Price": 0.1167,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6309",
+        "GCN": "27426",
+        "Name": "DEXAMETHASONE",
+        "Strength": "2 MG",
+        "Price": 0.615,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6310",
+        "GCN": "27428",
+        "Name": "DEXAMETHASONE",
+        "Strength": "4 MG",
+        "Price": 0.222,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6505",
+        "GCN": "14220",
+        "Name": "DIAZEPAM",
+        "Strength": "10 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6506",
+        "GCN": "14221",
+        "Name": "DIAZEPAM",
+        "Strength": "2 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6507",
+        "GCN": "14222",
+        "Name": "DIAZEPAM",
+        "Strength": "5 MG",
+        "Price": 0.1947,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "40985",
+        "GCN": "35851",
+        "Name": "DICLOFENAC SODIUM",
+        "Strength": "50 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6552",
+        "GCN": "19331",
+        "Name": "DICYCLOMINE HCL",
+        "Strength": "20 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6619",
+        "GCN": "00132",
+        "Name": "DIGOXIN",
+        "Strength": "0.125 MG",
+        "Price": 0.636,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6620",
+        "GCN": "00133",
+        "Name": "DIGOXIN",
+        "Strength": "0.25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "6671",
+        "GCN": "",
+        "Name": "DILTIAZEM HCL",
+        "Strength": "30 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7035",
+        "GCN": "",
+        "Name": "DOXEPIN HCL",
+        "Strength": "10 MG",
+        "Price": 0.22,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7038",
+        "GCN": "15363",
+        "Name": "DOXEPIN HCL",
+        "Strength": "25 MG",
+        "Price": 0.23,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7039",
+        "GCN": "15364",
+        "Name": "DOXEPIN HCL",
+        "Strength": "50 MG",
+        "Price": 0.24,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7040",
+        "GCN": "",
+        "Name": "DOXEPIN HCL",
+        "Strength": " 75 MG",
+        "Price": 0.25,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7065",
+        "GCN": "40331",
+        "Name": "DOXYCYCLINE HYCLATE",
+        "Strength": "100 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7067",
+        "GCN": "40360",
+        "Name": "DOXYCYCLINE HYCLATE",
+        "Strength": "100 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "3087",
+        "GCN": "",
+        "Name": "DULCOLAX",
+        "Strength": "10 MG",
+        "Price": 0.5517,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27120",
+        "GCN": "00961",
+        "Name": "ENALAPRIL MALEATE",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27121",
+        "GCN": "",
+        "Name": "ENALAPRIL MALEATE",
+        "Strength": "2.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27122",
+        "GCN": "00962",
+        "Name": "ENALAPRIL MALEATE",
+        "Strength": "20 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27123",
+        "GCN": "00960",
+        "Name": "ENALAPRIL MALEATE",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "7807",
+        "GCN": "33540",
+        "Name": "ERYTHROMYCIN",
+        "Strength": "5 MG/GM",
+        "Price": 1.75,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27341",
+        "GCN": "",
+        "Name": "ETODOLAC",
+        "Strength": "200 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27343",
+        "GCN": "61761",
+        "Name": "ETODOLAC",
+        "Strength": "400 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27367",
+        "GCN": "46430",
+        "Name": "FAMOTIDINE",
+        "Strength": "20 MG",
+        "Price": 0.15,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65036",
+        "GCN": "19200",
+        "Name": "FENTANYL",
+        "Strength": "25 MCG/HR",
+        "Price": 10.257,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65037",
+        "GCN": "19201",
+        "Name": "FENTANYL",
+        "Strength": "50 MCG/HR",
+        "Price": 19.1625,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65038",
+        "GCN": "19202",
+        "Name": "FENTANYL",
+        "Strength": "75 MCG/HR",
+        "Price": 26.806,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65039",
+        "GCN": "19203",
+        "Name": "FENTANYL",
+        "Strength": "100 MCG/HR",
+        "Price": 32.8672,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27461",
+        "GCN": "",
+        "Name": "FLECAINIDE ACETATE",
+        "Strength": "50 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27471",
+        "GCN": "42190",
+        "Name": "FLUCONAZOLE",
+        "Strength": "100 MG",
+        "Price": 1.75,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27472",
+        "GCN": "42191",
+        "Name": "FLUCONAZOLE",
+        "Strength": "200 MG",
+        "Price": 1.75,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "36392",
+        "GCN": "42193",
+        "Name": "FLUCONAZOLE",
+        "Strength": "150 MG",
+        "Price": 3.7517,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "50933",
+        "GCN": "16355",
+        "Name": "FLUOXETINE HCL",
+        "Strength": "40 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27520",
+        "GCN": "16353",
+        "Name": "FLUOXETINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.4992,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27521",
+        "GCN": "16354",
+        "Name": "FLUOXETINE HCL",
+        "Strength": "20 MG",
+        "Price": 0.252,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8666",
+        "GCN": "",
+        "Name": "FLURAZEPAM HCL",
+        "Strength": "15 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8709",
+        "GCN": "94781",
+        "Name": "FOLIC ACID",
+        "Strength": "1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8862",
+        "GCN": "",
+        "Name": "FUROSEMIDE",
+        "Strength": "10 MG/ML",
+        "Price": 0.19,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8864",
+        "GCN": "34961",
+        "Name": "FUROSEMIDE",
+        "Strength": "20 MG",
+        "Price": 0.175,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8865",
+        "GCN": "34962",
+        "Name": "FUROSEMIDE",
+        "Strength": "40 MG",
+        "Price": 0.205,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "8866",
+        "GCN": "34963",
+        "Name": "FUROSEMIDE",
+        "Strength": "80 MG",
+        "Price": 0.225,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46441",
+        "GCN": "00782",
+        "Name": "GABAPENTIN",
+        "Strength": "400 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46442",
+        "GCN": "00781",
+        "Name": "GABAPENTIN",
+        "Strength": "300 MG",
+        "Price": 0.2551,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46443",
+        "GCN": "00780",
+        "Name": "GABAPENTIN",
+        "Strength": "100 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "61185",
+        "GCN": "94624",
+        "Name": "GABAPENTIN",
+        "Strength": "600 MG",
+        "Price": 0.5544,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "61186",
+        "GCN": "94447",
+        "Name": "GABAPENTIN",
+        "Strength": "800 MG",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9161",
+        "GCN": "",
+        "Name": "GENTAMICIN SULFATE",
+        "Strength": "40 MG/ML",
+        "Price": 2.1398,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9163",
+        "GCN": "33600",
+        "Name": "GENTAMICIN SULFATE",
+        "Strength": "3 MG/ML",
+        "Price": 1.4,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9158",
+        "GCN": "",
+        "Name": "GENTAMICIN SULFATE",
+        "Strength": "0.10%",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "42897",
+        "GCN": "05832",
+        "Name": "GLIMEPIRIDE",
+        "Strength": "2 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27642",
+        "GCN": "10840",
+        "Name": "GLIPIZIDE",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27664",
+        "GCN": "05711",
+        "Name": "GLYBURIDE",
+        "Strength": "2.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9379",
+        "GCN": "05712",
+        "Name": "GLYBURIDE",
+        "Strength": "5 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "85004",
+        "GCN": "",
+        "Name": "Guaifenesin Tab SR 12HR 600 MG",
+        "Strength": "600 MG",
+        "Price": 0.4092,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9662",
+        "GCN": "",
+        "Name": "HALOPERIDOL",
+        "Strength": "0.5 MG",
+        "Price": 0.2794,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9663",
+        "GCN": "",
+        "Name": "HALOPERIDOL",
+        "Strength": "1 MG",
+        "Price": 0.295,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9665",
+        "GCN": "",
+        "Name": "HALOPERIDOL",
+        "Strength": "2 MG",
+        "Price": 0.315,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9667",
+        "GCN": "",
+        "Name": "HALOPERIDOL",
+        "Strength": "5 MG",
+        "Price": 0.2794,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9669",
+        "GCN": "",
+        "Name": "HALOPERIDOL",
+        "Strength": "2 MG/ML",
+        "Price": 0.1369,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "9668",
+        "GCN": "",
+        "Name": "HALOPERIDOL LACTATE INJ",
+        "Strength": "5 MG/ML",
+        "Price": 7.6,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28363",
+        "GCN": "88000",
+        "Name": "HCTZ/LISINOPRIL",
+        "Strength": "12.5 MG-20 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "34366",
+        "GCN": "88731",
+        "Name": "HCTZ/TRIAMTERENE",
+        "Strength": "25 MG-37.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "22115",
+        "GCN": "88741",
+        "Name": "HCTZ/TRIAMTERENE",
+        "Strength": "25 MG-37.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10200",
+        "GCN": "96040",
+        "Name": "HOMATROPINE/HYDROCODONE",
+        "Strength": "1.5 MG/5 ML-5 MG/5 ML",
+        "Price": 0.0892,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10190",
+        "GCN": "34824",
+        "Name": "HYDROCHLOROTHIAZIDE",
+        "Strength": "25 MG",
+        "Price": 0.215,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10191",
+        "GCN": "34825",
+        "Name": "HYDROCHLOROTHIAZIDE",
+        "Strength": "50 MG",
+        "Price": 0.235,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "47677",
+        "GCN": "34820",
+        "Name": "HYDROCHLOROTHIAZIDE",
+        "Strength": "12.5 MG",
+        "Price": 0.5578,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10209",
+        "GCN": "",
+        "Name": "HYDROCORTISONE",
+        "Strength": "1%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10210",
+        "GCN": "30943",
+        "Name": "HYDROCORTISONE",
+        "Strength": "2.50%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10216",
+        "GCN": "",
+        "Name": "HYDROCORTISONE",
+        "Strength": "1%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10277",
+        "GCN": "16143",
+        "Name": "HYDROMORPHONE HCL",
+        "Strength": "4 MG",
+        "Price": 0.3378,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10335",
+        "GCN": "",
+        "Name": "HYDROXYZINE HCL",
+        "Strength": "10 MG/5ML",
+        "Price": 0.175,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10336",
+        "GCN": "13941",
+        "Name": "HYDROXYZINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10338",
+        "GCN": "13943",
+        "Name": "HYDROXYZINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10339",
+        "GCN": "13944",
+        "Name": "HYDROXYZINE HCL",
+        "Strength": "50 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10342",
+        "GCN": "13952",
+        "Name": "HYDROXYZINE PAMOATE",
+        "Strength": "25 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "44048",
+        "GCN": "18970",
+        "Name": "HYOSCYAMINE SULFATE",
+        "Strength": "0.125 MG",
+        "Price": 0.504,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64684",
+        "GCN": "",
+        "Name": "HYOSCYAMINE SULFATE",
+        "Strength": "0.375 MG",
+        "Price": 0.5137,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27912",
+        "GCN": "",
+        "Name": "IBUPROFEN",
+        "Strength": "100 MG/5 ML",
+        "Price": 0.075,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10518",
+        "GCN": "35741",
+        "Name": "IBUPROFEN",
+        "Strength": "400 MG",
+        "Price": 0.0493,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10519",
+        "GCN": "35742",
+        "Name": "IBUPROFEN",
+        "Strength": "600 MG",
+        "Price": 0.0573,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10520",
+        "GCN": "35744",
+        "Name": "IBUPROFEN",
+        "Strength": "800 MG",
+        "Price": 0.059,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "10582",
+        "GCN": "15203",
+        "Name": "IMIPRAMINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "27943",
+        "GCN": "07311",
+        "Name": "INDAPAMIDE",
+        "Strength": "1.25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "33989",
+        "GCN": "",
+        "Name": "IPRATROPIUM BROMIDE INH/NEB SOLN",
+        "Strength": "0.02%",
+        "Price": 0.07,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "11080",
+        "GCN": "01942",
+        "Name": "ISOSORBIDE DINITRATE",
+        "Strength": "10 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "11081",
+        "GCN": "01944",
+        "Name": "ISOSORBIDE DINITRATE",
+        "Strength": "20 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28153",
+        "GCN": "",
+        "Name": "ISOSORBIDE MONONITRATE",
+        "Strength": "20 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64334",
+        "GCN": "48104",
+        "Name": "ISOSORBIDE MONONITRATE",
+        "Strength": "30 MG",
+        "Price": 0.2801,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64335",
+        "GCN": "48102",
+        "Name": "ISOSORBIDE MONONITRATE",
+        "Strength": "60 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28225",
+        "GCN": "10341",
+        "Name": "LABETALOL HCL",
+        "Strength": "200 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "86719",
+        "GCN": "10167",
+        "Name": "LACTULOSE",
+        "Strength": "10 GM/15 ML",
+        "Price": 0.021,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "11999",
+        "GCN": "26322",
+        "Name": "LEVOTHYROXINE SODIUM",
+        "Strength": "0.05 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12000",
+        "GCN": "26324",
+        "Name": "LEVOTHYROXINE SODIUM",
+        "Strength": "0.075 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12001",
+        "GCN": "26323",
+        "Name": "LEVOTHYROXINE SODIUM",
+        "Strength": "0.1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12003",
+        "GCN": "26327",
+        "Name": "LEVOTHYROXINE SODIUM",
+        "Strength": "0.15 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65021",
+        "GCN": "11941",
+        "Name": "LIDOCAINE HCL",
+        "Strength": "2%",
+        "Price": 0.0583,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "58889",
+        "GCN": "47265",
+        "Name": "LISINOPRIL",
+        "Strength": "30 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28360",
+        "GCN": "47261",
+        "Name": "LISINOPRIL",
+        "Strength": "10 MG",
+        "Price": 0.5049,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28362",
+        "GCN": "47260",
+        "Name": "LISINOPRIL",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "35162",
+        "GCN": "47264",
+        "Name": "LISINOPRIL",
+        "Strength": "2.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12248",
+        "GCN": "47262",
+        "Name": "LISINOPRIL",
+        "Strength": "20 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12393",
+        "GCN": "14160",
+        "Name": "LORAZEPAM",
+        "Strength": "0.5 MG",
+        "Price": 0.25,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12394",
+        "GCN": "14161",
+        "Name": "LORAZEPAM",
+        "Strength": "1 MG",
+        "Price": 0.34,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "12395",
+        "GCN": "14162",
+        "Name": "LORAZEPAM",
+        "Strength": "2 MG",
+        "Price": 0.2932,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28392",
+        "GCN": "47042",
+        "Name": "LOVASTATIN",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28393",
+        "GCN": "47040",
+        "Name": "LOVASTATIN",
+        "Strength": "20 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "32704",
+        "GCN": "18302",
+        "Name": "MECLIZINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13086",
+        "GCN": "11260",
+        "Name": "MEDROXYPROGESTERONE ACETATE",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13127",
+        "GCN": "",
+        "Name": "MEGESTROL ACETATE",
+        "Strength": "20 MG",
+        "Price": 0.6262,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13128",
+        "GCN": "",
+        "Name": "MEGESTROL ACETATE",
+        "Strength": "40 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28557",
+        "GCN": "10810",
+        "Name": "METFORMIN HCL",
+        "Strength": "500 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13333",
+        "GCN": "16420",
+        "Name": "METHADONE HCL",
+        "Strength": "10 MG",
+        "Price": 0.5337,
+        "Status": "I"
+      },
+      {
+        "Generic DID": "13333",
+        "GCN": "16420",
+        "Name": "METHADONE HCL",
+        "Strength": "10 MG",
+        "Price": 0.5337,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13333",
+        "GCN": "16420",
+        "Name": "METHADONE HCL",
+        "Strength": "10 MG",
+        "Price": 0.3998,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13333",
+        "GCN": "16420",
+        "Name": "METHADONE HCL",
+        "Strength": "10 MG",
+        "Price": 0.1974,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13335",
+        "GCN": "16422",
+        "Name": "METHADONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.4743,
+        "Status": "I"
+      },
+      {
+        "Generic DID": "13335",
+        "GCN": "16422",
+        "Name": "METHADONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.4743,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13335",
+        "GCN": "16422",
+        "Name": "METHADONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.3598,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13335",
+        "GCN": "16422",
+        "Name": "METHADONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.1784,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13370",
+        "GCN": "",
+        "Name": "METHOTREXATE SODIUM INJ",
+        "Strength": "25 MG/ML",
+        "Price": 3.2,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13408",
+        "GCN": "15911",
+        "Name": "METHYLPHENIDATE HCL",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13410",
+        "GCN": "15913",
+        "Name": "METHYLPHENIDATE HCL",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13414",
+        "GCN": "",
+        "Name": "METHYLPREDNISOLONE",
+        "Strength": "4 MG",
+        "Price": 0.3333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13416",
+        "GCN": "27056",
+        "Name": "METHYLPREDNISOLONE",
+        "Strength": "4 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13441",
+        "GCN": "",
+        "Name": "METOCLOPRAMIDE",
+        "Strength": "5 MG/5 ML",
+        "Price": 0.0155,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13442",
+        "GCN": "21020",
+        "Name": "METOCLOPRAMIDE HCL",
+        "Strength": "10 MG",
+        "Price": 0.1095,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13443",
+        "GCN": "21021",
+        "Name": "METOCLOPRAMIDE HCL",
+        "Strength": "5 MG",
+        "Price": 0.1842,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28684",
+        "GCN": "34992",
+        "Name": "METOLAZONE",
+        "Strength": "5 MG",
+        "Price": 1.1217,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "78395",
+        "GCN": "17734",
+        "Name": "METOPROLOL TARTRATE",
+        "Strength": "25 MG",
+        "Price": 0.072,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13447",
+        "GCN": "20641",
+        "Name": "METOPROLOL TARTRATE",
+        "Strength": "100 MG",
+        "Price": 0.215,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13448",
+        "GCN": "20642",
+        "Name": "METOPROLOL TARTRATE",
+        "Strength": "50 MG",
+        "Price": 0.235,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13460",
+        "GCN": "43031",
+        "Name": "METRONIDAZOLE",
+        "Strength": "250 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13461",
+        "GCN": "43032",
+        "Name": "METRONIDAZOLE",
+        "Strength": "500 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13650",
+        "GCN": "40410",
+        "Name": "MINOCYCLINE HCL",
+        "Strength": "100 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13657",
+        "GCN": "",
+        "Name": "MINOXIDIL",
+        "Strength": "2.5 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "59581",
+        "GCN": "16734",
+        "Name": "MIRTAZAPINE",
+        "Strength": "45 MG",
+        "Price": 0.8044,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "44757",
+        "GCN": "16733",
+        "Name": "MIRTAZAPINE",
+        "Strength": "30 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "44758",
+        "GCN": "16732",
+        "Name": "MIRTAZAPINE",
+        "Strength": "15 MG",
+        "Price": 0.6364,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28809",
+        "GCN": "45850",
+        "Name": "MOMETASONE FUROATE",
+        "Strength": "0.10%",
+        "Price": 0.1556,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28837",
+        "GCN": "",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "20 MG/ML",
+        "Price": 0.7316,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64945",
+        "GCN": "16643",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "15 MG",
+        "Price": 0.5988,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64947",
+        "GCN": "16640",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "30 MG",
+        "Price": 1.1432,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64949",
+        "GCN": "16641",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "60 MG",
+        "Price": 2.06,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64950",
+        "GCN": "16642",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "100 MG",
+        "Price": 3.001,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13823",
+        "GCN": "",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "15 MG",
+        "Price": 0.4948,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "13824",
+        "GCN": "",
+        "Name": "MORPHINE SULFATE",
+        "Strength": "30 MG",
+        "Price": 0.7016,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28883",
+        "GCN": "47450",
+        "Name": "MUPIROCIN",
+        "Strength": "2%",
+        "Price": 0.98,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "14430",
+        "GCN": "",
+        "Name": "NAPROXEN",
+        "Strength": "250 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "14431",
+        "GCN": "35792",
+        "Name": "NAPROXEN",
+        "Strength": "375 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "14432",
+        "GCN": "35793",
+        "Name": "NAPROXEN",
+        "Strength": "500 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "28915",
+        "GCN": "",
+        "Name": "Naproxen Susp 125 MG/5ML",
+        "Strength": "25 MG/ML",
+        "Price": 0.0744,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29104",
+        "GCN": "49001",
+        "Name": "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALS",
+        "Strength": "100 MG",
+        "Price": 0.725,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64340",
+        "GCN": "01740",
+        "Name": "NITROGLYCERIN TRANSDERMAL SYSTEM",
+        "Strength": "0.4 MG/HRS",
+        "Price": 0.4934,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15185",
+        "GCN": "15280",
+        "Name": "NORTRIPTYLINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15186",
+        "GCN": "15281",
+        "Name": "NORTRIPTYLINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15381",
+        "GCN": "30140",
+        "Name": "NYSTATIN",
+        "Strength": "100000 U/GM",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15382",
+        "GCN": "30150",
+        "Name": "NYSTATIN",
+        "Strength": "100000 U/GM",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15383",
+        "GCN": "42440",
+        "Name": "NYSTATIN",
+        "Strength": "100000 U/ML",
+        "Price": 0.2005,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15393",
+        "GCN": "84090",
+        "Name": "NYSTATIN/TRIAMCINOLONE ACETONIDE",
+        "Strength": "100000 U/GM-0.1%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "64692",
+        "GCN": "04348",
+        "Name": "OMEPRAZOLE",
+        "Strength": "20 MG",
+        "Price": 1.0004,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29292",
+        "GCN": "",
+        "Name": "OXYBUTYNIN CHLORIDE",
+        "Strength": "5 MG/5 ML",
+        "Price": 0.0233,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "15987",
+        "GCN": "19380",
+        "Name": "OXYBUTYNIN CHLORIDE",
+        "Strength": "5 MG",
+        "Price": 0.126,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29295",
+        "GCN": "",
+        "Name": "OXYCODONE HCL",
+        "Strength": "20 MG/ML",
+        "Price": 2.7499,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29298",
+        "GCN": "",
+        "Name": "OXYCODONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.2399,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "42507",
+        "GCN": "16285",
+        "Name": "OXYCODONE HCL",
+        "Strength": "5 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65052",
+        "GCN": "16282",
+        "Name": "OXYCODONE HCL CR",
+        "Strength": "10 MG",
+        "Price": 1.58,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65053",
+        "GCN": "16283",
+        "Name": "OXYCODONE HCL CR",
+        "Strength": "20 MG",
+        "Price": 4.25,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65054",
+        "GCN": "16284",
+        "Name": "OXYCODONE HCL CR",
+        "Strength": "40 MG",
+        "Price": 5.37,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "65055",
+        "GCN": "16286",
+        "Name": "OXYCODONE HCL CR",
+        "Strength": "80 MG",
+        "Price": 6.69,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "43380",
+        "GCN": "16364",
+        "Name": "PAROXETINE HCL",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "43381",
+        "GCN": "16368",
+        "Name": "PAROXETINE HCL",
+        "Strength": "40 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29473",
+        "GCN": "16366",
+        "Name": "PAROXETINE HCL",
+        "Strength": "20 MG",
+        "Price": 0.92,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "29474",
+        "GCN": "16367",
+        "Name": "PAROXETINE HCL",
+        "Strength": "30 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "16514",
+        "GCN": "39055",
+        "Name": "PENICILLIN V POTASSIUM",
+        "Strength": "500 MG",
+        "Price": 0.35,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "16938",
+        "GCN": "",
+        "Name": "PHENYTOIN",
+        "Strength": "125 MG/5 ML",
+        "Price": 0.09325,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "16942",
+        "GCN": "17700",
+        "Name": "PHENYTOIN SODIUM EXTENDED",
+        "Strength": "100 MG",
+        "Price": 0.3349,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "59643",
+        "GCN": "",
+        "Name": "POLYETHYLENE GLYCOL 3350",
+        "Strength": "17 GM/Dose",
+        "Price": 0.08112,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17376",
+        "GCN": "03321",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "10 MEQ",
+        "Price": 0.375,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17380",
+        "GCN": "",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "40 MEQ/15 ML",
+        "Price": 0.0349,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17389",
+        "GCN": "03512",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "10 MEQ",
+        "Price": 0.624,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17390",
+        "GCN": "03514",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "8 MEQ",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "82159",
+        "GCN": "",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "10 MEQ",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "82160",
+        "GCN": "03513",
+        "Name": "POTASSIUM CHLORIDE",
+        "Strength": "20 MEQ",
+        "Price": 0.3307,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30204",
+        "GCN": "26800",
+        "Name": "PREDNISOLONE",
+        "Strength": "15 MG/5 ML",
+        "Price": 0.0778,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17548",
+        "GCN": "27172",
+        "Name": "PREDNISONE",
+        "Strength": "10 MG",
+        "Price": 0.099,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17550",
+        "GCN": "27174",
+        "Name": "PREDNISONE",
+        "Strength": "20 MG",
+        "Price": 0.0804,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17552",
+        "GCN": "27176",
+        "Name": "PREDNISONE",
+        "Strength": "5 MG",
+        "Price": 0.0203,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30248",
+        "GCN": "",
+        "Name": "PROCHLORPERAZINE",
+        "Strength": "25 MG",
+        "Price": 1.5567,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17780",
+        "GCN": "14771",
+        "Name": "PROCHLORPERAZINE MALEATE",
+        "Strength": "10 MG",
+        "Price": 0.4962,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17782",
+        "GCN": "",
+        "Name": "PROCHLORPERAZINE MALEATE",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17891",
+        "GCN": "15043",
+        "Name": "PROMETHAZINE HCL",
+        "Strength": "25 MG",
+        "Price": 0.421,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30271",
+        "GCN": "15001",
+        "Name": "PROMETHAZINE HCL",
+        "Strength": "25 MG",
+        "Price": 1.2505,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17959",
+        "GCN": "",
+        "Name": "PROPOXYPHENE HCL/APAP",
+        "Strength": "65-650 MG",
+        "Price": 0.215,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "17971",
+        "GCN": "20631",
+        "Name": "PROPRANOLOL HCL",
+        "Strength": "20 MG",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30566",
+        "GCN": "",
+        "Name": "RANITIDINE HCL",
+        "Strength": "150 MG",
+        "Price": 0.1088,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30567",
+        "GCN": "",
+        "Name": "RANITIDINE HCL",
+        "Strength": "300 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30764",
+        "GCN": "",
+        "Name": "SELEGILINE HCL",
+        "Strength": "5 MG",
+        "Price": 0.379,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "31474",
+        "GCN": "90163",
+        "Name": "SMZ-TMP",
+        "Strength": "800 MG-160 MG",
+        "Price": 0.1454,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "20509",
+        "GCN": "90161",
+        "Name": "SMZ-TMP",
+        "Strength": "400 MG-80 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "19933",
+        "GCN": "",
+        "Name": "SORBITOL",
+        "Strength": "70%",
+        "Price": 0.0415,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30954",
+        "GCN": "",
+        "Name": "SOTALOL HCL",
+        "Strength": "80 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30967",
+        "GCN": "27690",
+        "Name": "SPIRONOLACTONE",
+        "Strength": "100 MG",
+        "Price": 0.8851,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30968",
+        "GCN": "27692",
+        "Name": "SPIRONOLACTONE",
+        "Strength": "50 MG",
+        "Price": 0.425,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "20106",
+        "GCN": "27691",
+        "Name": "SPIRONOLACTONE",
+        "Strength": "25 MG",
+        "Price": 0.3,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "30995",
+        "GCN": "08200",
+        "Name": "SUCRALFATE",
+        "Strength": "1 GM",
+        "Price": 0.1167,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "19789",
+        "GCN": "33340",
+        "Name": "SULFACETAMIDE SODIUM",
+        "Strength": "10%",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "54893",
+        "GCN": "90150",
+        "Name": "SULFAMETHOXAZOLE/TRIMETHOPRIM",
+        "Strength": "200 MG/5 ML-40 MG/5 ML",
+        "Price": 0.0702,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "21096",
+        "GCN": "13840",
+        "Name": "TEMAZEPAM",
+        "Strength": "15 MG",
+        "Price": 0.215,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "21097",
+        "GCN": "13841",
+        "Name": "TEMAZEPAM",
+        "Strength": "30 MG",
+        "Price": 0.245,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39139",
+        "GCN": "47124",
+        "Name": "TERAZOSIN HCL",
+        "Strength": "1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39140",
+        "GCN": "47125",
+        "Name": "TERAZOSIN HCL",
+        "Strength": "2 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39141",
+        "GCN": "47127",
+        "Name": "TERAZOSIN HCL",
+        "Strength": "10 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39142",
+        "GCN": "47126",
+        "Name": "TERAZOSIN HCL",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39736",
+        "GCN": "14693",
+        "Name": "TIZANIDINE HCL",
+        "Strength": "4 MG",
+        "Price": 0.0778,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46424",
+        "GCN": "21132",
+        "Name": "TORSEMIDE",
+        "Strength": "20 MG",
+        "Price": 0.4708,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "46425",
+        "GCN": "",
+        "Name": "TORSEMIDE",
+        "Strength": "100 MG",
+        "Price": 1.6808,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "39326",
+        "GCN": "07221",
+        "Name": "TRAMADOL HCL",
+        "Strength": "50 MG",
+        "Price": 0.3068,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "21940",
+        "GCN": "15400",
+        "Name": "TRAZODONE HCL",
+        "Strength": "100 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "21941",
+        "GCN": "15402",
+        "Name": "TRAZODONE HCL",
+        "Strength": "150 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "21942",
+        "GCN": "15401",
+        "Name": "TRAZODONE HCL",
+        "Strength": "50 MG",
+        "Price": 0.0742,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "22077",
+        "GCN": "31232",
+        "Name": "TRIAMCINOLONE ACETONIDE",
+        "Strength": "0.10%",
+        "Price": 0.2333,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "22128",
+        "GCN": "",
+        "Name": "TRIAZOLAM",
+        "Strength": "0.125 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "22129",
+        "GCN": "14280",
+        "Name": "TRIAZOLAM",
+        "Strength": "0.25 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "23070",
+        "GCN": "",
+        "Name": "VALPROIC ACID",
+        "Strength": "250 MG/5 ML",
+        "Price": 0.0292,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "23278",
+        "GCN": "32470",
+        "Name": "VERAPAMIL HCL",
+        "Strength": "240 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "23834",
+        "GCN": "25791",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "2 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "23835",
+        "GCN": "25794",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "2.5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "23836",
+        "GCN": "25793",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "5 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "31692",
+        "GCN": "25792",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "1 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "48205",
+        "GCN": "25796",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "3 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "52025",
+        "GCN": "25797",
+        "Name": "WARFARIN SODIUM",
+        "Strength": "4 MG",
+        "Price": 0.4667,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "31765",
+        "GCN": "00871",
+        "Name": "ZOLPIDEM TARTRAT",
+        "Strength": "10 MG",
+        "Price": 0.86,
+        "Status": "A"
+      },
+      {
+        "Generic DID": "31766",
+        "GCN": "00870",
+        "Name": "ZOLPIDEM TARTRAT",
+        "Strength": "5 MG",
+        "Price": 0.86,
+        "Status": "A"
+      }
+    ]
+  }
+}

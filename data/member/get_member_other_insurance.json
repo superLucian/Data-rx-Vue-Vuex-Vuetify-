@@ -1,0 +1,26 @@
+{
+  "d": [
+    {
+      "__type": "DataRx.Data.Pbmsys.EntityFramework.MemberOtherInsurance",
+      "Id": 4748,
+      "MemberId": "D12462428",
+      "PersonCode": "01",
+      "Pcc": "ADAP",
+      "ExternalRxBIN": "34r5",
+      "ExternalRxPCN": "4",
+      "ExternalRxGroup": "57",
+      "ExternalPlanId": "asdf",
+      "ExternalMemberId": "5",
+      "ExternalPersonCode": null,
+      "OtherInsuranceType": 1,
+      "PlanDescription": "asdf",
+      "EffectiveStartDate": "/Date(1506528000000)/",
+      "EffectiveEndDate": "/Date(1506528000000)/",
+      "Member": null,
+      "CreatedBy": "admin",
+      "CreatedDate": "/Date(1506598174017)/",
+      "UpdatedBy": "admin",
+      "UpdatedDate": "/Date(1506599698497)/"
+    }
+  ]
+}

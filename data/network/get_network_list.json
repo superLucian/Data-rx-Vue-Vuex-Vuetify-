@@ -1,0 +1,39 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network_list": [
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DRX NETWORK - 967",
+        "Status": "Active",
+        "Comments": "PROVIDERS ARE AUTOMATICALLY ASSIGNED TO THE STANDARD DRX CONTRACT",
+        "Network ID": 967,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Prescriber Network",
+        "Network Desc": "TEST NETWORK - 1141",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1141,
+        "type_cd": "D"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "TEST NETWORK - 1142",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1142,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DESC - 1146",
+        "Status": "Active",
+        "Comments": "A",
+        "Network ID": 1146,
+        "type_cd": "R"
+      }
+    ]
+  }
+}

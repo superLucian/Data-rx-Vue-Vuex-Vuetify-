@@ -1,0 +1,168 @@
+
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network_list": [
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX PREFERRED NETWORK - 356",
+        "Status": "Active",
+        "Comments": "**** ANY PROVIDER ADDED TO THIS NETWORK MAY NEED TO BE ADDED TO SPECIAL PROGRAM 22 ($4 LIST)  **** ALSO REMOVE THE STORE FROM THE NON-PREFERRED NETWORK****",
+        "Network ID": 356,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX NON-PREFERRED NETWORK - 367",
+        "Status": "Active",
+        "Comments": "**** ANY PROVIDER CAN BE ADDED TO THIS NETWORK ****",
+        "Network ID": 367,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Mail Order Network",
+        "Network Desc": "APPRORX MAIL ORDER NETWORK - 394",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 394,
+        "type_cd": "M"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX SPECIALTY NETWORK - 454",
+        "Status": "Active",
+        "Comments": "NORTHSIDE PHARMACIES",
+        "Network ID": 454,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DRX NETWORK - 541",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 541,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX  HEALTHWAREHOUSE NETWORK - 542",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 542,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX APNS NETWORK - 546",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 546,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "KENTUCKY INDEPENDENT PREFERRED NETWORK - 649",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 649,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DRX SAVINGS CARD NETWORK - 771",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 771,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "BROWNSVILLE SPECIALTY NETWORK - 1005",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1005,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "CL1426 - AXIUM SPECIALTY - 1012",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1012,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "ASI12115 - AXIUM NETWORK - 1013",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1013,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "STLRX-AXIUM - 1014",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1014,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Mail Order Network",
+        "Network Desc": "DLS PHARMACY - 1015",
+        "Status": "Active",
+        "Comments": "**************DO NOT ADD PROVIDERS************************",
+        "Network ID": 1015,
+        "type_cd": "M"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "APPRORX-AXIUM SPECIALTY NETWORK - 1016",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1016,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "WAYNESVILLE PHARMACY NETWORK - 1025",
+        "Status": "Inactive",
+        "Comments": "",
+        "Network ID": 1025,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "WAYNESVILLE PHARMACY NETWORK - 1026",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1026,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "AIH06115 SPECIALTY NETWORK - 1050",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1050,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DECILLION SPECIALTY NETWORK - 1051",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1051,
+        "type_cd": "R"
+      },
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "SIMPLICITY RX NETWORK - 1078",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 1078,
+        "type_cd": "R"
+      }
+    ]
+  }
+}

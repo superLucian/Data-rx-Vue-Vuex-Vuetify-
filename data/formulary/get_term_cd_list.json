@@ -1,0 +1,47 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "term_cd_data": [
+      {
+        "field_value": "01",
+        "desc_txt": "CURRENT MONTH"
+      },
+      {
+        "field_value": "06",
+        "desc_txt": "LIFE OF THE PLAN"
+      },
+      {
+        "field_value": "08",
+        "desc_txt": "PREVIOUS 180 DAYS"
+      },
+      {
+        "field_value": "10",
+        "desc_txt": "PREVIOUS 24 DAYS"
+      },
+      {
+        "field_value": "09",
+        "desc_txt": "PREVIOUS 27 DAYS"
+      },
+      {
+        "field_value": "07",
+        "desc_txt": "PREVIOUS 3 DAYS"
+      },
+      {
+        "field_value": "03",
+        "desc_txt": "PREVIOUS 30 DAYS"
+      },
+      {
+        "field_value": "05",
+        "desc_txt": "PREVIOUS 365 DAYS"
+      },
+      {
+        "field_value": "02",
+        "desc_txt": "PREVIOUS 90 DAYS"
+      },
+      {
+        "field_value": "04",
+        "desc_txt": "SAME CALENDAR DAY"
+      }
+    ]
+  }
+}

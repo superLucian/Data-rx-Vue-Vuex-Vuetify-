@@ -1,0 +1,25 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "mpp_drug_list": [
+      {
+        "mpp_id": 65,
+        "zip_desc": "MISSOURI",
+        "price_desc": "Chain Med",
+        "drug_id": "78310000000300",
+        "quantity": 30,
+        "price_cd": "03",
+        "drug_name_txt": "Multivitamin/Mineral Tab",
+        "price_amt": 9.99,
+        "unit_price_amt": 0.333,
+        "type": "G",
+        "start_dt": "/Date(1506024604697)/",
+        "end_dt": "/Date(253370649600000)/",
+        "created_by": "mppadmin",
+        "created_dt": "/Date(1506024604697)/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ]
+  }
+}

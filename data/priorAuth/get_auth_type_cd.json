@@ -1,0 +1,75 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "auth_type_cd": [
+      {
+        "field_value": "0",
+        "desc_txt": "Blanket Override"
+      },
+      {
+        "field_value": "1",
+        "desc_txt": "Drug Not Covered Override"
+      },
+      {
+        "field_value": "2",
+        "desc_txt": "Quantity Restriction Override"
+      },
+      {
+        "field_value": "3",
+        "desc_txt": "Days Supply Restriction Override"
+      },
+      {
+        "field_value": "4",
+        "desc_txt": "Age Restriction Override"
+      },
+      {
+        "field_value": "5",
+        "desc_txt": "Refill Too Soon Override"
+      },
+      {
+        "field_value": "6",
+        "desc_txt": "Script Count Limit Override"
+      },
+      {
+        "field_value": "7",
+        "desc_txt": "Cost Exceeds Limit Override"
+      },
+      {
+        "field_value": "8",
+        "desc_txt": "Step Therapy Edit Override"
+      },
+      {
+        "field_value": "9",
+        "desc_txt": "Spec Program Price Override"
+      },
+      {
+        "field_value": "10",
+        "desc_txt": "Gender Restriction Override"
+      },
+      {
+        "field_value": "11",
+        "desc_txt": "340B Medicaid Override"
+      },
+      {
+        "field_value": "12",
+        "desc_txt": "Prescriber Network Override"
+      },
+      {
+        "field_value": "13",
+        "desc_txt": "Mandatory Mail Override"
+      },
+      {
+        "field_value": "14",
+        "desc_txt": "COB OPPRA Override"
+      },
+      {
+        "field_value": "15",
+        "desc_txt": "Allow Brand Keep PPD"
+      },
+      {
+        "field_value": "16",
+        "desc_txt": "OCC3 Override"
+      }
+    ]
+  }
+}

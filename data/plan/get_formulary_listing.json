@@ -1,0 +1,239 @@
+
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "formulary": [
+      {
+        "Formulary Desc": "ALCOHOL SWABS",
+        "Form ID": 64,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "ANABOLIC & ANDROGEN STEROIDS",
+        "Form ID": 74,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "ANTIDIABETICS",
+        "Form ID": 109,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1309363200000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 68,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300291200000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES AND INSULIN NOT IN VENTEG PREM PLUS",
+        "Form ID": 49,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES EXCLUDING INSULIN",
+        "Form ID": 229,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1332750772283)/"
+      },
+      {
+        "Formulary Desc": "BRAND MIGRAINE INJECTABLE",
+        "Form ID": 79,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "BRANDS WITH AVAILABLE GENERICS",
+        "Form ID": 9,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296057600000)/"
+      },
+      {
+        "Formulary Desc": "BRANDS WITH NO AVAILABLE GENERICS",
+        "Form ID": 176,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1313596800000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE INJECTABLES TIERS 1,2,3 VENTEG PREM PLUS",
+        "Form ID": 53,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298822400000)/"
+      },
+      {
+        "Formulary Desc": "DEVICES NOT INCLUDING DIABETIC AND CONTRACEPTIVE",
+        "Form ID": 212,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC METERS",
+        "Form ID": 66,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC METERS 1 ONE/LIFETIME",
+        "Form ID": 70,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301500800000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC SUPPLIES AND INSULIN TIERS 1,2,3 VENTEG PREM PLUS",
+        "Form ID": 52,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298563200000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC TEST STRIPS",
+        "Form ID": 104,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308585600000)/"
+      },
+      {
+        "Formulary Desc": "EPPSRX EliteRx Fully Ins Diabetic Formulary",
+        "Form ID": 483,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1489643287370)/"
+      },
+      {
+        "Formulary Desc": "EPPSRX RxChoice Restricted Diabetic Formulary",
+        "Form ID": 484,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1489644689483)/"
+      },
+      {
+        "Formulary Desc": "GENERIC DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 41,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "GENERIC DIABETIC SUPPLIES EXCLUDING INSULIN",
+        "Form ID": 228,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1332750765987)/"
+      },
+      {
+        "Formulary Desc": "GENERIC MIGRAINE INJECTABLES",
+        "Form ID": 201,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1323667839210)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE CONTRACEPTIVES",
+        "Form ID": 20,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296576000000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE FERTILITY",
+        "Form ID": 105,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308844800000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE SUPPLIES",
+        "Form ID": 46,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE VITAMINES",
+        "Form ID": 188,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1319644800000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES",
+        "Form ID": 50,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES EXCLUDING INSULIN AND EPIPEN",
+        "Form ID": 434,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1445834764137)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES NOT INCLUDING CONTRACEPTIVE AND MIGRAINE",
+        "Form ID": 181,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1314115200000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES NOT INCLUDING CONTRACEPTIVES",
+        "Form ID": 108,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1309190400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES WITHOUT EPI-PEN, GLUCAGON, MIGRAINE, CONTRACEPTIVE, ERECTILE DYSFUNCTION, INSULIN",
+        "Form ID": 209,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "MEC INJECTABLE CONTRACEPTIVES",
+        "Form ID": 406,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450802587)/"
+      },
+      {
+        "Formulary Desc": "OTC NOT INCLUDING DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 208,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324396800000)/"
+      },
+      {
+        "Formulary Desc": "SUBSTANCE ABUSE",
+        "Form ID": 217,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324915200000)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREM PLUS BRAND DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 42,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      }
+    ]
+  }
+}

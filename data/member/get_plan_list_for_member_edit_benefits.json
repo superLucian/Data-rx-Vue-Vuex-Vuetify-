@@ -1,0 +1,18 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "plan_list": [
+      {
+        "plan_desc": "TEST130 SELFPAY W/WIZARD",
+        "plan_id": "TEST130SP",
+        "group_id": 2334,
+        "max_member_deduct_amt": 0,
+        "max_member_claim_amt": 0,
+        "max_member_oop_amt": 0,
+        "max_family_deduct_amt": 0,
+        "max_family_claim_amt": 0,
+        "max_family_oop_amt": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "drug_type_cd_data": [
+      {
+        "field_value": "*",
+        "desc_txt": "ALL DRUGS"
+      },
+      {
+        "field_value": "B",
+        "desc_txt": "BRAND"
+      },
+      {
+        "field_value": "BN",
+        "desc_txt": "BRAND NON-OTC"
+      },
+      {
+        "field_value": "BNQ",
+        "desc_txt": "BRAND NON-OTC NON-REPACK"
+      },
+      {
+        "field_value": "BNR",
+        "desc_txt": "BRAND NON-OTC REPACK"
+      },
+      {
+        "field_value": "BQ",
+        "desc_txt": "BRAND NON-REPACK"
+      },
+      {
+        "field_value": "BO",
+        "desc_txt": "BRAND OTC"
+      },
+      {
+        "field_value": "BOQ",
+        "desc_txt": "BRAND OTC NON-REPACK"
+      },
+      {
+        "field_value": "BOR",
+        "desc_txt": "BRAND OTC REPACK"
+      },
+      {
+        "field_value": "BR",
+        "desc_txt": "BRAND REPACK"
+      },
+      {
+        "field_value": "G",
+        "desc_txt": "GENERIC"
+      },
+      {
+        "field_value": "GN",
+        "desc_txt": "GENERIC NON-OTC"
+      },
+      {
+        "field_value": "GNQ",
+        "desc_txt": "GENERIC NON-OTC NON-REPACK"
+      },
+      {
+        "field_value": "GNR",
+        "desc_txt": "GENERIC NON-OTC REPACK"
+      },
+      {
+        "field_value": "GQ",
+        "desc_txt": "GENERIC NON-REPACK"
+      },
+      {
+        "field_value": "GO",
+        "desc_txt": "GENERIC OTC"
+      },
+      {
+        "field_value": "GR",
+        "desc_txt": "GENERIC REPACK"
+      },
+      {
+        "field_value": "N",
+        "desc_txt": "NON-OTC"
+      },
+      {
+        "field_value": "Q",
+        "desc_txt": "NON-REPACK"
+      },
+      {
+        "field_value": "O",
+        "desc_txt": "OTC"
+      },
+      {
+        "field_value": "R",
+        "desc_txt": "REPACK"
+      },
+      {
+        "field_value": "S",
+        "desc_txt": "SURGICAL DEVICES"
+      }
+    ]
+  }
+}

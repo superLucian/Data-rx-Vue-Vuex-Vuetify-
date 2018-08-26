@@ -1,0 +1,13 @@
+{
+   "d": {
+       "__type": "System.Data.DataSet",
+       "member_benefits": [
+           {
+               "deductible_met_ind": "N",
+               "accum_claim_amt": 1,
+               "accum_oop_amt": 2,
+               "accum_deduct_amt": 3
+           }
+       ]
+   }
+}

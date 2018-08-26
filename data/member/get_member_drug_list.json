@@ -1,0 +1,30 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "member_drug_list": [
+      {
+        "Drug Name": "ADHESIVE PADS/MEDIUM/2\"X3 \" PADS",
+        "Drug Id": "97301000004300",
+        "Drug ID Type Code": "G",
+        "*Tier": "",
+        "*Start Dt": "09/26/2017",
+        "*End Dt": "12/31/9998",
+        "*Inc/Ex": "I",
+        "*Drug Type": "All",
+        "*Min Qty": null,
+        "*Max Qty": null,
+        "*Min Days": null,
+        "*Max Days": null,
+        "qty_term_cd": "  ",
+        "*Supply Limit": 0,
+        "*Response Message": "",
+        "*Sig": null,
+        "mdid": 16712938,
+        "Created By": "admin",
+        "Created Dt": "/Date(1506417736880)/",
+        "Updated By": null,
+        "Updated Dt": null
+      }
+    ]
+  }
+}

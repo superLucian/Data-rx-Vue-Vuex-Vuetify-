@@ -1,0 +1,62 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "prescriber_list": [
+      {
+        "did": 1656255,
+        "NPI": "1255630869",
+        "Last Name": "AABERG",
+        "First Name": "MAURA",
+        "UPIN": null,
+        "Address": "5507 11TH AVE",
+        "City": "BROOKLYN",
+        "State": "NY",
+        "Phone": "7188547385"
+      },
+      {
+        "did": 1709602,
+        "NPI": "1801093968",
+        "Last Name": "AABERG",
+        "First Name": "MELANIE",
+        "UPIN": "",
+        "Address": "5450 FORT ST",
+        "City": "TRENTON",
+        "State": "MI",
+        "Phone": "7346713883"
+      },
+      {
+        "did": 734321,
+        "NPI": "1750491783",
+        "Last Name": "AABERG",
+        "First Name": "THOMAS",
+        "UPIN": null,
+        "Address": "1365 CLIFTON RD NE  B",
+        "City": "ATLANTA",
+        "State": "GA",
+        "Phone": "4047784456"
+      },
+      {
+        "did": 512652,
+        "NPI": "1194753186",
+        "Last Name": "AABERG",
+        "First Name": "THOMASA",
+        "UPIN": "",
+        "Address": "2757 LEONARD ST NE",
+        "City": "GRAND RAPIDS",
+        "State": "MI",
+        "Phone": "6169542020"
+      },
+      {
+        "did": 785025,
+        "NPI": "1588763981",
+        "Last Name": "AABERGA",
+        "First Name": "RANDAL",
+        "UPIN": "",
+        "Address": "3288 MOANALUA RD",
+        "City": "HONOLULU",
+        "State": "HI",
+        "Phone": "8084320000"
+      }
+    ]
+  }
+}

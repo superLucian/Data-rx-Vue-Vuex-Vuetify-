@@ -1,0 +1,31 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "medicaid_edit_type_cd_syscode": [
+      {
+        "field_name": "medicaid_edit_type_cd",
+        "field_value": "0",
+        "desc_txt": "Do not edit Medicaid Plans",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "medicaid_edit_type_cd",
+        "field_value": "1",
+        "desc_txt": "Edit Fee For Service and Managed Medicaid Plans",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "medicaid_edit_type_cd",
+        "field_value": "3",
+        "desc_txt": "Edit Fee For Service Medicaid Plans only",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "medicaid_edit_type_cd",
+        "field_value": "2",
+        "desc_txt": "Edit Medicaid Plans only",
+        "abbrev_txt": null
+      }
+    ]
+  }
+}

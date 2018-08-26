@@ -1,0 +1,31 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "plan_drug_data": [
+      {
+        "Drug Id Type": "NDC",
+        "Drug Id": "76300040001",
+        "Drug Desc": "OTC/Brand Name Misc null",
+        "Effective Start Dt": "10/19/2017",
+        "Effective End Dt": "12/07/9998",
+        "HCPCS": "",
+        "Network ID": 1167,
+        "drug_id_type_cd": "N",
+        "Created By": "admin",
+        "Created Dt": "\/Date(1508335965963)\/"
+      },
+      {
+        "Drug Id Type": "GPI",
+        "Drug Id": "test",
+        "Drug Desc": "test",
+        "Effective Start Dt": "10/19/2017",
+        "Effective End Dt": "12/31/9998",
+        "HCPCS": "",
+        "Network ID": -1,
+        "drug_id_type_cd": "G",
+        "Created By": "admin",
+        "Created Dt": "\/Date(1508336503823)\/"
+      }
+    ]
+  }
+}

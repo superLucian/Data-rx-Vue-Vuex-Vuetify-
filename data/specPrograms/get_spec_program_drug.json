@@ -1,0 +1,25 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "spec_program_drug": [
+            {
+                "desc_txt": "APPRORx Generic Drug List ",
+                "program_id": 22,
+                "drug_desc": "TESTOSTERONE CYPIONATESOLN 200 MG/ML",
+                "drug_id_type_cd": "N",
+                "drug_id": "00781307470",
+                "quantity": 2,
+                "days_supply": 2,
+                "pack_size": 2,
+                "tier": 2,
+                "price_amt": 2,
+                "drug_type_cd": null,
+                "status_cd": "A",
+                "created_by": "admin",
+                "created_dt": "/Date(1507255378887)/",
+                "updated_by": null,
+                "updated_dt": null
+            }
+        ]
+    }
+}

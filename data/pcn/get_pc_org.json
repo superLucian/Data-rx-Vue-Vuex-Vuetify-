@@ -1,0 +1,268 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "pcn": [
+      {
+        "pcc": "340BASICS",
+        "use_pcn_as_group_flg": "F",
+        "status_cd": "A",
+        "name_txt": "340BASICS",
+        "addr1_txt": "900 THIRD AVE",
+        "addr2_txt": "",
+        "city_txt": "NEW YORK",
+        "state_cd": "NY",
+        "zip_cd": "10022",
+        "phone_num": "609.254.2078",
+        "fax_num": "",
+        "email_addr_txt": "AESGRO@340BASICS",
+        "web_url_txt": "",
+        "contact_lname": "ESCRO",
+        "contact_fname": "ANTHONY",
+        "contact_addr1_txt": "900 THIRD AVE",
+        "contact_addr2_txt": "",
+        "contact_city_txt": "NEW YORK",
+        "contact_state_cd": "NY",
+        "contact_zip_cd": "10022",
+        "contact_phone_num": "609.254.2078",
+        "contact_cell_num": "",
+        "contact_fax_num": "856.324.9058",
+        "contact_pager_num": "",
+        "contact_email_addr_txt": "AESGRO@340BASICS",
+        "component_name_txt": null,
+        "rebate_level_2": "",
+        "track_benefits_flg": "T",
+        "comment_txt": "",
+        "created_by": "kochocki",
+        "created_dt": "\/Date(1418150313340)\/",
+        "updated_by": "admin",
+        "updated_dt": "\/Date(1505934082950)\/",
+        "edit_form_type_cd": "1",
+        "medicaid_copay_cap": null,
+        "medicaid_edit_type_cd": "0 "
+      }
+    ],
+    "edi_param": [
+      {
+        "wholesaler_id": 38,
+        "edi_sender_id": "71",
+        "edi_task_name": "TEST",
+        "reorder_pct": 1,
+        "retry_count": 3,
+        "retry_delay": 30,
+        "base_dir": "test",
+        "sent_dir": "test",
+        "order_time_out": 60,
+        "auto_adj_start_dt": "09/21/2017",
+        "created_by": "admin",
+        "created_dt": "\/Date(1505934082963)\/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ],
+    "wholesaler_provider_list": [
+      {
+        "Provider Name": "RITE AID",
+        "pid": 1504,
+        "Account#": "123",
+        "NABP": "0128416",
+        "NPI": "1699781989",
+        "Name": "RITE AID",
+        "Address1": "2302 WHITESBURG DR S",
+        "Address2": "",
+        "City": "HUNTSVILLE",
+        "State": "AL",
+        "Zip": "358013818"
+      }
+    ],
+    "wholesaler_list": [
+      {
+        "wholesaler_id": 7,
+        "wholesaler_name": "ABergen"
+      },
+      {
+        "wholesaler_id": 8,
+        "wholesaler_name": "HDSmith"
+      },
+      {
+        "wholesaler_id": 9,
+        "wholesaler_name": "SmithDrug"
+      },
+      {
+        "wholesaler_id": 10,
+        "wholesaler_name": "Cardinal"
+      },
+      {
+        "wholesaler_id": 11,
+        "wholesaler_name": "McKesson"
+      },
+      {
+        "wholesaler_id": 12,
+        "wholesaler_name": "McKessonTest"
+      },
+      {
+        "wholesaler_id": 13,
+        "wholesaler_name": "Cardinal NHCAC"
+      },
+      {
+        "wholesaler_id": 15,
+        "wholesaler_name": "CARDINAL QLHS"
+      },
+      {
+        "wholesaler_id": 21,
+        "wholesaler_name": "ABERGEN FRMC"
+      },
+      {
+        "wholesaler_id": 23,
+        "wholesaler_name": "MCKESSON FHI"
+      },
+      {
+        "wholesaler_id": 25,
+        "wholesaler_name": "MCKESSON TCMH"
+      },
+      {
+        "wholesaler_id": 27,
+        "wholesaler_name": "CARDINAL JRMC"
+      },
+      {
+        "wholesaler_id": 29,
+        "wholesaler_name": "HDSmith LPR"
+      },
+      {
+        "wholesaler_id": 31,
+        "wholesaler_name": "SmithDrug CHOICERX"
+      },
+      {
+        "wholesaler_id": 32,
+        "wholesaler_name": "SmithDrug TRMH"
+      },
+      {
+        "wholesaler_id": 33,
+        "wholesaler_name": "SmithDrug SWGHC"
+      },
+      {
+        "wholesaler_id": 35,
+        "wholesaler_name": "ABergen AAPHC"
+      },
+      {
+        "wholesaler_id": 37,
+        "wholesaler_name": "McKesson RMHC"
+      },
+      {
+        "wholesaler_id": 38,
+        "wholesaler_name": "MDickson"
+      },
+      {
+        "wholesaler_id": 40,
+        "wholesaler_name": "MDickson GSMC"
+      },
+      {
+        "wholesaler_id": 41,
+        "wholesaler_name": "MDickson CCMH"
+      },
+      {
+        "wholesaler_id": 42,
+        "wholesaler_name": "HDSmith SWMH"
+      },
+      {
+        "wholesaler_id": 43,
+        "wholesaler_name": "Cardinal NHCAC2"
+      },
+      {
+        "wholesaler_id": 44,
+        "wholesaler_name": "McKesson VNACJCHC"
+      },
+      {
+        "wholesaler_id": 45,
+        "wholesaler_name": "Cardinal BTAMC"
+      },
+      {
+        "wholesaler_id": 46,
+        "wholesaler_name": "CARDINAL SMHCS"
+      },
+      {
+        "wholesaler_id": 47,
+        "wholesaler_name": "KINRAY"
+      },
+      {
+        "wholesaler_id": 48,
+        "wholesaler_name": "RDC ICL"
+      },
+      {
+        "wholesaler_id": 49,
+        "wholesaler_name": "ABergen NMDC"
+      },
+      {
+        "wholesaler_id": 50,
+        "wholesaler_name": "RDC"
+      },
+      {
+        "wholesaler_id": 52,
+        "wholesaler_name": "SmithDrug PCSWGA"
+      },
+      {
+        "wholesaler_id": 53,
+        "wholesaler_name": "CARDINAL DONH"
+      },
+      {
+        "wholesaler_id": 54,
+        "wholesaler_name": "MCKESSON CRMC"
+      },
+      {
+        "wholesaler_id": 55,
+        "wholesaler_name": "HDSmith BBHC"
+      },
+      {
+        "wholesaler_id": 56,
+        "wholesaler_name": "CARDINAL HBCH"
+      },
+      {
+        "wholesaler_id": 57,
+        "wholesaler_name": "HDSmith KCHD"
+      },
+      {
+        "wholesaler_id": 58,
+        "wholesaler_name": "CARDINAL ORMC"
+      },
+      {
+        "wholesaler_id": 59,
+        "wholesaler_name": "HDSmith SCHA"
+      },
+      {
+        "wholesaler_id": 60,
+        "wholesaler_name": "DAKOTA PCMHA"
+      },
+      {
+        "wholesaler_id": 61,
+        "wholesaler_name": "McKesson UCHC"
+      },
+      {
+        "wholesaler_id": 62,
+        "wholesaler_name": "CARDINAL MFHC"
+      },
+      {
+        "wholesaler_id": 63,
+        "wholesaler_name": "CARDINAL GCHC"
+      },
+      {
+        "wholesaler_id": 70,
+        "wholesaler_name": "MCKESSON PCMHAT"
+      },
+      {
+        "wholesaler_id": 71,
+        "wholesaler_name": "ABERGEN TRMHCC"
+      },
+      {
+        "wholesaler_id": 72,
+        "wholesaler_name": "CARDINAL DECK"
+      },
+      {
+        "wholesaler_id": 73,
+        "wholesaler_name": "CARDINAL HCCLCWB"
+      },
+      {
+        "wholesaler_id": 74,
+        "wholesaler_name": "MDICKSON HCCLCWH"
+      }
+    ]
+  }
+}

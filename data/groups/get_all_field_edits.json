@@ -1,0 +1,331 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "field_edits": [
+            {
+                "field_tag": "1E",
+                "field_desc": "1E - PRESCRIBER LOCATION CODE"
+            },
+            {
+                "field_tag": "28",
+                "field_desc": "28 - UNIT OF MEASURE"
+            },
+            {
+                "field_tag": "4C",
+                "field_desc": "4C - COB/OTHER PAYMENTS COUNT"
+            },
+            {
+                "field_tag": "5C",
+                "field_desc": "5C - OTHER PAYER COVERAGE TYPE"
+            },
+            {
+                "field_tag": "6E",
+                "field_desc": "6E - OTHER PAYER REJECT DATE"
+            },
+            {
+                "field_tag": "7C",
+                "field_desc": "7C - OTHER PAYER ID"
+            },
+            {
+                "field_tag": "7E",
+                "field_desc": "7E - DUR/PPS CODE COUNTER"
+            },
+            {
+                "field_tag": "A1",
+                "field_desc": "A1 - BIN NUMBER [M]"
+            },
+            {
+                "field_tag": "A2",
+                "field_desc": "A2 - VERSION/RELEASE NUMBER [M]"
+            },
+            {
+                "field_tag": "A3",
+                "field_desc": "A3 - TRANSACTION CODE [M]"
+            },
+            {
+                "field_tag": "A4",
+                "field_desc": "A4 - PROCESSOR CONTROL NUMBER [M]"
+            },
+            {
+                "field_tag": "A9",
+                "field_desc": "A9 - TRANSACTION COUNT [M]"
+            },
+            {
+                "field_tag": "AK",
+                "field_desc": "AK - SOFTWARE VENDOR ID"
+            },
+            {
+                "field_tag": "B1",
+                "field_desc": "B1 - SERVICE PROVIDER ID [M]"
+            },
+            {
+                "field_tag": "B2",
+                "field_desc": "B2 - SERVICE PROVIDER ID QUALIFIER"
+            },
+            {
+                "field_tag": "C1",
+                "field_desc": "C1 - GROUP ID"
+            },
+            {
+                "field_tag": "C2",
+                "field_desc": "C2 - CARDHOLDER ID"
+            },
+            {
+                "field_tag": "C3",
+                "field_desc": "C3 - PERSON CODE"
+            },
+            {
+                "field_tag": "C4",
+                "field_desc": "C4 - DATE OF BIRTH"
+            },
+            {
+                "field_tag": "C5",
+                "field_desc": "C5 - SEX CODE"
+            },
+            {
+                "field_tag": "C8",
+                "field_desc": "C8 - OTHER COVERAGE CODE"
+            },
+            {
+                "field_tag": "C9",
+                "field_desc": "C9 - ELIGIBILITY CLARIFICATION CODE"
+            },
+            {
+                "field_tag": "CA",
+                "field_desc": "CA - PATIENT FIRST NAME"
+            },
+            {
+                "field_tag": "CB",
+                "field_desc": "CB - PATIENT LAST NAME"
+            },
+            {
+                "field_tag": "CC",
+                "field_desc": "CC - CARDHOLDER FIRST NAME"
+            },
+            {
+                "field_tag": "CD",
+                "field_desc": "CD - CARDHOLDER LAST NAME"
+            },
+            {
+                "field_tag": "CF",
+                "field_desc": "CF - EMPLOYER NAME"
+            },
+            {
+                "field_tag": "CG",
+                "field_desc": "CG - EMPLOYER STREET ADDRESS"
+            },
+            {
+                "field_tag": "CH",
+                "field_desc": "CH - EMPLOYER CITY ADDRESS"
+            },
+            {
+                "field_tag": "CJ",
+                "field_desc": "CJ - EMPLOYER ZIP"
+            },
+            {
+                "field_tag": "CK",
+                "field_desc": "CK - EMPLOYER PHONE NUMBER"
+            },
+            {
+                "field_tag": "CM",
+                "field_desc": "CM - PATIENT STREET ADDRESS"
+            },
+            {
+                "field_tag": "CN",
+                "field_desc": "CN - PATIENT CITY ADDRESS"
+            },
+            {
+                "field_tag": "CO",
+                "field_desc": "CO - PATIENT STATE"
+            },
+            {
+                "field_tag": "CP",
+                "field_desc": "CP - PATIENT ZIP"
+            },
+            {
+                "field_tag": "CR",
+                "field_desc": "CR - CARRIER ID"
+            },
+            {
+                "field_tag": "CY",
+                "field_desc": "CY - PATIENT ID"
+            },
+            {
+                "field_tag": "D1",
+                "field_desc": "D1 - DATE PRESCRIPTION FILLED [M]"
+            },
+            {
+                "field_tag": "D2",
+                "field_desc": "D2 - PRESCRIPTION NUMBER [M]"
+            },
+            {
+                "field_tag": "D3",
+                "field_desc": "D3 - FILL NUMBER"
+            },
+            {
+                "field_tag": "D5",
+                "field_desc": "D5 - DAYS SUPPLY"
+            },
+            {
+                "field_tag": "D6",
+                "field_desc": "D6 - COMPOUND CODE"
+            },
+            {
+                "field_tag": "D7",
+                "field_desc": "D7 - PRODUCT/SERVICE ID (NDC) [M]"
+            },
+            {
+                "field_tag": "D8",
+                "field_desc": "D8 - DAW CODE"
+            },
+            {
+                "field_tag": "D9",
+                "field_desc": "D9 - INGREDIENT COST SUBMITTED"
+            },
+            {
+                "field_tag": "DB",
+                "field_desc": "DB - PRESCRIBER ID"
+            },
+            {
+                "field_tag": "DC",
+                "field_desc": "DC - DISPENSING FEE SUBMITTED"
+            },
+            {
+                "field_tag": "DE",
+                "field_desc": "DE - DATE PRESCRIPTION WRITTEN [M]"
+            },
+            {
+                "field_tag": "DF",
+                "field_desc": "DF - NUMBER OF REFILLS AUTHORIZED"
+            },
+            {
+                "field_tag": "DI",
+                "field_desc": "DI - LEVEL OF SERVICE"
+            },
+            {
+                "field_tag": "DJ",
+                "field_desc": "DJ - PRESCRIPTION ORIGIN CODE"
+            },
+            {
+                "field_tag": "DK",
+                "field_desc": "DK - SUBMISSION CLARIFICATION CODE"
+            },
+            {
+                "field_tag": "DN",
+                "field_desc": "DN - BASIS OF COST DETERMINATION"
+            },
+            {
+                "field_tag": "DO",
+                "field_desc": "DO - DIAGNOSIS CODE"
+            },
+            {
+                "field_tag": "DQ",
+                "field_desc": "DQ - USUAL AND CUSTOMARY CHARGE"
+            },
+            {
+                "field_tag": "DR",
+                "field_desc": "DR - PRESCRIBER LAST NAME"
+            },
+            {
+                "field_tag": "DT",
+                "field_desc": "DT - UNIT DOSE INDICATOR"
+            },
+            {
+                "field_tag": "DU",
+                "field_desc": "DU - GROSS AMOUNT DUE"
+            },
+            {
+                "field_tag": "DV",
+                "field_desc": "DV - OTHER PAYER AMOUNT PAID"
+            },
+            {
+                "field_tag": "DX",
+                "field_desc": "DX - PATIENT PAID AMOUNT"
+            },
+            {
+                "field_tag": "DY",
+                "field_desc": "DY - DATE OF INJURY"
+            },
+            {
+                "field_tag": "DZ",
+                "field_desc": "DZ - CLAIM/REFERENCE ID"
+            },
+            {
+                "field_tag": "E1",
+                "field_desc": "E1 - PRODUCT/SERVICE ID QUALIFIER"
+            },
+            {
+                "field_tag": "E3",
+                "field_desc": "E3 - INCENTIVE AMOUNT SUBMITTED"
+            },
+            {
+                "field_tag": "E4",
+                "field_desc": "E4 - REASON FOR SERVICE CODE"
+            },
+            {
+                "field_tag": "E5",
+                "field_desc": "E5 - PROFESSIONAL SERVICE CODE"
+            },
+            {
+                "field_tag": "E6",
+                "field_desc": "E6 - RESULT OF SERVICE CODE"
+            },
+            {
+                "field_tag": "E7",
+                "field_desc": "E7 - QUANTITY DISPENSED [M]"
+            },
+            {
+                "field_tag": "E8",
+                "field_desc": "E8 - OTHER PAYER DATE"
+            },
+            {
+                "field_tag": "E9",
+                "field_desc": "E9 - PROVIDER ID"
+            },
+            {
+                "field_tag": "EA",
+                "field_desc": "EA - ORIGINALLY PRESCRIBED NDC"
+            },
+            {
+                "field_tag": "EB",
+                "field_desc": "EB - ORIGINALLY PRESCRIBED QUANTITY"
+            },
+            {
+                "field_tag": "EJ",
+                "field_desc": "EJ - ORIGINALLY PRESCRIBED NDC QUALIFIER"
+            },
+            {
+                "field_tag": "ET",
+                "field_desc": "ET - QUANTITY PRESCRIBED"
+            },
+            {
+                "field_tag": "EV",
+                "field_desc": "EV - PRIOR AUTH NUMBER SUBMITTED"
+            },
+            {
+                "field_tag": "EZ",
+                "field_desc": "EZ - PRESCRIBER ID QUALIFIER"
+            },
+            {
+                "field_tag": "HD",
+                "field_desc": "HD - DISPENSING STATUS"
+            },
+            {
+                "field_tag": "HF",
+                "field_desc": "HF - QUANTITY INTENDED TO BE DISPENSED"
+            },
+            {
+                "field_tag": "HG",
+                "field_desc": "HG - DAYS SUPPLY INTENDED TO BE DISPENSED"
+            },
+            {
+                "field_tag": "VE",
+                "field_desc": "VE - DIAGNOSIS CODE COUNT"
+            },
+            {
+                "field_tag": "WE",
+                "field_desc": "WE - DIAGNOSIS CODE QUALIFIER"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network_data": [
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "GEORGIA ADAP NETWORK",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 769,
+        "Group ID": 1526,
+        "Plan ID": "ADAP007",
+        "type_cd": "R",
+        "network_id": 769,
+        "desc_txt": "GEORGIA ADAP NETWORK",
+        "rank": null
+      }
+    ]
+  }
+}

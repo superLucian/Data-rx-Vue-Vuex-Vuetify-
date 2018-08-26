@@ -1,0 +1,21 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "provider_list": [
+      {
+        "pid": 93626,
+        "NPI": "1871674366",
+        "NABP": "2364189",
+        "Name": "ER DRUGS",
+        "Status": "ACTIVE",
+        "Store Number": "",
+        "Address": "27260 EUREKA RD",
+        "City": "TAYLOR",
+        "State": "MI",
+        "Zip Code": "48180",
+        "Phone Number": "7349559110",
+        "Fax Number": "7349559101"
+      }
+    ]
+  }
+}

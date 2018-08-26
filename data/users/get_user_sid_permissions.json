@@ -1,0 +1,18 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "sid_permissions_list": [
+      {
+        "SID": 3413,
+        "feature_id": 1,
+        "Feature": "Agent Administration",
+        "access_level": 1,
+        "Access": "Read Only",
+        "Updated By": null,
+        "Updated Date": null,
+        "Created By": "ctdowling",
+        "Created Date": "/Date(1503043476530)/"
+      }
+    ]
+  }
+}

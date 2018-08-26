@@ -1,0 +1,18 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "orders": [
+            {
+                "PCN": "340BASICS",
+                "NABP": "2801098",
+                "NPI": "1255485603",
+                "Pharmacy Name": "A & A DRUG COMPANY",
+                "NDC": "12312312312",
+                "QTY": 12,
+                "Created Date": "/Date(1506991476127)/",
+                "Created By": "admin",
+                "Comments": "asdf"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1778 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "pcc_list": [
+            {
+                "all_pcc": "Y",
+                "pcc": "340BASICS",
+                "name_txt": "340BASICS - 340BASICS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "340BVM",
+                "name_txt": "340BVM - 340B VM",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "A30905",
+                "name_txt": "A30905 - AUGUSTA NETWORK INSURANCE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ACBEN",
+                "name_txt": "ACBEN - AC BENEFITS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ACUSA",
+                "name_txt": "ACUSA - ALLIANCE FOR CONSUMERS USA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ADAP",
+                "name_txt": "ADAP - GEORGIA ADAP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ADVANSTAFF",
+                "name_txt": "ADVANSTAFF - ADVANSTAFF",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ADVHOSP",
+                "name_txt": "ADVHOSP - ADVANCED HOSPICE CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ADVTEDGE",
+                "name_txt": "ADVTEDGE - ADVANT-EDGE PHARMACY INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "AMAX",
+                "name_txt": "AMAX - ALPHAMAX, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "AMERIPHARM",
+                "name_txt": "AMERIPHARM - AMERICAN PHARMACIES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ANCHOR",
+                "name_txt": "ANCHOR - ANCHOR PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "APPRORX",
+                "name_txt": "APPRORX - APPRORX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ASG",
+                "name_txt": "ASG - Affiliated Services Group, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ASRX",
+                "name_txt": "ASRX - AH-MAZING SAVINGS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "AVACARE",
+                "name_txt": "AVACARE - AVACARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BACHIG",
+                "name_txt": "BACHIG - BACH INSURANCE GROUP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BAKER",
+                "name_txt": "BAKER - BAKER BENEFITS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BASICCARE",
+                "name_txt": "BASICCARE - BASIC CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BBHC",
+                "name_txt": "BBHC - BENEVOLENCE INDUSTRIES INCORPORATED",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BDCOG",
+                "name_txt": "BDCOG - BENNETT DRUG COMPANY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BESTVALUE",
+                "name_txt": "BESTVALUE - BEST VALUE PHARMACIES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BMH",
+                "name_txt": "BMH - BLECKLEY MEMORIAL HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "BTAMC",
+                "name_txt": "BTAMC - BROAD TOP AREA MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CAMERON",
+                "name_txt": "CAMERON - RIO GRANDE VALLEY INDIGENT HEALTH CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CARERX",
+                "name_txt": "CARERX - CARE RX, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CASA",
+                "name_txt": "CASA - Casa Select, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CAUSERX",
+                "name_txt": "CAUSERX - CAUSE RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CCC",
+                "name_txt": "CCC - CITIZEN CARE CARD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CCMH",
+                "name_txt": "CCMH - CARROLL COUNTY MEMORIAL HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CENTURY",
+                "name_txt": "CENTURY - CENTURY HEALTHCARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CHC",
+                "name_txt": "CHC - BETTERCARE RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CHIPREWARD",
+                "name_txt": "CHIPREWARD - CHIP REWARDS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CHOICERX",
+                "name_txt": "CHOICERX - CLEAR CHOICE RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CMC",
+                "name_txt": "CMC - CMC Promotions",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "COC",
+                "name_txt": "COC - CITY OF CARLSBAD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "COMWEALTH",
+                "name_txt": "COMWEALTH - COMMONWEALTH RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CRMC",
+                "name_txt": "CRMC - CHILDRESS REGIONAL MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CRVNA",
+                "name_txt": "CRVNA - CONCORD REGIONAL VISITING NURSE ASSOCIATION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "CRX",
+                "name_txt": "CRX - COASTAL RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DAVILA",
+                "name_txt": "DAVILA - DAVILA CD PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DCAH",
+                "name_txt": "DCAH - DENTON COUNTY PROJECT ACCESS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DCIHC",
+                "name_txt": "DCIHC - DENTON COUNTY INDIGENT HEALTH CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DECK",
+                "name_txt": "DECK - DECKERVILLE COMMUNITY HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DENTON",
+                "name_txt": "DENTON - DENTON PRESCRIPTION SHOP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DLSPHARM",
+                "name_txt": "DLSPHARM - DLS PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DOCDISC",
+                "name_txt": "DOCDISC - DOC DISCOUNTS, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DONH",
+                "name_txt": "DONH - DONALSONVILLE HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRX",
+                "name_txt": "DRX - DATA-RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXFCJ",
+                "name_txt": "DRXFCJ - FANNIN COUNTY JAIL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXHCT",
+                "name_txt": "DRXHCT - HOSPICE CARE TEAM",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXHPA",
+                "name_txt": "DRXHPA - HOSPICE PHARMACY ALLIANCE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXHSP",
+                "name_txt": "DRXHSP - DATA-RX HOSPICE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXMC",
+                "name_txt": "DRXMC - DATA-RX MANAGED CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "DRXNW",
+                "name_txt": "DRXNW - NUWAVE HEALTH",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EBS",
+                "name_txt": "EBS - EMPLOYEMENT BENEFIT SERVICE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EHCARK",
+                "name_txt": "EHCARK - EMPLOYER HEALTH COALITION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EHR",
+                "name_txt": "EHR - ERISA HEALTHCARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EMPHR",
+                "name_txt": "EMPHR - EMPLOYERS HR",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ENTRUST",
+                "name_txt": "ENTRUST - ENTRUST",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EPPSRX",
+                "name_txt": "EPPSRX - EQUIPOINT PARTNERS RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "EPRX",
+                "name_txt": "EPRX - EXECUTIVE PARTNER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FAGEN",
+                "name_txt": "FAGEN - Fagen Pharmacy",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FAIRSCRIPT",
+                "name_txt": "FAIRSCRIPT - FAIRSCRIPT BENEFIT SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FBC",
+                "name_txt": "FBC - FBC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FCIHC",
+                "name_txt": "FCIHC - FANNIN COUNTY INDIGENT HEALTH CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FHI",
+                "name_txt": "FHI - FAMILY HEALTHCARE, INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FHS",
+                "name_txt": "FHS - FHS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FORTIS",
+                "name_txt": "FORTIS - FORTIS RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FRMC",
+                "name_txt": "FRMC - FIRELANDS REGIONAL MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FRYS",
+                "name_txt": "FRYS - FRY'S PRESCRIPTION PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "FWPRX",
+                "name_txt": "FWPRX - FLORIDA WELLNESS PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GCHC",
+                "name_txt": "GCHC - GREENE COUNTY HEALTH CARE INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GINMEN",
+                "name_txt": "GINMEN - GINMEN GROUP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GLSB",
+                "name_txt": "GLSB - GLSB",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GO",
+                "name_txt": "GO - BLUESKY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GPHA",
+                "name_txt": "GPHA - GEORGIA PHARMACY ASSOCIATION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GPROF",
+                "name_txt": "GPROF - GLENVIEW PROFESSIONAL PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "GVALUE",
+                "name_txt": "GVALUE - GREAT VALUE RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "H2H",
+                "name_txt": "H2H - HEART TO HEART HOSPICE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HA",
+                "name_txt": "HA - HOSPICE AUSTIN",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HALL",
+                "name_txt": "HALL - HALL CO",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HAMP",
+                "name_txt": "HAMP - HAMPSHIRE PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HBCH",
+                "name_txt": "HBCH - HARBOR BEACH COMMUNITY HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCA",
+                "name_txt": "HCA - HOSPITAL CORP OF AMERICA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCB",
+                "name_txt": "HCB - HOSPICE CENTER BEND",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCCLCWB",
+                "name_txt": "HCCLCWB - HEALTHCARE COALITION OF LAFAYETTE COUNTY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCCLCWH",
+                "name_txt": "HCCLCWH - HEALTHCARE COALITION OF LAFAYETTE COUNTY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCPA",
+                "name_txt": "HCPA - HOSPICE OF CENTRAL PA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCPHONE",
+                "name_txt": "HCPHONE - HCPHONE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HCPL",
+                "name_txt": "HCPL - HCPL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HDRX1",
+                "name_txt": "HDRX1 - HONEST DISCOUNT LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HEALTHPDS",
+                "name_txt": "HEALTHPDS - HEALTHPLAN DATA SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HEARTBEAT",
+                "name_txt": "HEARTBEAT - TEST PCN FOR AUTOMATED ARE YOU ALIVE TEST CLAIMS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HETH",
+                "name_txt": "HETH - HERITAGE THERAPEUTICS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HIDALGO",
+                "name_txt": "HIDALGO - HIDALGO COUNTY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HLP",
+                "name_txt": "HLP - HEALTH AND LIFESTYLE PERKS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HOFF",
+                "name_txt": "HOFF - HOFFMAN",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HOLMES",
+                "name_txt": "HOLMES - HOLMES PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HORIZONRX",
+                "name_txt": "HORIZONRX - HORIZON RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "HSRX",
+                "name_txt": "HSRX - Health Savings Rx",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "IBN",
+                "name_txt": "IBN - INTEGRITY BENEFIT NETWORK",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ICL",
+                "name_txt": "ICL - ICL HEALTH CARE CHOICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ICMRX",
+                "name_txt": "ICMRX - I COVER MEDS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "IHPN",
+                "name_txt": "IHPN - IHPNETWORK",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "INTEGRATED",
+                "name_txt": "INTEGRATED - INTEGRATED INFORMATICS, INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "INTEGRISCR",
+                "name_txt": "INTEGRISCR - INTEGRISCRIPTS, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "JCHS",
+                "name_txt": "JCHS - JEFFERSON COUNTY COMMISSION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "JRMC",
+                "name_txt": "JRMC - JEWISH RENAISSANCE MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "JTS",
+                "name_txt": "JTS - James Town S'klallam Tribe",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "KCHD",
+                "name_txt": "KCHD - KNOX COUNTY HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "KLEINSRX",
+                "name_txt": "KLEINSRX - KLEINSRX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LAKEVIEW",
+                "name_txt": "LAKEVIEW - LAKEVIEW PBM SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LEGACY",
+                "name_txt": "LEGACY - LEGACY HOSPICE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LIFELINE",
+                "name_txt": "LIFELINE - LIFELINE DISCOUNT CARD - UNIQUE SOFTWARE DEV",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LMC",
+                "name_txt": "LMC - LM COUNTY PLANS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LPI",
+                "name_txt": "LPI - LEE`S PHARMACY INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "LPR",
+                "name_txt": "LPR - LAKEVIEW PHARMACY OF RACINE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MASONS",
+                "name_txt": "MASONS - SYMBIONCE MASONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MAXNET",
+                "name_txt": "MAXNET - MAX SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MCDG",
+                "name_txt": "MCDG - MCCAYSVILLE DRUG CENTER, INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MDS",
+                "name_txt": "MDS - MDS - MAI NGUYEN",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MEDADMIN",
+                "name_txt": "MEDADMIN - MEDADMIN SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MEDCARD",
+                "name_txt": "MEDCARD - MEDCARD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MEDCHEST",
+                "name_txt": "MEDCHEST - MEDICINE CHEST PHARMACIES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MEDPLUS",
+                "name_txt": "MEDPLUS - MEDICINE PLUS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MELROSE",
+                "name_txt": "MELROSE - MELROSE PHARMACY LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MFHC",
+                "name_txt": "MFHC - MONMOUTH FAMILY HEALTH CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MKS",
+                "name_txt": "MKS - MK STORES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MRSP",
+                "name_txt": "MRSP - MOORE'S PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MSI",
+                "name_txt": "MSI - PERSONAL RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "MTCP",
+                "name_txt": "MTCP - MOUNTAIN CARE PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NAT",
+                "name_txt": "NAT - RXSENSE NAT",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NB",
+                "name_txt": "NB - NEW BENEFITS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NCR",
+                "name_txt": "NCR - NCR",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NHCAC",
+                "name_txt": "NHCAC - NORTH HUDSON COMMUNITY ACTION CORP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NHCAC2",
+                "name_txt": "NHCAC2 - NORTH HUDSON COMMUNITY ACTION CORP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NICHE",
+                "name_txt": "NICHE - NICHE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NOHN",
+                "name_txt": "NOHN - NORTH OLYMPIC HEALTH NETWORK",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NOPRX",
+                "name_txt": "NOPRX - AFFORDABLE SERVICES 4 ALL, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NOTXP",
+                "name_txt": "NOTXP - NORTH TEXAS PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NRX",
+                "name_txt": "NRX - NET-RX",
+                "use_group_mpp_ind": "Y",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NTT",
+                "name_txt": "NTT - NORTH TOWNSHIP TRUSTEE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NW",
+                "name_txt": "NW - NW",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NWH",
+                "name_txt": "NWH - NUWAVE HEALTH",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "NWMGMT",
+                "name_txt": "NWMGMT - NETWORK MANAGEMENT",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ORMC",
+                "name_txt": "ORMC - OCONEE REGIONAL MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ORTHO",
+                "name_txt": "ORTHO - Ortho Rx Lab, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "OZARKSRX",
+                "name_txt": "OZARKSRX - L&J PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PAOP",
+                "name_txt": "PAOP - PEOPLE ASSISTING OTHER PEOPLE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PAS",
+                "name_txt": "PAS - PROVIDENCE ADMINISTRATIVE SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PATASSIST",
+                "name_txt": "PATASSIST - PATIENT ASSISTANCE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PB",
+                "name_txt": "PB - PHARMACY FIRST",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PBC",
+                "name_txt": "PBC - PBC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PCG",
+                "name_txt": "PCG - PCG",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PCMHA",
+                "name_txt": "PCMHA - PEMBINA COUNTY MEMORIAL HOSPITAL ASSOCIATION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PCMHAT",
+                "name_txt": "PCMHAT - PEMBINA COUNTY MEMORIAL HOSPITAL ASSOCIATION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PCSWGA",
+                "name_txt": "PCSWGA - PRIMARY CARE OF SW GEORGIA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PDC",
+                "name_txt": "PDC - PRESCRIPTION DISCOUNT CLUB",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PDS",
+                "name_txt": "PDS - PHARMACY DEVELOPMENT SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PDSC",
+                "name_txt": "PDSC - PrescriptionDrugSavingsCard.com",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PHARMBLUE",
+                "name_txt": "PHARMBLUE - PHARMBLUE LLC AND AFFILIATES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PHONOSCOPE",
+                "name_txt": "PHONOSCOPE - PHONOSCOPE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PNRX",
+                "name_txt": "PNRX - PRESCRIPTION RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PNU",
+                "name_txt": "PNU - PNU ENTERPRISES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PRAMPR",
+                "name_txt": "PRAMPR - MEDICINE OUTLET",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PRESCORP",
+                "name_txt": "PRESCORP - PRESCRIPTION CORP OF AMERICA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PRORX",
+                "name_txt": "PRORX - PRORX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PRX",
+                "name_txt": "PRX - PREFERRED RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PSC",
+                "name_txt": "PSC - EASYCOPAY ALT",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "PTT",
+                "name_txt": "PTT - PENN TOWNSHIP TRUSTEE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "QCP",
+                "name_txt": "QCP - QUALITY CARE PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "QCPLCG",
+                "name_txt": "QCPLCG - QUALITY CARE PHARMACY LOW COST GENERIC PROGRAM",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "QCPMATCHIT",
+                "name_txt": "QCPMATCHIT - QUALITY CARE PHARMACY LOW COST GENERIC PROGRAM",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "QLHS",
+                "name_txt": "QLHS - QUALITY OF LIFE HEALTH SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RAVNA",
+                "name_txt": "RAVNA - RUTLAND AREA VISITING NURSE ASSOC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RBNHD",
+                "name_txt": "RBNHD - SECONDARY LIS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RDS",
+                "name_txt": "RDS - RX DATA SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RGVRX",
+                "name_txt": "RGVRX - RGV RX GROUP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RMHC",
+                "name_txt": "RMHC - RAMBO MEMORIAL HEALTH CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ROCHE",
+                "name_txt": "ROCHE - ROCHE CAPTURE FOR REBATE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ROGERSVILL",
+                "name_txt": "ROGERSVILL - ROGERSVILLE PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RON",
+                "name_txt": "RON - RON'S PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXCASH",
+                "name_txt": "RXCASH - RXSENSE CASH CARD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXDISC",
+                "name_txt": "RXDISC - RXPREF DISCOUNT/LOYALTY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXFOR35",
+                "name_txt": "RXFOR35 - RXFOR35.COM",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXINST",
+                "name_txt": "RXINST - RXSENSE INST CARD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXNGO",
+                "name_txt": "RXNGO - RXNGO MAIL ORDER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "RXPREF",
+                "name_txt": "RXPREF - RXPREFERRED BENEFITS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SAVE",
+                "name_txt": "SAVE - EASYCOPAY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SBCISD",
+                "name_txt": "SBCISD - SAN BENITO CONSOLIDATED INDEPENDENT SCHOOL DISTRIC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SBR",
+                "name_txt": "SBR - STONEBRIAR FINANCIAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SBSOL",
+                "name_txt": "SBSOL - SUPER BENEFIT SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SCH",
+                "name_txt": "SCH - SPALDING COUNTY HEALTH",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SCHA",
+                "name_txt": "SCHA - STEPHENS COUNTY HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SCRX",
+                "name_txt": "SCRX - SELECT CARE Rx",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SJTT",
+                "name_txt": "SJTT - ST JOHN TOWNSHIP TRUSTEE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SMARTSCRIP",
+                "name_txt": "SMARTSCRIP - SMARTSCRIPTS PBM, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SOBERHC",
+                "name_txt": "SOBERHC - SOBERHC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SRS",
+                "name_txt": "SRS - SRS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "STREAMCARE",
+                "name_txt": "STREAMCARE - STREAMCARE, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SURGMED",
+                "name_txt": "SURGMED - SURGICAL MEDS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SVT",
+                "name_txt": "SVT - SVT LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SWGHC",
+                "name_txt": "SWGHC - SOUTHWEST GEORGIA HEALTH CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SWMC",
+                "name_txt": "SWMC - SOUTHWEST WASHINGTON MEDICAL CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SWMH",
+                "name_txt": "SWMH - STONEWALL MEMORIAL HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SWTXRX",
+                "name_txt": "SWTXRX - ADVANT-EDGE PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "SYMBIONCE",
+                "name_txt": "SYMBIONCE - SYMBIONCE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TCMH",
+                "name_txt": "TCMH - THROCKMORTON COUNTY MEMORIAL HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TDS",
+                "name_txt": "TDS - THE DRUG STORE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTAYA",
+                "name_txt": "TESTAYA - TEST PCN FOR AUTOMATED ARE YOU ALIVE TEST CLAIMS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTING",
+                "name_txt": "TESTING - TESTING",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTING2",
+                "name_txt": "TESTING2 - TESTING2",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCC",
+                "name_txt": "TESTPCC - TEST PCN",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCC2",
+                "name_txt": "TESTPCC2 - TEST PCN 2",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCC3",
+                "name_txt": "TESTPCC3 - TESTING",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCC4",
+                "name_txt": "TESTPCC4 - TESTING",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCN3",
+                "name_txt": "TESTPCN3 - TESTPCN3",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TESTPCN99",
+                "name_txt": "TESTPCN99 - TESTING",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TOYA",
+                "name_txt": "TOYA - TOYA SERVICRES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRANSACT",
+                "name_txt": "TRANSACT - TransactRX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRANSCEND",
+                "name_txt": "TRANSCEND - TRANSCENDRX HEALTH ENTERPRISES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRIADCARE",
+                "name_txt": "TRIADCARE - TRIADCARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRIMED",
+                "name_txt": "TRIMED - TRIMED FOUNDATION",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRINITY",
+                "name_txt": "TRINITY - TRINITY MEDICAL PHARMACY",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRMH",
+                "name_txt": "TRMH - TAYLOR REGIONAL MEMORIAL HOSPITAL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRMHCC",
+                "name_txt": "TRMHCC - TAYLOR REGIONAL MEMORIAL HOSPITAL - COMMUNITY CARE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "TRX",
+                "name_txt": "TRX - TRUE RX",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "UCHC",
+                "name_txt": "UCHC - UNIVERSAL COMMUNITY HEALTH CENTER",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "2"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "UFG",
+                "name_txt": "UFG - UFG",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "UFLIC",
+                "name_txt": "UFLIC - UNIVERSAL FIDELITY LIFE INSURANCE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "ULTH",
+                "name_txt": "ULTH - ULTIMATE HEALTH",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "USARX",
+                "name_txt": "USARX - USA RX, LLC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "USPD",
+                "name_txt": "USPD - USPD CENTRAL FILL",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VANCREST",
+                "name_txt": "VANCREST - VANCREST MANAGEMENT",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VCIS",
+                "name_txt": "VCIS - VENTEGRA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VENTEG",
+                "name_txt": "VENTEG - VENTEGRA",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VERAGAE",
+                "name_txt": "VERAGAE - VERAGAE",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VILLE",
+                "name_txt": "VILLE - VILLAGE PHARMACY, INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VIPCARD",
+                "name_txt": "VIPCARD - VIP CARD",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VNATX",
+                "name_txt": "VNATX - VNA HOSPICE OF TEXAS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VPSP",
+                "name_txt": "VPSP - VALUE PRESCRIPTION SAVINGS PLAN",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "VRSP",
+                "name_txt": "VRSP - VRSP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WCHC",
+                "name_txt": "WCHC - WASHINGTON COUNTY HOSPITAL AND CLINICS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WGC",
+                "name_txt": "WGC - WALLACE GROUP",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WHS",
+                "name_txt": "WHS - WELLNESS HEALTH SOLUTIONS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WiseScript",
+                "name_txt": "WiseScript - WiseScript",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WMC",
+                "name_txt": "WMC - WELLCARE MEDICAL CONCEPTS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WORC",
+                "name_txt": "WORC - RXPREF WORKER COMP PLANS",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WORKLIFE",
+                "name_txt": "WORKLIFE - WORKLIFE FINANCIAL INC",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WORLD",
+                "name_txt": "WORLD - WORLD WIDE HEALTH",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "WSB",
+                "name_txt": "WSB - WORKSITE BENEFIT SERVICES",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            },
+            {
+                "all_pcc": "Y",
+                "pcc": "YOUNGS",
+                "name_txt": "YOUNGS - Young's Pharmacy",
+                "use_group_mpp_ind": "N",
+                "edit_form_type_cd": "1"
+            }
+        ]
+    }
+}

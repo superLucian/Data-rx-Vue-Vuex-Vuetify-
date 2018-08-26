@@ -1,0 +1,54 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "user": [
+            {
+                "uid": "aanelson",
+                "lname": "NELSON",
+                "fname": "APRIL",
+                "addr1_txt": "VENTEGRA",
+                "addr2_txt": "",
+                "city_txt": "GLENDALE",
+                "state_cd": "CA",
+                "zip_cd": "91203",
+                "phone_num": "866-430-0218",
+                "fax_num": "",
+                "cell_num": "",
+                "pager_num": "",
+                "email_addr_txt": "APRIL.NELSON@VENTEGRA.COM",
+                "type_cd": null,
+                "status_cd": "A",
+                "locked_out_flg": "F",
+                "all_pcc": "N",
+                "internal_flg": "T",
+                "created_by": "ldaniel",
+                "created_dt": "/Date(1418354377280)/",
+                "updated_by": "ctdowling",
+                "updated_dt": "/Date(1502771585107)/",
+                "deleted_dt": null
+            }
+        ],
+        "user_class_sid": [
+            {
+                "PCN": "340BASICS",
+                "class_id": 32010,
+                "Class": "Acct Mgnt",
+                "SID": "",
+                "Updated By": "ctdowling",
+                "Updated Date": "/Date(1502772048697)/",
+                "Created By": "ctdowling",
+                "Created Date": "/Date(1502771585107)/"
+            },
+            {
+                "PCN": "340BVM",
+                "class_id": 32013,
+                "Class": "Accounting",
+                "SID": "",
+                "Updated By": null,
+                "Updated Date": null,
+                "Created By": "ctdowling",
+                "Created Date": "/Date(1502771599487)/"
+            }
+        ]
+    }
+}

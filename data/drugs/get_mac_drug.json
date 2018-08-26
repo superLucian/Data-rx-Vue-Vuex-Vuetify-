@@ -1,0 +1,23 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "mac_drug": [
+      {
+        "mac_id": 2,
+        "drug_id_type_cd": "N",
+        "drug_id": "04488004000",
+        "quantity": 0,
+        "drug_name_txt": "A/B/H  SUPP",
+        "drug_type_cd": null,
+        "status_cd": "A",
+        "unit_price_amt": 4.1613,
+        "drug_tier": null,
+        "msg_txt": null,
+        "created_by": "tjsadmin",
+        "created_dt": "/Date(1179301856660)/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ]
+  }
+}

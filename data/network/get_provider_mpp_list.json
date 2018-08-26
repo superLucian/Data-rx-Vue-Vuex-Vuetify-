@@ -1,0 +1,75 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "mpp_list": [
+      {
+        "Group Name": "RXBLUE - 340B VM TEST",
+        "group_id": 1595,
+        "pid": 166626,
+        "NABP": "BBBBBBB",
+        "NPI": "1231236666",
+        "Provider Name": "BBBBBBB",
+        "Pricing Zip": "35",
+        "Price Code": "03",
+        "Markup": 0,
+        "Fee": 0,
+        "Min Amount": 0,
+        "created_by": "admin",
+        "created_dt": "/Date(1505348564997)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1505348576243)/"
+      },
+      {
+        "Group Name": "TEST1115 - TEST1115",
+        "group_id": 2322,
+        "pid": 166626,
+        "NABP": "BBBBBBB",
+        "NPI": "1231236666",
+        "Provider Name": "BBBBBBB",
+        "Pricing Zip": "90",
+        "Price Code": "04",
+        "Markup": 0,
+        "Fee": 0,
+        "Min Amount": 0,
+        "created_by": "admin",
+        "created_dt": "/Date(1505368600300)/",
+        "updated_by": null,
+        "updated_dt": null
+      },
+      {
+        "Group Name": "TEST116 - TEST116",
+        "group_id": 2323,
+        "pid": 166626,
+        "NABP": "BBBBBBB",
+        "NPI": "1231236666",
+        "Provider Name": "BBBBBBB",
+        "Pricing Zip": "35",
+        "Price Code": "03",
+        "Markup": 0,
+        "Fee": 0,
+        "Min Amount": 0,
+        "created_by": "admin",
+        "created_dt": "/Date(1505348582833)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1505348595390)/"
+      },
+      {
+        "Group Name": "TEST GROUP - TEST GROUP",
+        "group_id": 2380,
+        "pid": 166626,
+        "NABP": "BBBBBBB",
+        "NPI": "1231236666",
+        "Provider Name": "BBBBBBB",
+        "Pricing Zip": "99",
+        "Price Code": "03",
+        "Markup": 0,
+        "Fee": 0,
+        "Min Amount": 0,
+        "created_by": "admin",
+        "created_dt": "/Date(1505410298113)/",
+        "updated_by": null,
+        "updated_dt": null
+      }
+    ]
+  }
+}

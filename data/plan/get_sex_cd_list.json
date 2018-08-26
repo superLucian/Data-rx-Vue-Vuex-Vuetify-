@@ -1,0 +1,21 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "sex_cd_data": [{
+      "field_value": "2",
+      "desc_txt": "Female"
+    }, {
+      "field_value": "1",
+      "desc_txt": "Male"
+    }, {
+      "field_value": "4",
+      "desc_txt": "Refused To Report"
+    }, {
+      "field_value": "3",
+      "desc_txt": "Transgender"
+    }, {
+      "field_value": "0",
+      "desc_txt": "Unknown"
+    }]
+  }
+}

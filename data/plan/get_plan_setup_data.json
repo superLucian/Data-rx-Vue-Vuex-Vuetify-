@@ -1,0 +1,1396 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "plan_type_data": [
+      {
+        "plan_type_cd": "2",
+        "plan_type_desc_txt": "Hospice2"
+      },
+      {
+        "plan_type_cd": "3",
+        "plan_type_desc_txt": "340Basics"
+      },
+      {
+        "plan_type_cd": "B",
+        "plan_type_desc_txt": "340B"
+      },
+      {
+        "plan_type_cd": "C",
+        "plan_type_desc_txt": "COBRA"
+      },
+      {
+        "plan_type_cd": "D",
+        "plan_type_desc_txt": "Cash Card"
+      },
+      {
+        "plan_type_cd": "E",
+        "plan_type_desc_txt": "Managed Care - Special Contract"
+      },
+      {
+        "plan_type_cd": "F",
+        "plan_type_desc_txt": "Fixed Indemnity"
+      },
+      {
+        "plan_type_cd": "H",
+        "plan_type_desc_txt": "Hospice"
+      },
+      {
+        "plan_type_cd": "I",
+        "plan_type_desc_txt": "Institutional"
+      },
+      {
+        "plan_type_cd": "L",
+        "plan_type_desc_txt": "340B Blended w/ Variable Copay"
+      },
+      {
+        "plan_type_cd": "M",
+        "plan_type_desc_txt": "Managed Care"
+      },
+      {
+        "plan_type_cd": "N",
+        "plan_type_desc_txt": "Skilled Nursing Facility"
+      },
+      {
+        "plan_type_cd": "O",
+        "plan_type_desc_txt": "Other"
+      },
+      {
+        "plan_type_cd": "P",
+        "plan_type_desc_txt": "340B Blended w/ Fixed Copay"
+      },
+      {
+        "plan_type_cd": "R",
+        "plan_type_desc_txt": "Retail Savings Card"
+      },
+      {
+        "plan_type_cd": "S",
+        "plan_type_desc_txt": "State Medicaid"
+      },
+      {
+        "plan_type_cd": "T",
+        "plan_type_desc_txt": "Savings Card - Special Contract"
+      },
+      {
+        "plan_type_cd": "U",
+        "plan_type_desc_txt": "Surgery Center"
+      },
+      {
+        "plan_type_cd": "V",
+        "plan_type_desc_txt": "VPSP Savings Card"
+      },
+      {
+        "plan_type_cd": "W",
+        "plan_type_desc_txt": "Workers Compensation"
+      },
+      {
+        "plan_type_cd": "X",
+        "plan_type_desc_txt": "Max Value Plan"
+      },
+      {
+        "plan_type_cd": "Y",
+        "plan_type_desc_txt": "Managed Savings"
+      }
+    ],
+    "rollover_period_data": [
+      {
+        "rollover_period_cd": "A",
+        "rollover_period_desc_txt": "Annually"
+      },
+      {
+        "rollover_period_cd": "C",
+        "rollover_period_desc_txt": "Calendar Month"
+      },
+      {
+        "rollover_period_cd": "X",
+        "rollover_period_desc_txt": "Not applicable"
+      }
+    ],
+    "reimbursement_data": [
+      {
+        "reimbursement_cd": "B",
+        "reimbursement_desc_txt": "Reimburse at brand rate"
+      },
+      {
+        "reimbursement_cd": "G",
+        "reimbursement_desc_txt": "Reimburse at generic rate"
+      },
+      {
+        "reimbursement_cd": "X",
+        "reimbursement_desc_txt": "Not applicable"
+      }
+    ],
+    "group_data": [
+      {
+        "group_id": 496,
+        "group_cd": "PHC",
+        "name_txt": "PACIFIC HOSPICE CARE"
+      },
+      {
+        "group_id": 498,
+        "group_cd": "PREMIER",
+        "name_txt": "PREMIER PHARMACY SERVICES"
+      },
+      {
+        "group_id": 508,
+        "group_cd": "CHR",
+        "name_txt": "COMPANION HOSPICE RIVERSIDE"
+      },
+      {
+        "group_id": 510,
+        "group_cd": "CVH",
+        "name_txt": "CITRUS VALLEY HOSPICE"
+      },
+      {
+        "group_id": 518,
+        "group_cd": "LCH",
+        "name_txt": "LIFE CARE HOSPICE"
+      },
+      {
+        "group_id": 519,
+        "group_cd": "PIH",
+        "name_txt": "HOSPICE OF PRESBYTERIAN"
+      },
+      {
+        "group_id": 531,
+        "group_cd": "SEH",
+        "name_txt": "SERENITY HOSPICE"
+      },
+      {
+        "group_id": 539,
+        "group_cd": "HOPE",
+        "name_txt": "HOPE HOSPICE AND HEALTH"
+      },
+      {
+        "group_id": 543,
+        "group_cd": "MHI",
+        "name_txt": "MILESTONE HOSPICE"
+      },
+      {
+        "group_id": 546,
+        "group_cd": "CHD",
+        "name_txt": "COMPANION HOSPICE DOWNEY"
+      },
+      {
+        "group_id": 547,
+        "group_cd": "CHO",
+        "name_txt": "COMPANION HOSPICE ORANGE"
+      },
+      {
+        "group_id": 631,
+        "group_cd": "DIA",
+        "name_txt": "DIAMOND HEALTH CARE SERVICES"
+      },
+      {
+        "group_id": 659,
+        "group_cd": "RRHV",
+        "name_txt": "ROZE ROOM HOSPICE OF THE VALLEY"
+      },
+      {
+        "group_id": 664,
+        "group_cd": "UCH",
+        "name_txt": "ULTIMATE CARE HOSPICE"
+      },
+      {
+        "group_id": 678,
+        "group_cd": "PAC",
+        "name_txt": "PACIFIC HAVEN"
+      },
+      {
+        "group_id": 702,
+        "group_cd": "WC",
+        "name_txt": "WORKMANS COMP"
+      },
+      {
+        "group_id": 805,
+        "group_cd": "SGV",
+        "name_txt": "SAN GABRIEL VALLEY HOSPICE"
+      },
+      {
+        "group_id": 806,
+        "group_cd": "CHIC",
+        "name_txt": "COMPANION HOSPICE INLAND COUNTIES"
+      },
+      {
+        "group_id": 1617,
+        "group_cd": "CPC",
+        "name_txt": "COMPCARE HOSPICE"
+      },
+      {
+        "group_id": 1725,
+        "group_cd": "CAH",
+        "name_txt": "CADENCE HOSPICE"
+      },
+      {
+        "group_id": 2392,
+        "group_cd": "CARERX",
+        "name_txt": "CARERX"
+      }
+    ],
+    "network_data": [
+      {
+        "Network Type Desc": "Retail Network",
+        "Network Desc": "DRX SAVINGS CARD NETWORK",
+        "Status": "Active",
+        "Comments": "",
+        "Network ID": 769,
+        "Group ID": 2392,
+        "Plan ID": "CRX1",
+        "type_cd": "R",
+        "network_id": 769,
+        "desc_txt": "DRX SAVINGS CARD NETWORK",
+        "rank": null
+      }
+    ],
+    "agent_data": [],
+    "plan_param_data": [
+      {
+        "Product Type Code": "01",
+        "Product Type Desc": "Rx/Brand Name",
+        "Single Source": "N",
+        "Plan Param Desc": "RX BRAND MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447850310)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "01",
+        "Product Type Desc": "Rx/Brand Name",
+        "Single Source": "Y",
+        "Plan Param Desc": "RX BRAND SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448170497)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "02",
+        "Product Type Desc": "Rx/Generic",
+        "Single Source": "N",
+        "Plan Param Desc": "RX/GENERIC MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448401677)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "02",
+        "Product Type Desc": "Rx/Generic",
+        "Single Source": "Y",
+        "Plan Param Desc": "RX/GENERIC SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448463620)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "03",
+        "Product Type Desc": "Surgical/Device",
+        "Single Source": "N",
+        "Plan Param Desc": "SURGICLE/DEVICE MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447889190)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "03",
+        "Product Type Desc": "Surgical/Device",
+        "Single Source": "Y",
+        "Plan Param Desc": "SURGICLE/DEVICE SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448154757)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "04",
+        "Product Type Desc": "Rx/Repackaged Brand Name Product",
+        "Single Source": "N",
+        "Plan Param Desc": "RX/REPACK BRAND MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447914780)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "04",
+        "Product Type Desc": "Rx/Repackaged Brand Name Product",
+        "Single Source": "Y",
+        "Plan Param Desc": "RX/REPACK BRAND SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448135890)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "05",
+        "Product Type Desc": "Rx/Branded Generic",
+        "Single Source": "N",
+        "Plan Param Desc": "RX/BRANDED GENERIC MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448383347)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "05",
+        "Product Type Desc": "Rx/Branded Generic",
+        "Single Source": "Y",
+        "Plan Param Desc": "RX/BRANDED GENERIC SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448481710)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "07",
+        "Product Type Desc": "OTC/Brand Name",
+        "Single Source": "N",
+        "Plan Param Desc": "OTC/BRAND MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447935290)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "07",
+        "Product Type Desc": "OTC/Brand Name",
+        "Single Source": "Y",
+        "Plan Param Desc": "OTC/BRAND SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448119770)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "08",
+        "Product Type Desc": "OTC/Generic",
+        "Single Source": "N",
+        "Plan Param Desc": "OTC/GENERIC MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448361277)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "08",
+        "Product Type Desc": "OTC/Generic",
+        "Single Source": "Y",
+        "Plan Param Desc": "OTC/GENERIC SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448499123)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "09",
+        "Product Type Desc": "OTC/Repackaged",
+        "Single Source": "N",
+        "Plan Param Desc": "OTC/REPACKAGED MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447956470)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "09",
+        "Product Type Desc": "OTC/Repackaged",
+        "Single Source": "Y",
+        "Plan Param Desc": "OTC/REPACKAGED SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448097080)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "10",
+        "Product Type Desc": "Rx/Repackaged Branded Generic Product",
+        "Single Source": "N",
+        "Plan Param Desc": "RX/REPACKAGED BRANDED GENERIC MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448339037)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "10",
+        "Product Type Desc": "Rx/Repackaged Branded Generic Product",
+        "Single Source": "Y",
+        "Plan Param Desc": "RX/REPACKAGED BRANDED GENERIC SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.2,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448517160)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "11",
+        "Product Type Desc": "Chemical for Compounding",
+        "Single Source": "N",
+        "Plan Param Desc": "CHEMICAL FOR COMPOUNDING MULTI SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366447977793)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      },
+      {
+        "Product Type Code": "11",
+        "Product Type Desc": "Chemical for Compounding",
+        "Single Source": "Y",
+        "Plan Param Desc": "CHEMICAL FOR COMPOUNDING SINGLE SOURCE",
+        "Price Code": "11",
+        "Price Code Desc": "AWP-Medispan",
+        "Price Discount Pct": 0.13,
+        "Dispensing Fee": 5,
+        "Incentive Fee": 0,
+        "Service Fee": 0,
+        "Admin Fee": 0,
+        "Other Fee": 0,
+        "Prior Authorization Amt": 0,
+        "Allow Refill Pct": 0,
+        "Max Rx Fill Type Code": "N",
+        "Max Rx Fill Count": 0,
+        "Max Rx Fill Days Count": 0,
+        "MAC Id": 0,
+        "Maintenance Med Max Days Supply EA Count": 999,
+        "Maintenance Med Max Days Supply GM Amt": 999,
+        "Maintenance Med Max Days Supply ML Amt": 999,
+        "Maintenance Med Max Quantity EA Count": 0,
+        "Maintenance Med Max Quantity GM Amt": 0,
+        "Maintenance Med Max Quantity ML Amt": 0,
+        "Acute Med Max Days Supply EA Count": 999,
+        "Acute Med Max Days Supply GM Amt": 999,
+        "Acute Med Max Days Supply ML Amt": 999,
+        "Acute Med Max Quantity EA Count": 0,
+        "Acute Med Max Quantity GM Amt": 0,
+        "Acute Med Max Quantity ML Amt": 0,
+        "Comments": "",
+        "Status Code": "A",
+        "Status": "Active",
+        "Created By": "PrebateAdmin",
+        "Created Dt": "/Date(1366448074560)/",
+        "Updated By": "tjsadmin",
+        "Updated Dt": "/Date(1409491666310)/"
+      }
+    ],
+    "plan_copay_data": [],
+    "sysuser_data": [
+      {
+        "uid": "admin",
+        "name_txt": "Admin, Test",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      },
+      {
+        "uid": "cdowling",
+        "name_txt": "Chris, Dowling",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      },
+      {
+        "uid": "cmodani",
+        "name_txt": "Chintan, Modani",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      },
+      {
+        "uid": "jchowdhury",
+        "name_txt": "Jay, Chowdhury",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      },
+      {
+        "uid": "llin",
+        "name_txt": "Lijie, Lin",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      },
+      {
+        "uid": "schauhan",
+        "name_txt": "Sajid, Chauhan",
+        "addr1_txt": null,
+        "city_txt": null,
+        "state_cd": null,
+        "zip_cd": null,
+        "phone_num": null,
+        "cell_num": null,
+        "email_addr_txt": null
+      }
+    ],
+    "support_uid": [],
+    "provider_alt": [],
+    "faxed_invoice_list": [],
+    "member_card_report_list": [
+      {
+        "report_id": 306,
+        "report_desc": "340B TEST RX CARD"
+      },
+      {
+        "report_id": 268,
+        "report_desc": "AAPHC RX CARD"
+      },
+      {
+        "report_id": 318,
+        "report_desc": "ADAP HICP COPAY CARD"
+      },
+      {
+        "report_id": 319,
+        "report_desc": "ADAP MEDICARE PART D COPAY CARD"
+      },
+      {
+        "report_id": 309,
+        "report_desc": "ADAP RX CARD"
+      },
+      {
+        "report_id": 270,
+        "report_desc": "ANCHOR RX CARD"
+      },
+      {
+        "report_id": 267,
+        "report_desc": "AVACARE RX CARD"
+      },
+      {
+        "report_id": 291,
+        "report_desc": "BMH RX CARD"
+      },
+      {
+        "report_id": 286,
+        "report_desc": "FHI RX CARD"
+      },
+      {
+        "report_id": 299,
+        "report_desc": "FRMC RX CARD"
+      },
+      {
+        "report_id": 292,
+        "report_desc": "NTT RX CARD"
+      },
+      {
+        "report_id": 271,
+        "report_desc": "PCSWGA RX CARD"
+      },
+      {
+        "report_id": 274,
+        "report_desc": "PHC RX CARD"
+      },
+      {
+        "report_id": 312,
+        "report_desc": "PTT RX CARD"
+      },
+      {
+        "report_id": 275,
+        "report_desc": "QUALITY OF LIFE CARD"
+      },
+      {
+        "report_id": 305,
+        "report_desc": "RMHC RX CARD"
+      },
+      {
+        "report_id": 307,
+        "report_desc": "SJTT RX CARD"
+      },
+      {
+        "report_id": 269,
+        "report_desc": "SWGHC RX CARD"
+      },
+      {
+        "report_id": 288,
+        "report_desc": "TCMH RX CARD"
+      },
+      {
+        "report_id": 311,
+        "report_desc": "TRIMED RX CARD"
+      },
+      {
+        "report_id": 285,
+        "report_desc": "TRMH RX CARD"
+      }
+    ],
+    "compound_syscode": [
+      {
+        "field_name": "compound_copay_type_cd",
+        "field_value": "F",
+        "desc_txt": "Coinsurance",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "compound_copay_type_cd",
+        "field_value": "D",
+        "desc_txt": "Copay",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "compound_copay_type_cd",
+        "field_value": "T",
+        "desc_txt": "Level/Tier",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "compound_copay_type_cd",
+        "field_value": "N",
+        "desc_txt": "Not Applicable",
+        "abbrev_txt": null
+      }
+    ],
+    "term_cd_syscode": [
+      {
+        "field_name": "term_cd",
+        "field_value": "01",
+        "desc_txt": "CURRENT MONTH",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "06",
+        "desc_txt": "LIFE OF THE PLAN",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "08",
+        "desc_txt": "PREVIOUS 180 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "10",
+        "desc_txt": "PREVIOUS 24 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "09",
+        "desc_txt": "PREVIOUS 27 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "07",
+        "desc_txt": "PREVIOUS 3 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "03",
+        "desc_txt": "PREVIOUS 30 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "05",
+        "desc_txt": "PREVIOUS 365 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "02",
+        "desc_txt": "PREVIOUS 90 DAYS",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "term_cd",
+        "field_value": "04",
+        "desc_txt": "SAME CALENDAR DAY",
+        "abbrev_txt": null
+      }
+    ],
+    "formulary_mgr_syscode": [
+      {
+        "field_name": "formulary_mgr",
+        "field_value": "D",
+        "desc_txt": "DataRx",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "formulary_mgr",
+        "field_value": "P",
+        "desc_txt": "Plan",
+        "abbrev_txt": null
+      }
+    ],
+    "base_formulary_syscode": [
+      {
+        "field_name": "base_formulary",
+        "field_value": "C",
+        "desc_txt": "Caremark",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "base_formulary",
+        "field_value": "K",
+        "desc_txt": "Custom",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "base_formulary",
+        "field_value": "VP",
+        "desc_txt": "Ventegra Preferred",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "base_formulary",
+        "field_value": "VPm",
+        "desc_txt": "Ventegra Premium",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "base_formulary",
+        "field_value": "VP+",
+        "desc_txt": "Ventegra Premium Plus",
+        "abbrev_txt": null
+      }
+    ],
+    "rebate_level_1_syscode": [
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "CASH",
+        "desc_txt": "Cash",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "DISC",
+        "desc_txt": "Discount",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "FUNDED",
+        "desc_txt": "Funded",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "FUNDED-2T",
+        "desc_txt": "Funded 2 Tier",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "FUNDED-3TGT",
+        "desc_txt": "Funded 3 Tier Greater Than $15",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "FUNDED-3TLT",
+        "desc_txt": "Funded 3 Tier Less Than $15",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "HOSP",
+        "desc_txt": "Hospice",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "rebate_level_1",
+        "field_value": "INST",
+        "desc_txt": "Institutional",
+        "abbrev_txt": null
+      }
+    ],
+    "plan_benefit_tier_syscode": [
+      {
+        "field_name": "plan_benefit_tier",
+        "field_value": "1",
+        "desc_txt": "Benefits for this plan only",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_benefit_tier",
+        "field_value": "2",
+        "desc_txt": "Benefits shared with all plans in this group",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_benefit_tier",
+        "field_value": "3",
+        "desc_txt": "Benefits shared with all plans under this pcn",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_benefit_tier",
+        "field_value": "4",
+        "desc_txt": "Share only deductible and OOP for all plans in this group",
+        "abbrev_txt": null
+      }
+    ]
+  }
+}

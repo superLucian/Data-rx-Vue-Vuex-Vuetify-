@@ -1,0 +1,571 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "provider": [
+      {
+        "pid": 166626,
+        "npi": "1231236655",
+        "nabp": "BBBBBBB",
+        "name_txt": "BBBBBBBAS DFAS DF",
+        "zip_cd": "35",
+        "price_cd": "03",
+        "brand_price_cd": "04",
+        "brand_markup": 0,
+        "generic_price_cd": null,
+        "generic_markup": 0,
+        "narcotic_price_cd": null,
+        "narcotic_markup": 0,
+        "brand_markup_pct": 0,
+        "generic_markup_pct": 0,
+        "narcotic_markup_pct": 0,
+        "fee": 0,
+        "percent_fee": 0,
+        "min_claim_amt": 0,
+        "created_by": "admin",
+        "created_dt": "/Date(1505348564997)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1505348576243)/"
+      }
+    ],
+    "mpp_id": [
+      {
+        "mpp_id": 35,
+        "desc": "35  ALABAMA",
+        "desc_txt": "ALABAMA"
+      },
+      {
+        "mpp_id": 36,
+        "desc": "36  ALABAMA",
+        "desc_txt": "ALABAMA"
+      },
+      {
+        "mpp_id": 99,
+        "desc": "99  ALASKA/WASHINGTON",
+        "desc_txt": "ALASKA/WASHINGTON"
+      },
+      {
+        "mpp_id": 85,
+        "desc": "85  ARIZONA",
+        "desc_txt": "ARIZONA"
+      },
+      {
+        "mpp_id": 86,
+        "desc": "86  ARIZONA",
+        "desc_txt": "ARIZONA"
+      },
+      {
+        "mpp_id": 72,
+        "desc": "72  ARKANSAS",
+        "desc_txt": "ARKANSAS"
+      },
+      {
+        "mpp_id": 71,
+        "desc": "71  ARKANSAS/LOUISIANA",
+        "desc_txt": "ARKANSAS/LOUISIANA"
+      },
+      {
+        "mpp_id": 9,
+        "desc": "09  ARMY POST OFFICE EUROPE",
+        "desc_txt": "ARMY POST OFFICE EUROPE"
+      },
+      {
+        "mpp_id": 90,
+        "desc": "90  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 91,
+        "desc": "91  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 92,
+        "desc": "92  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 93,
+        "desc": "93  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 94,
+        "desc": "94  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 95,
+        "desc": "95  CALIFORNIA",
+        "desc_txt": "CALIFORNIA"
+      },
+      {
+        "mpp_id": 96,
+        "desc": "96  CALIFORNIA/HAWAII/GUAM",
+        "desc_txt": "CALIFORNIA/HAWAII/GUAM"
+      },
+      {
+        "mpp_id": 80,
+        "desc": "80  COLORADO",
+        "desc_txt": "COLORADO"
+      },
+      {
+        "mpp_id": 81,
+        "desc": "81  COLORADO",
+        "desc_txt": "COLORADO"
+      },
+      {
+        "mpp_id": 6,
+        "desc": "06  CONNECTICUT",
+        "desc_txt": "CONNECTICUT"
+      },
+      {
+        "mpp_id": 20,
+        "desc": "20  DC/MARYLAND",
+        "desc_txt": "DC/MARYLAND"
+      },
+      {
+        "mpp_id": 19,
+        "desc": "19  DELAWARE",
+        "desc_txt": "DELAWARE"
+      },
+      {
+        "mpp_id": 32,
+        "desc": "32  FLORIDA",
+        "desc_txt": "FLORIDA"
+      },
+      {
+        "mpp_id": 33,
+        "desc": "33  FLORIDA",
+        "desc_txt": "FLORIDA"
+      },
+      {
+        "mpp_id": 34,
+        "desc": "34  FLORIDA",
+        "desc_txt": "FLORIDA"
+      },
+      {
+        "mpp_id": 30,
+        "desc": "30  GEORGIA",
+        "desc_txt": "GEORGIA"
+      },
+      {
+        "mpp_id": 31,
+        "desc": "31  GEORGIA",
+        "desc_txt": "GEORGIA"
+      },
+      {
+        "mpp_id": 83,
+        "desc": "83  IDAHO",
+        "desc_txt": "IDAHO"
+      },
+      {
+        "mpp_id": 60,
+        "desc": "60  ILLINOIS",
+        "desc_txt": "ILLINOIS"
+      },
+      {
+        "mpp_id": 61,
+        "desc": "61  ILLINOIS",
+        "desc_txt": "ILLINOIS"
+      },
+      {
+        "mpp_id": 62,
+        "desc": "62  ILLINOIS",
+        "desc_txt": "ILLINOIS"
+      },
+      {
+        "mpp_id": 46,
+        "desc": "46  INDIANA",
+        "desc_txt": "INDIANA"
+      },
+      {
+        "mpp_id": 47,
+        "desc": "47  INDIANA",
+        "desc_txt": "INDIANA"
+      },
+      {
+        "mpp_id": 50,
+        "desc": "50  IOWA",
+        "desc_txt": "IOWA"
+      },
+      {
+        "mpp_id": 51,
+        "desc": "51  IOWA",
+        "desc_txt": "IOWA"
+      },
+      {
+        "mpp_id": 52,
+        "desc": "52  IOWA",
+        "desc_txt": "IOWA"
+      },
+      {
+        "mpp_id": 66,
+        "desc": "66  KANSAS",
+        "desc_txt": "KANSAS"
+      },
+      {
+        "mpp_id": 67,
+        "desc": "67  KANSAS",
+        "desc_txt": "KANSAS"
+      },
+      {
+        "mpp_id": 40,
+        "desc": "40  KENTUCKY",
+        "desc_txt": "KENTUCKY"
+      },
+      {
+        "mpp_id": 41,
+        "desc": "41  KENTUCKY",
+        "desc_txt": "KENTUCKY"
+      },
+      {
+        "mpp_id": 42,
+        "desc": "42  KENTUCKY",
+        "desc_txt": "KENTUCKY"
+      },
+      {
+        "mpp_id": 70,
+        "desc": "70  LOUISIANA",
+        "desc_txt": "LOUISIANA"
+      },
+      {
+        "mpp_id": 4,
+        "desc": "04  MAINE",
+        "desc_txt": "MAINE"
+      },
+      {
+        "mpp_id": 21,
+        "desc": "21  MARYLAND",
+        "desc_txt": "MARYLAND"
+      },
+      {
+        "mpp_id": 1,
+        "desc": "01  MASSACHUSETTS",
+        "desc_txt": "MASSACHUSETTS"
+      },
+      {
+        "mpp_id": 48,
+        "desc": "48  MICHIGAN",
+        "desc_txt": "MICHIGAN"
+      },
+      {
+        "mpp_id": 49,
+        "desc": "49  MICHIGAN",
+        "desc_txt": "MICHIGAN"
+      },
+      {
+        "mpp_id": 55,
+        "desc": "55  MINNESOTA",
+        "desc_txt": "MINNESOTA"
+      },
+      {
+        "mpp_id": 56,
+        "desc": "56  MINNESOTA",
+        "desc_txt": "MINNESOTA"
+      },
+      {
+        "mpp_id": 39,
+        "desc": "39  MISSISSIPPI",
+        "desc_txt": "MISSISSIPPI"
+      },
+      {
+        "mpp_id": 63,
+        "desc": "63  MISSOURI",
+        "desc_txt": "MISSOURI"
+      },
+      {
+        "mpp_id": 64,
+        "desc": "64  MISSOURI",
+        "desc_txt": "MISSOURI"
+      },
+      {
+        "mpp_id": 65,
+        "desc": "65  MISSOURI",
+        "desc_txt": "MISSOURI"
+      },
+      {
+        "mpp_id": 59,
+        "desc": "59  MONTANA",
+        "desc_txt": "MONTANA"
+      },
+      {
+        "mpp_id": 68,
+        "desc": "68  NEBRASKA",
+        "desc_txt": "NEBRASKA"
+      },
+      {
+        "mpp_id": 69,
+        "desc": "69  NEBRASKA",
+        "desc_txt": "NEBRASKA"
+      },
+      {
+        "mpp_id": 89,
+        "desc": "89  NEVADA",
+        "desc_txt": "NEVADA"
+      },
+      {
+        "mpp_id": 3,
+        "desc": "03  NEW HAMPSHIRE",
+        "desc_txt": "NEW HAMPSHIRE"
+      },
+      {
+        "mpp_id": 7,
+        "desc": "07  NEW JERSEY",
+        "desc_txt": "NEW JERSEY"
+      },
+      {
+        "mpp_id": 8,
+        "desc": "08  NEW JERSEY",
+        "desc_txt": "NEW JERSEY"
+      },
+      {
+        "mpp_id": 87,
+        "desc": "87  NEW MEXICO",
+        "desc_txt": "NEW MEXICO"
+      },
+      {
+        "mpp_id": 88,
+        "desc": "88  NEW MEXICO",
+        "desc_txt": "NEW MEXICO"
+      },
+      {
+        "mpp_id": 10,
+        "desc": "10  NEW YORK",
+        "desc_txt": "NEW YORK"
+      },
+      {
+        "mpp_id": 11,
+        "desc": "11  NEW YORK",
+        "desc_txt": "NEW YORK"
+      },
+      {
+        "mpp_id": 12,
+        "desc": "12  NEW YORK",
+        "desc_txt": "NEW YORK"
+      },
+      {
+        "mpp_id": 13,
+        "desc": "13  NEW YORK",
+        "desc_txt": "NEW YORK"
+      },
+      {
+        "mpp_id": 14,
+        "desc": "14  NEW YORK",
+        "desc_txt": "NEW YORK"
+      },
+      {
+        "mpp_id": 27,
+        "desc": "27  NORTH CAROLINA",
+        "desc_txt": "NORTH CAROLINA"
+      },
+      {
+        "mpp_id": 28,
+        "desc": "28  NORTH CAROLINA",
+        "desc_txt": "NORTH CAROLINA"
+      },
+      {
+        "mpp_id": 58,
+        "desc": "58  NORTH DAKOTA",
+        "desc_txt": "NORTH DAKOTA"
+      },
+      {
+        "mpp_id": 43,
+        "desc": "43  OHIO",
+        "desc_txt": "OHIO"
+      },
+      {
+        "mpp_id": 44,
+        "desc": "44  OHIO",
+        "desc_txt": "OHIO"
+      },
+      {
+        "mpp_id": 45,
+        "desc": "45  OHIO",
+        "desc_txt": "OHIO"
+      },
+      {
+        "mpp_id": 73,
+        "desc": "73  OKLAHOMA",
+        "desc_txt": "OKLAHOMA"
+      },
+      {
+        "mpp_id": 74,
+        "desc": "74  OKLAHOMA",
+        "desc_txt": "OKLAHOMA"
+      },
+      {
+        "mpp_id": 97,
+        "desc": "97  OREGON",
+        "desc_txt": "OREGON"
+      },
+      {
+        "mpp_id": 15,
+        "desc": "15  PENNSYLVANIA",
+        "desc_txt": "PENNSYLVANIA"
+      },
+      {
+        "mpp_id": 16,
+        "desc": "16  PENNSYLVANIA",
+        "desc_txt": "PENNSYLVANIA"
+      },
+      {
+        "mpp_id": 17,
+        "desc": "17  PENNSYLVANIA",
+        "desc_txt": "PENNSYLVANIA"
+      },
+      {
+        "mpp_id": 18,
+        "desc": "18  PENNSYLVANIA",
+        "desc_txt": "PENNSYLVANIA"
+      },
+      {
+        "mpp_id": 0,
+        "desc": "00  PUERTO RICO/VIRGIN ISLANDS",
+        "desc_txt": "PUERTO RICO/VIRGIN ISLANDS"
+      },
+      {
+        "mpp_id": 2,
+        "desc": "02  RHODE ISLAND",
+        "desc_txt": "RHODE ISLAND"
+      },
+      {
+        "mpp_id": 29,
+        "desc": "29  SOUTH CAROLINA",
+        "desc_txt": "SOUTH CAROLINA"
+      },
+      {
+        "mpp_id": 57,
+        "desc": "57  SOUTH DAKOTA",
+        "desc_txt": "SOUTH DAKOTA"
+      },
+      {
+        "mpp_id": 37,
+        "desc": "37  TENNESSEE",
+        "desc_txt": "TENNESSEE"
+      },
+      {
+        "mpp_id": 38,
+        "desc": "38  TENNESSEE/MISSISSIPPI",
+        "desc_txt": "TENNESSEE/MISSISSIPPI"
+      },
+      {
+        "mpp_id": 75,
+        "desc": "75  TEXAS",
+        "desc_txt": "TEXAS"
+      },
+      {
+        "mpp_id": 76,
+        "desc": "76  TEXAS",
+        "desc_txt": "TEXAS"
+      },
+      {
+        "mpp_id": 77,
+        "desc": "77  TEXAS",
+        "desc_txt": "TEXAS"
+      },
+      {
+        "mpp_id": 78,
+        "desc": "78  TEXAS",
+        "desc_txt": "TEXAS"
+      },
+      {
+        "mpp_id": 79,
+        "desc": "79  TEXAS",
+        "desc_txt": "TEXAS"
+      },
+      {
+        "mpp_id": 84,
+        "desc": "84  UTAH",
+        "desc_txt": "UTAH"
+      },
+      {
+        "mpp_id": 5,
+        "desc": "05  VERMONT",
+        "desc_txt": "VERMONT"
+      },
+      {
+        "mpp_id": 22,
+        "desc": "22  VIRGINIA",
+        "desc_txt": "VIRGINIA"
+      },
+      {
+        "mpp_id": 23,
+        "desc": "23  VIRGINIA",
+        "desc_txt": "VIRGINIA"
+      },
+      {
+        "mpp_id": 24,
+        "desc": "24  VIRGINIA",
+        "desc_txt": "VIRGINIA"
+      },
+      {
+        "mpp_id": 98,
+        "desc": "98  WASHINGTON",
+        "desc_txt": "WASHINGTON"
+      },
+      {
+        "mpp_id": 25,
+        "desc": "25  WEST VIRGINIA",
+        "desc_txt": "WEST VIRGINIA"
+      },
+      {
+        "mpp_id": 26,
+        "desc": "26  WEST VIRGINIA",
+        "desc_txt": "WEST VIRGINIA"
+      },
+      {
+        "mpp_id": 53,
+        "desc": "53  WISCONSIN",
+        "desc_txt": "WISCONSIN"
+      },
+      {
+        "mpp_id": 54,
+        "desc": "54  WISCONSIN",
+        "desc_txt": "WISCONSIN"
+      },
+      {
+        "mpp_id": 82,
+        "desc": "82  WYOMING",
+        "desc_txt": "WYOMING"
+      }
+    ],
+    "price_cd": [
+      {
+        "field_value": "01",
+        "desc_txt": "Chain Min"
+      },
+      {
+        "field_value": "02",
+        "desc_txt": "Chain Max"
+      },
+      {
+        "field_value": "03",
+        "desc_txt": "Chain Med"
+      },
+      {
+        "field_value": "04",
+        "desc_txt": "Indep Min"
+      },
+      {
+        "field_value": "05",
+        "desc_txt": "Indep Max"
+      },
+      {
+        "field_value": "06",
+        "desc_txt": "Indep Med"
+      },
+      {
+        "field_value": "07",
+        "desc_txt": "Mass Min"
+      },
+      {
+        "field_value": "08",
+        "desc_txt": "Mass Max"
+      },
+      {
+        "field_value": "09",
+        "desc_txt": "Mass Med"
+      }
+    ]
+  }
+}

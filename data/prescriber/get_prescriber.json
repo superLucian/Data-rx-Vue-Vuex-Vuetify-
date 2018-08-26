@@ -1,0 +1,31 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "prescriber": [
+      {
+        "npi": "131231232",
+        "lname": "ANALYTIS",
+        "fname": "PETER",
+        "mname": "",
+        "title_txt": "",
+        "upin": "C46109",
+        "spin": "",
+        "fed_license_num": "",
+        "state_license_num": "",
+        "addr1_txt": "801 N LARKIN",
+        "addr2_txt": "",
+        "city_txt": "JOLIET",
+        "state_cd": "IL",
+        "zip_cd": "60435",
+        "phone_num": "815-744-6460",
+        "fax_num": "",
+        "email_addr_txt": "",
+        "comment_txt": "",
+        "created_by": "CHRISTINE",
+        "created_dt": "/Date(1067307794997)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1506598430397)/"
+      }
+    ]
+  }
+}

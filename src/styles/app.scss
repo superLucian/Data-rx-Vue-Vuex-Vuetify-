@@ -1,0 +1,228 @@
+// Color Theme
+$primary: #5ac787;
+$secondary: #00baf2;
+$third: #5ac787;
+
+$primary-color: #00baf2;
+$secondary-color: #00ff00;
+$third-color: #00ff00;
+
+$tableHeaderColor: #dddddd;
+
+// common styles
+html {
+  overflow-y: hidden;
+}
+
+table.table thead td:not(:nth-child(1)), table.table tbody td:not(:nth-child(1)), table.table thead th:not(:nth-child(1)), table.table tbody th:not(:nth-child(1)), table.table thead td:first-child, table.table tbody td:first-child, table.table thead th:first-child, table.table tbody th:first-child {
+  padding: 0 10px;
+}
+
+*::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+  background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 7px;
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, .2);
+  background-color: #CCC;
+}
+
+.primary-color {
+  background-color: $primary-color !important;
+  border-color: $primary-color !important;
+  color: #ffffff !important;
+}
+
+.primary--text {
+  color: $primary-color!important;
+}
+
+:focus {
+  outline: 0;
+}
+
+.navigation-drawer > .list {
+  .list__tile--active > *:first-child .icon {
+    color: #366282 !important;
+  }
+
+  .list--group__container .list__tile--active .list__tile__title {
+    color: #366282 !important;
+  }
+}
+
+.application--light .input-group.input-group--selection-controls.radio, .application--light .input-group.input-group--selection-controls.checkbox {
+  color: #366282 !important;
+}
+
+// transition style
+.slide-y-transition-enter-active {
+  transition: all 1s ease;
+}
+
+.slide-y-transition-leave-active {
+  transition: all .1s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+
+.full-height {
+  min-height: calc(100vh - 100px);
+}
+
+.support-form {
+  padding: 0 70px 10px 50px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.support-form .subheader {
+  height: 100%;
+}
+
+.claimdoc-form {
+  padding: 30px 70px 10px 50px;
+}
+
+.claimdoc-form .subheader {
+  height: 100%;
+}
+
+.snackbar {
+  margin: 0;
+  width: 100%;
+}
+
+.content {
+  background: white;
+}
+
+// toolbar style
+.toolbar {
+  background: $primary !important;
+}
+
+.toolbar__title {
+  text-transform: capitalize;
+}
+
+.toolbar .primary--text {
+  color: white!important;
+}
+
+// Table styles
+table thead {
+  background: $tableHeaderColor;
+}
+
+.datatable__expand-col span {
+  color: $primary-color;
+}
+
+.datatable__actions {
+  justify-content: flex-start;
+}
+
+.datatable__actions__select {
+  margin-left: 15px;
+}
+
+// active/inactive/all status button
+.status .btn__content:before {
+  background: white;
+  opacity: 0.1;
+}
+
+.status:hover .btn__content:before {
+  opacity: 0.2;
+}
+
+// Scrollbar style
+.my-scroll-full-enabled {
+  max-height: calc(100vh - 64px) !important;
+  /* min-height: calc(100vh - 120px) !important; */
+  overflow: auto;
+}
+
+.my-scroll-enabled {
+  max-height: calc(100vh - 128px) !important;
+  /* min-height: calc(100vh - 120px) !important; */
+  overflow: auto;
+}
+
+.my-scroll-enabled-1 {
+  max-height: calc(100vh - 232px) !important;
+  overflow: auto;
+}
+
+.my-scroll-enabled-2 {
+  max-height: calc(100vh - 180px) !important;
+  overflow: auto;
+}
+
+.my-sub-scroll-enabled{
+  max-height: calc(100vh - 280px) !important;
+  overflow: auto;
+}
+
+.dialog-table-scroll-enabled{
+  max-height: 300px !important;
+  overflow: auto;
+}
+
+.add.form-scroll-enabled {
+  max-height: calc(100vh - 228px) !important;
+  overflow: auto;
+}
+
+.form-scroll-enabled {
+  max-height: calc(100vh - 276px) !important;
+  overflow: auto;
+}
+
+.datatable-in-tab-scroll-enabled {
+  max-height: calc(100vh - 400px) !important;
+  overflow: auto;
+}
+
+.table-max-scroll {
+  max-height: 360px !important;
+  overflow: auto;
+}
+
+// tab style
+.active-line {
+  background: $primary;
+}
+
+.tabs__bar {
+  border-bottom: 1px solid gainsboro !important;
+}
+
+.application--light .tabs .tabs__item.tabs__item--active {
+  color: $primary;
+}
+
+// V Dialog
+.vodal-dialog {
+  height: auto !important;
+  max-height: 100%;
+  padding: 0;
+  bottom: auto;
+  top: auto;
+  box-shadow: 0 11px 15px -7px rgba(0, 0, 0, 0.2), 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12);
+  overflow: auto;
+}
+
+.vodal {
+  align-items: center;
+  display: flex;
+  z-index: 5 !important;
+}

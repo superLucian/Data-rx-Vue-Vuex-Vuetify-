@@ -1,0 +1,169 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "network": [
+      {
+        "network_id": 207,
+        "type_cd": "R",
+        "status_cd": "A",
+        "pcc": "ADAP",
+        "desc_txt": "GEORGIA ADAP NETWORK",
+        "comment_txt": "",
+        "min_claim_amt": 0,
+        "daw_cd": null,
+        "use_pricing_params_ind": null,
+        "use_group_mac_ind": "Y",
+        "use_generic_mac_ind": null,
+        "use_brand_mac_ind": null,
+        "use_lower_uc_ind": null,
+        "use_lower_gad_ind": null,
+        "use_group_mpp_ind": null,
+        "use_lower_of_logic_flg": "F",
+        "compound_copay_tier": null,
+        "created_by": "admin",
+        "created_dt": "/Date(1505688880677)/",
+        "updated_by": "admin",
+        "updated_dt": "/Date(1505688934933)/",
+        "deleted_by": null,
+        "deleted_dt": null,
+        "compound_covered_ind": "N",
+        "plan_type_cd": null,
+        "use_submitted_ind": "Y"
+      }
+    ],
+    "plan_type_cd_syscode": [
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "B",
+        "desc_txt": "340B",
+        "abbrev_txt": "340B Straight"
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "P",
+        "desc_txt": "340B Blended w/ Fixed Copay",
+        "abbrev_txt": "340B Fixed"
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "L",
+        "desc_txt": "340B Blended w/ Variable Copay",
+        "abbrev_txt": "340B Blended"
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "3",
+        "desc_txt": "340Basics",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "D",
+        "desc_txt": "Cash Card",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "C",
+        "desc_txt": "COBRA",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "F",
+        "desc_txt": "Fixed Indemnity",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "H",
+        "desc_txt": "Hospice",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "2",
+        "desc_txt": "Hospice2",
+        "abbrev_txt": "$2"
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "I",
+        "desc_txt": "Institutional",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "M",
+        "desc_txt": "Managed Care",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "E",
+        "desc_txt": "Managed Care - Special Contract",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "Y",
+        "desc_txt": "Managed Savings",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "X",
+        "desc_txt": "Max Value Plan",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "O",
+        "desc_txt": "Other",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "R",
+        "desc_txt": "Retail Savings Card",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "T",
+        "desc_txt": "Savings Card - Special Contract",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "N",
+        "desc_txt": "Skilled Nursing Facility",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "S",
+        "desc_txt": "State Medicaid",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "U",
+        "desc_txt": "Surgery Center",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "V",
+        "desc_txt": "VPSP Savings Card",
+        "abbrev_txt": null
+      },
+      {
+        "field_name": "plan_type_cd",
+        "field_value": "W",
+        "desc_txt": "Workers Compensation",
+        "abbrev_txt": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "diagnosis_codes": [
+      {
+        "Diagnosis Code": "TEST",
+        "Diagnosis": "TESTETETSDFSDF",
+        "Comments": "",
+        "Created By": "admin",
+        "Created Date": "/Date(1507528400860)/",
+        "Updated By": "admin",
+        "Updated Date": "/Date(1507570833597)/"
+      }
+    ]
+  }
+}

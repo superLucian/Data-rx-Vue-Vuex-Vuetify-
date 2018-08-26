@@ -1,0 +1,391 @@
+{     
+  "d": {
+    "__type": "System.Data.DataSet",
+    "chain_list": [
+      {
+        "Chain Name": "ACCREDO",
+        "Chain ID": 69,
+        "Description": "ACCREDO PHARMACIES",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "ADS",
+        "Chain ID": 3,
+        "Description": "THE NEW ALBERTSONS",
+        "Reference ID": "75"
+      },
+      {
+        "Chain Name": "ALBERTSONS",
+        "Chain ID": 17,
+        "Description": "ALBERTSONS",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "BEST PHARMACY GROUP",
+        "Chain ID": 48,
+        "Description": "BEST PHARMACY GROUP INC.",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "BI-LO",
+        "Chain ID": 53,
+        "Description": "BI-LO",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "BI-MART",
+        "Chain ID": 45,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "BROOKSHIRE'S",
+        "Chain ID": 65,
+        "Description": "BROOKSHIRE GROCERY COMPANY PHARMACY",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "BUEHLERS PHARMACY",
+        "Chain ID": 31,
+        "Description": "BUEHLERS PHARMACY CHAIN",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "COSTCO",
+        "Chain ID": 61,
+        "Description": "COSTCO",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "CVS",
+        "Chain ID": 21,
+        "Description": "CVS PHARMACIES",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "DBA RITE AID",
+        "Chain ID": 27,
+        "Description": "PHARMACIES DOING BUSINESS AS RITE AID",
+        "Reference ID": "502"
+      },
+      {
+        "Chain Name": "DOCS DRUGS",
+        "Chain ID": 63,
+        "Description": "DOCS DRUGS LTD",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "EPIC RX",
+        "Chain ID": 37,
+        "Description": "EPIC RX",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "FOOD LION, LLC",
+        "Chain ID": 47,
+        "Description": "FOOD LION PHARMCIES",
+        "Reference ID": "Food Lion"
+      },
+      {
+        "Chain Name": "FRED`S GEORGIA PHARMACY",
+        "Chain ID": 33,
+        "Description": "STORES IN GEORGIA ARE UNDER A DIFFERENT CONTRACT",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "FRED`S PHARMACY",
+        "Chain ID": 32,
+        "Description": "FRED`S PHARMACY",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "FRUTH PHARMACY INC.",
+        "Chain ID": 41,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "GIANT OF CARLISLE",
+        "Chain ID": 58,
+        "Description": "Giant of Carlisle",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "GIANT OF MARYLAND",
+        "Chain ID": 57,
+        "Description": "Giant of Maryland",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "GREGGS PHARMACY",
+        "Chain ID": 40,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "HARVEYS SUPERMARKET PHARMACY",
+        "Chain ID": 43,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "HD SMITH",
+        "Chain ID": 46,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "HEALTH PARTNERS PHARMACIES",
+        "Chain ID": 8,
+        "Description": "HEALTH PARTNERS PHARMACIES",
+        "Reference ID": "268"
+      },
+      {
+        "Chain Name": "HEB",
+        "Chain ID": 20,
+        "Description": "HEB GROCERY COMPANY",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "HI-SCHOOL PHARMACIES",
+        "Chain ID": 18,
+        "Description": "HI SCHOOL PHARMACY",
+        "Reference ID": "092"
+      },
+      {
+        "Chain Name": "HORTON & CONVERSE",
+        "Chain ID": 6,
+        "Description": "HORTON AND CONVERSE PHARMACY",
+        "Reference ID": "2"
+      },
+      {
+        "Chain Name": "HY-VEE",
+        "Chain ID": 71,
+        "Description": "HY-VEE INC",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "INGLES PHARMACY",
+        "Chain ID": 42,
+        "Description": "INGLES PHARMACY",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "Kerr Drug Inc.",
+        "Chain ID": 4,
+        "Description": "KERR DRUG PHARMACIES",
+        "Reference ID": "659"
+      },
+      {
+        "Chain Name": "KERR HEALTH CARE SERVICES",
+        "Chain ID": 12,
+        "Description": "KERR HEALTH CARE PHARMACIES - INDEPENDENT",
+        "Reference ID": "660"
+      },
+      {
+        "Chain Name": "KMART",
+        "Chain ID": 38,
+        "Description": "KMART PHARMACIES",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "KROGER CORP. STORES",
+        "Chain ID": 16,
+        "Description": "KROGER CORP. PHARMACIES",
+        "Reference ID": "456"
+      },
+      {
+        "Chain Name": "MAJOR VALUE",
+        "Chain ID": 23,
+        "Description": "MAJOR VALUE PHARMACIES",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "Medicine Shoppe",
+        "Chain ID": 7,
+        "Description": "MEDICINE SHOPPE PHARMACIES",
+        "Reference ID": "330"
+      },
+      {
+        "Chain Name": "MEIJER",
+        "Chain ID": 67,
+        "Description": "MEIJER PHARMACIES",
+        "Reference ID": "213"
+      },
+      {
+        "Chain Name": "NAI SATURN EASTERN LLC",
+        "Chain ID": 66,
+        "Description": "",
+        "Reference ID": "B62"
+      },
+      {
+        "Chain Name": "NET RX",
+        "Chain ID": 55,
+        "Description": "NOT A REAL CHAIN.  USED TO GROUP FOR 835 FILES.",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "OMNICARE",
+        "Chain ID": 44,
+        "Description": "OMNICARE PHARMACIES",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "PHARMACA INTEGRATIVE PHARMACY",
+        "Chain ID": 52,
+        "Description": "",
+        "Reference ID": "603, 960"
+      },
+      {
+        "Chain Name": "PUBLIX",
+        "Chain ID": 51,
+        "Description": "PUBLIX SUPER MARKETS, INC",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "REGIONS HOSPITAL",
+        "Chain ID": 5,
+        "Description": "REGIONS PHARMACIES",
+        "Reference ID": "269"
+      },
+      {
+        "Chain Name": "RIESBECK'S PHARMACIES",
+        "Chain ID": 60,
+        "Description": "RIESBECK'S PHARMACIES",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "RITE AID CORP.",
+        "Chain ID": 1,
+        "Description": "RITE AID PHARMACIES",
+        "Reference ID": "501"
+      },
+      {
+        "Chain Name": "ROUNDYS",
+        "Chain ID": 56,
+        "Description": "ROUNDYS",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "SAFEWAY INC.",
+        "Chain ID": 10,
+        "Description": "SAFEWAY VONS PHARMACIES",
+        "Reference ID": "10"
+      },
+      {
+        "Chain Name": "SAMS CLUB",
+        "Chain ID": 70,
+        "Description": "SAMS CLUB EAST & WEST INC",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "SHOPKO",
+        "Chain ID": 72,
+        "Description": "SHOPKO STORES OPERATING CO LLC",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "STOP AND SHOP",
+        "Chain ID": 59,
+        "Description": "Stop & Shop Pharmacies",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "SUPERVALU",
+        "Chain ID": 62,
+        "Description": "SUPERVALU",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "TARGET CORPORATION",
+        "Chain ID": 2,
+        "Description": "TARGET PHARMACIES",
+        "Reference ID": "194"
+      },
+      {
+        "Chain Name": "TEST",
+        "Chain ID": 28,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "THE KROGER CO",
+        "Chain ID": 13,
+        "Description": "(INACTIVE) KROGER PHARMACIES",
+        "Reference ID": "456"
+      },
+      {
+        "Chain Name": "THIRD PARTY STATION 854",
+        "Chain ID": 25,
+        "Description": "THIRD PARTY STATION 854 PHARMACIES",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "THIRD PARTY STATION 866",
+        "Chain ID": 26,
+        "Description": "THIRD PARTY STATION 866 PHARMACIES",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "UNITED DRUGS COMPREHENSIVE 783",
+        "Chain ID": 64,
+        "Description": "CHAIN 783",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "UNITED DRUGS METRO (426)",
+        "Chain ID": 29,
+        "Description": "UNITED DRUGS METRO",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "UNITED DRUGS RURAL (678)",
+        "Chain ID": 30,
+        "Description": "UNITED DRUGS RURAL",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "USA DRUG",
+        "Chain ID": 49,
+        "Description": "",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "VALLEY PHARMACY",
+        "Chain ID": 11,
+        "Description": "VALLEY PHARMACY - INDEPENDENT",
+        "Reference ID": "669"
+      },
+      {
+        "Chain Name": "VANTAGE RX",
+        "Chain ID": 39,
+        "Description": "VANTAGE RX",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "WAL-MART",
+        "Chain ID": 35,
+        "Description": "WAL-MART PHARMACIES",
+        "Reference ID": ""
+      },
+      {
+        "Chain Name": "WALGREENS",
+        "Chain ID": 19,
+        "Description": "WALGREENS",
+        "Reference ID": "000281"
+      },
+      {
+        "Chain Name": "WEGMANS'",
+        "Chain ID": 9,
+        "Description": "WEGMANS' PHARMACIES",
+        "Reference ID": null
+      },
+      {
+        "Chain Name": "WINN DIXIE",
+        "Chain ID": 50,
+        "Description": "WINN DIXIE",
+        "Reference ID": ""
+      }
+    ]
+  }
+}

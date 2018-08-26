@@ -1,0 +1,36 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "drug_data": [
+      {
+        "ndc": "51552003009",
+        "mfg_name_txt": "FAGRON",
+        "product_name_txt": "TESTOSTERONE PROPIONATE",
+        "additional_desc_txt": "[M]",
+        "strength_txt": null,
+        "std_uom_cd": "GM",
+        "maint_drug_ind": "N",
+        "form_type_cd": "S",
+        "single_src_ind": "Y",
+        "product_type_cd": "02",
+        "form_cd": "POWD",
+        "roa_cd": "XX",
+        "std_pkg_size": 0.6,
+        "dea_class_cd": "CIII",
+        "wac_avail_cd": "04",
+        "wac_curr_unit_price_amt": 10,
+        "wac_curr_price_effect_dt": "/Date(1320033600000)/",
+        "awp_avail_cd": "11",
+        "awp_curr_unit_price_amt": 43.75,
+        "awp_curr_price_effect_dt": "/Date(1320033600000)/",
+        "dp_avail_cd": "02",
+        "dp_curr_unit_price_amt": 10,
+        "dp_curr_price_effect_dt": "/Date(1201842000000)/",
+        "mac_avail_cd": "  ",
+        "mac_curr_unit_price_amt": 0,
+        "mac_curr_price_effect_dt": null,
+        "Status": "Active"
+      }
+    ]
+  }
+}

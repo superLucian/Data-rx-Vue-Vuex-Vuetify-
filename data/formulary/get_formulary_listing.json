@@ -1,0 +1,1512 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "formulary": [
+      {
+        "Formulary Desc": "ACCREDO SPECIALTY FORMULARY",
+        "Form ID": 476,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1479271674153)/"
+      },
+      {
+        "Formulary Desc": "ACCUTANE",
+        "Form ID": 11,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "ACNE DRUGS",
+        "Form ID": 477,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1480300147730)/"
+      },
+      {
+        "Formulary Desc": "ACUSA Custom Restricted Generics Formulary",
+        "Form ID": 468,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1473659950947)/"
+      },
+      {
+        "Formulary Desc": "ADAP COB FORMULARY",
+        "Form ID": 440,
+        "pcc": "ADAP",
+        "Created By": "chuffer",
+        "Created Date": "/Date(1447214459230)/"
+      },
+      {
+        "Formulary Desc": "ADHD",
+        "Form ID": 84,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1302537600000)/"
+      },
+      {
+        "Formulary Desc": "ADHD BRANDS",
+        "Form ID": 413,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1427958643353)/"
+      },
+      {
+        "Formulary Desc": "ADHD GENERICS",
+        "Form ID": 414,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1427958643353)/"
+      },
+      {
+        "Formulary Desc": "AIDS",
+        "Form ID": 24,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "ALCOHOL SWABS",
+        "Form ID": 64,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "ALL ALLERGY",
+        "Form ID": 401,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1418699895733)/"
+      },
+      {
+        "Formulary Desc": "ALL BRANDS",
+        "Form ID": 8,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296057600000)/"
+      },
+      {
+        "Formulary Desc": "ALL BRANDS EXCLUDED",
+        "Form ID": 309,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1374743448240)/"
+      },
+      {
+        "Formulary Desc": "ALL DRUGS",
+        "Form ID": 226,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1330916122800)/"
+      },
+      {
+        "Formulary Desc": "ALL GENERICS",
+        "Form ID": 7,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296057600000)/"
+      },
+      {
+        "Formulary Desc": "ALL GENERICS EXCLUDED",
+        "Form ID": 306,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1370936484233)/"
+      },
+      {
+        "Formulary Desc": "ALL GENERICS MIN 90 DS FORMULARY",
+        "Form ID": 364,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1395908138503)/"
+      },
+      {
+        "Formulary Desc": "ALL MIGRAINE",
+        "Form ID": 438,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1446534900243)/"
+      },
+      {
+        "Formulary Desc": "ALL OTC",
+        "Form ID": 10,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296144000000)/"
+      },
+      {
+        "Formulary Desc": "ALLERGY BRANDS",
+        "Form ID": 402,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1418699919780)/"
+      },
+      {
+        "Formulary Desc": "ALLERGY SERUMS",
+        "Form ID": 214,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1324622345483)/"
+      },
+      {
+        "Formulary Desc": "ANABOLIC & ANDROGEN STEROIDS",
+        "Form ID": 74,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "ANAPHYLAXIS KIT",
+        "Form ID": 78,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "ANAPHYLAXIS KIT - BRANDS",
+        "Form ID": 197,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1321952437020)/"
+      },
+      {
+        "Formulary Desc": "ANAPHYLAXIS KIT - GENERICS",
+        "Form ID": 196,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1321952432427)/"
+      },
+      {
+        "Formulary Desc": "ANOREXIANTS / APPETITE SUPPRESSANTS / ANTI-OBESITY",
+        "Form ID": 25,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "ANTACIDS",
+        "Form ID": 26,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "ANTI-ASTHMA",
+        "Form ID": 85,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1302537600000)/"
+      },
+      {
+        "Formulary Desc": "ANTI-NARCOLEPSY/ANTI-HYPERKINESIS",
+        "Form ID": 218,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1325088000000)/"
+      },
+      {
+        "Formulary Desc": "ANTIDIABETICS",
+        "Form ID": 109,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1309363200000)/"
+      },
+      {
+        "Formulary Desc": "ASPIRIN",
+        "Form ID": 389,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1416806644850)/"
+      },
+      {
+        "Formulary Desc": "ATTENTION DEFICIT DISORDER",
+        "Form ID": 44,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "AXIUM SPECIALTY FORMULARY",
+        "Form ID": 455,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1460384206257)/"
+      },
+      {
+        "Formulary Desc": "BOTOX",
+        "Form ID": 16,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 68,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300291200000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES AND INSULIN NOT IN VENTEG PREM PLUS",
+        "Form ID": 49,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "BRAND DIABETIC SUPPLIES EXCLUDING INSULIN",
+        "Form ID": 229,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1332750772283)/"
+      },
+      {
+        "Formulary Desc": "BRAND GASTROINTESTINAL AGENTS",
+        "Form ID": 387,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1415257383467)/"
+      },
+      {
+        "Formulary Desc": "BRAND INSULIN",
+        "Form ID": 236,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1338358096523)/"
+      },
+      {
+        "Formulary Desc": "BRAND MIGRAINE",
+        "Form ID": 190,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1319990400000)/"
+      },
+      {
+        "Formulary Desc": "BRAND MIGRAINE INJECTABLE",
+        "Form ID": 79,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "BRAND NON-OTC NON-REPACK",
+        "Form ID": 56,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300032000000)/"
+      },
+      {
+        "Formulary Desc": "BRAND OTC INSULIN",
+        "Form ID": 194,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1320398240430)/"
+      },
+      {
+        "Formulary Desc": "BRAND TEST STRIPS AND INSULIN SYRINGE",
+        "Form ID": 57,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300032000000)/"
+      },
+      {
+        "Formulary Desc": "BRANDS WITH AVAILABLE GENERICS",
+        "Form ID": 9,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296057600000)/"
+      },
+      {
+        "Formulary Desc": "BRANDS WITH NO AVAILABLE GENERICS",
+        "Form ID": 176,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1313596800000)/"
+      },
+      {
+        "Formulary Desc": "C2 DRUGS",
+        "Form ID": 173,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1312165310440)/"
+      },
+      {
+        "Formulary Desc": "CARDINAL 340B",
+        "Form ID": 222,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1328198400000)/"
+      },
+      {
+        "Formulary Desc": "CENTURY FULLY INSURED",
+        "Form ID": 2,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1294806494153)/"
+      },
+      {
+        "Formulary Desc": "CENTURY RESTRICTED",
+        "Form ID": 1,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1294329600000)/"
+      },
+      {
+        "Formulary Desc": "CENTURY RESTRICTED GENERICS",
+        "Form ID": 172,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1311782400000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE (IMPLANTS)",
+        "Form ID": 27,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE (ORAL EXT CYCLE)",
+        "Form ID": 86,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1302624000000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE DEVICES",
+        "Form ID": 96,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1304006400000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE INJECTABLES TIERS 1,2,3 VENTEG PREM PLUS",
+        "Form ID": 53,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298822400000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE PATCH",
+        "Form ID": 204,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1323964800000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVE RINGS",
+        "Form ID": 102,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308240000000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVES",
+        "Form ID": 14,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "CONTRACEPTIVES - DIAPHRAGMS",
+        "Form ID": 271,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1360727777303)/"
+      },
+      {
+        "Formulary Desc": "Controlled Medications - CII  CIII  CIV  CV",
+        "Form ID": 312,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1375835188573)/"
+      },
+      {
+        "Formulary Desc": "Convenient Care Custom Formualry",
+        "Form ID": 472,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1475738584107)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUG EXCLUSIONS",
+        "Form ID": 464,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1465524685647)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS (ACNE/ SKIN DISEASE)",
+        "Form ID": 28,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS (ACNE/ SKIN DISEASE) GENERICS",
+        "Form ID": 445,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1450155028690)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS (HAIR)",
+        "Form ID": 29,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS (WRINKLES)",
+        "Form ID": 30,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS(ACNE/SKIN DIS)MAX AGE 25 TIERS 1,2,3 VENPREMP",
+        "Form ID": 100,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308240000000)/"
+      },
+      {
+        "Formulary Desc": "COSMETIC DRUGS(ACNE/SKIN DIS)MAX AGE 26 TIERS 1,2,3 VENPREMP",
+        "Form ID": 51,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298563200000)/"
+      },
+      {
+        "Formulary Desc": "COX II INHIBITORS",
+        "Form ID": 31,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "Crisp Regional Hospital Pharmacy Formulary",
+        "Form ID": 469,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1473835990613)/"
+      },
+      {
+        "Formulary Desc": "DATARX SPECIALTY FORMULARY",
+        "Form ID": 232,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1337761780873)/"
+      },
+      {
+        "Formulary Desc": "Davila Prescription Solutions Legacy",
+        "Form ID": 495,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1502332044980)/"
+      },
+      {
+        "Formulary Desc": "DEPIGMENTING AGENTS",
+        "Form ID": 72,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "DEVICES",
+        "Form ID": 60,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "DEVICES NOT INCLUDING DIABETIC AND CONTRACEPTIVE",
+        "Form ID": 212,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC METERS",
+        "Form ID": 66,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC METERS 1 ONE/LIFETIME",
+        "Form ID": 70,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301500800000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC SUPPLIES AND INSULIN TIERS 1,2,3 VENTEG PREM PLUS",
+        "Form ID": 52,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298563200000)/"
+      },
+      {
+        "Formulary Desc": "DIABETIC TEST STRIPS",
+        "Form ID": 104,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308585600000)/"
+      },
+      {
+        "Formulary Desc": "DIAGNOSTIC SUPPLIES",
+        "Form ID": 33,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "DIRECT DISTRIBUTORS FORMULARY",
+        "Form ID": 241,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1340264622103)/"
+      },
+      {
+        "Formulary Desc": "DRUGSOURCE BRAND EXCEPTION PRICING",
+        "Form ID": 435,
+        "pcc": null,
+        "Created By": "rlcadmin",
+        "Created Date": "/Date(1446444286470)/"
+      },
+      {
+        "Formulary Desc": "EPPSRX EliteRx Fully Ins Diabetic Formulary",
+        "Form ID": 483,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1489643287370)/"
+      },
+      {
+        "Formulary Desc": "EPPSRX RxChoice Restricted Diabetic Formulary",
+        "Form ID": 484,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1489644689483)/"
+      },
+      {
+        "Formulary Desc": "ERECTILE DYSFUNCTION",
+        "Form ID": 62,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "ERECTILE DYSFUNCTION NON-ORAL",
+        "Form ID": 179,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1313596800000)/"
+      },
+      {
+        "Formulary Desc": "ERECTILE DYSFUNCTION ORAL",
+        "Form ID": 178,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1313596800000)/"
+      },
+      {
+        "Formulary Desc": "ESTROGEN REPLACEMENT",
+        "Form ID": 12,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "FENTANYL BUCCAL",
+        "Form ID": 73,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "FLU SHOTS FORMULARY",
+        "Form ID": 428,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1441086791137)/"
+      },
+      {
+        "Formulary Desc": "FLUORIDE PRODUCTS",
+        "Form ID": 331,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1387856036663)/"
+      },
+      {
+        "Formulary Desc": "FOLIC ACID FORMULARY",
+        "Form ID": 270,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1359614961227)/"
+      },
+      {
+        "Formulary Desc": "GASTROINTESTINAL AGENTS",
+        "Form ID": 385,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1415257383433)/"
+      },
+      {
+        "Formulary Desc": "GENERIC CONTRACEPTIVES",
+        "Form ID": 254,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1357095504137)/"
+      },
+      {
+        "Formulary Desc": "GENERIC CONTRACEPTIVES NOT INCLUDING IMPLANTS, IUDS, AND OTHER",
+        "Form ID": 415,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1428304490380)/"
+      },
+      {
+        "Formulary Desc": "GENERIC DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 41,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "GENERIC DIABETIC SUPPLIES EXCLUDING INSULIN",
+        "Form ID": 228,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1332750765987)/"
+      },
+      {
+        "Formulary Desc": "GENERIC GASTROINTESTINAL AGENTS",
+        "Form ID": 386,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1415257383467)/"
+      },
+      {
+        "Formulary Desc": "GENERIC GLUCAGON",
+        "Form ID": 202,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1323667849600)/"
+      },
+      {
+        "Formulary Desc": "GENERIC INSULIN",
+        "Form ID": 235,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1338358096520)/"
+      },
+      {
+        "Formulary Desc": "GENERIC MIGRAINE",
+        "Form ID": 437,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1446534862977)/"
+      },
+      {
+        "Formulary Desc": "GENERIC MIGRAINE INJECTABLES",
+        "Form ID": 201,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1323667839210)/"
+      },
+      {
+        "Formulary Desc": "GENERIC NON-OTC NON-REPACK",
+        "Form ID": 54,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300032000000)/"
+      },
+      {
+        "Formulary Desc": "GENERIC ORAL CONTRACEPTIVES",
+        "Form ID": 345,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1389681196977)/"
+      },
+      {
+        "Formulary Desc": "GENERIC ORAL VITAMINS",
+        "Form ID": 200,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1323667829443)/"
+      },
+      {
+        "Formulary Desc": "GENERIC OTC INSULIN",
+        "Form ID": 193,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1320398235163)/"
+      },
+      {
+        "Formulary Desc": "GENERIC TEST STRIPS AND INSULIN SYRINGE",
+        "Form ID": 55,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300032000000)/"
+      },
+      {
+        "Formulary Desc": "GENERIC TEST STRIPS, INSULIN, INSULIN SYRINGE",
+        "Form ID": 58,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "GEORGIA ADAP",
+        "Form ID": 71,
+        "pcc": "ADAP",
+        "Created By": "mglover",
+        "Created Date": "/Date(1301552156030)/"
+      },
+      {
+        "Formulary Desc": "GLUCAGON",
+        "Form ID": 65,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "GLUCOSE MONITORS",
+        "Form ID": 40,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "GROWTH HORMONE",
+        "Form ID": 19,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "Hampshire Pharmacy",
+        "Form ID": 489,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1494332819013)/"
+      },
+      {
+        "Formulary Desc": "Hampshire Pharmacy GPI",
+        "Form ID": 493,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1502325459397)/"
+      },
+      {
+        "Formulary Desc": "HCPA EXCLUSIONS FORMULARY",
+        "Form ID": 297,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1368092902727)/"
+      },
+      {
+        "Formulary Desc": "HD SMITH 340B",
+        "Form ID": 221,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296316800000)/"
+      },
+      {
+        "Formulary Desc": "HEMOPOETIC AGENTS",
+        "Form ID": 17,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "HEPATITIS C",
+        "Form ID": 439,
+        "pcc": "ADAP",
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1446811793313)/"
+      },
+      {
+        "Formulary Desc": "HYPNOTIC / SEDATIVES",
+        "Form ID": 34,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "IMMUNIZATIONS/VACCINES/IMMUNE SERUMS",
+        "Form ID": 76,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "IMMUNOSUPPRESSANT",
+        "Form ID": 61,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "IMPOTENCE",
+        "Form ID": 35,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "IMPOTENCE 4 PER 30 DAYS",
+        "Form ID": 77,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "INCRELEX",
+        "Form ID": 13,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      },
+      {
+        "Formulary Desc": "INFERTILITY",
+        "Form ID": 36,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "INHALER SPACERS",
+        "Form ID": 211,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE CONTRACEPTIVES",
+        "Form ID": 20,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296576000000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE FERTILITY",
+        "Form ID": 105,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308844800000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE SUPPLIES",
+        "Form ID": 46,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLE VITAMINES",
+        "Form ID": 188,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1319644800000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES",
+        "Form ID": 50,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES EXCLUDING INSULIN AND EPIPEN",
+        "Form ID": 434,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1445834764137)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES NOT INCLUDING CONTRACEPTIVE AND MIGRAINE",
+        "Form ID": 181,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1314115200000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES NOT INCLUDING CONTRACEPTIVES",
+        "Form ID": 108,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1309190400000)/"
+      },
+      {
+        "Formulary Desc": "INJECTABLES WITHOUT EPI-PEN, GLUCAGON, MIGRAINE, CONTRACEPTIVE, ERECTILE DYSFUNCTION, INSULIN",
+        "Form ID": 209,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "INSULIN",
+        "Form ID": 103,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1308585600000)/"
+      },
+      {
+        "Formulary Desc": "INSULIN NEEDLES AND SYRINGES",
+        "Form ID": 446,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1450155469303)/"
+      },
+      {
+        "Formulary Desc": "INTERFERONS",
+        "Form ID": 333,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1387856299753)/"
+      },
+      {
+        "Formulary Desc": "IRON",
+        "Form ID": 390,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1416807498387)/"
+      },
+      {
+        "Formulary Desc": "Klingensmiths 5 Custom Formulary",
+        "Form ID": 487,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1490686629433)/"
+      },
+      {
+        "Formulary Desc": "Klingensmiths Employee Custom Formulary",
+        "Form ID": 485,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1490679692447)/"
+      },
+      {
+        "Formulary Desc": "LANCETS",
+        "Form ID": 174,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1312819200000)/"
+      },
+      {
+        "Formulary Desc": "Laxative Combinations",
+        "Form ID": 99,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1308277934373)/"
+      },
+      {
+        "Formulary Desc": "LAXATIVES",
+        "Form ID": 37,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "Limited Distribution Specialty Drugs",
+        "Form ID": 470,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1474256366193)/"
+      },
+      {
+        "Formulary Desc": "Marrick Custom Formulary",
+        "Form ID": 491,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1501208638917)/"
+      },
+      {
+        "Formulary Desc": "McKesson 340B",
+        "Form ID": 243,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1341908054197)/"
+      },
+      {
+        "Formulary Desc": "MEC CONTRACEPTIVE PATCH",
+        "Form ID": 407,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450824673)/"
+      },
+      {
+        "Formulary Desc": "MEC FLU VACCINES",
+        "Form ID": 471,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1474894413247)/"
+      },
+      {
+        "Formulary Desc": "MEC Generic and Single Source Brand Contraceptives",
+        "Form ID": 467,
+        "pcc": null,
+        "Created By": "Ipiraino",
+        "Created Date": "/Date(1471424253433)/"
+      },
+      {
+        "Formulary Desc": "MEC IMMUNIZATIONS/VACCINES/IMMUNE SERUMS",
+        "Form ID": 465,
+        "pcc": null,
+        "Created By": "Ipiraino",
+        "Created Date": "/Date(1466405890580)/"
+      },
+      {
+        "Formulary Desc": "MEC INJECTABLE CONTRACEPTIVES",
+        "Form ID": 406,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450802587)/"
+      },
+      {
+        "Formulary Desc": "MEC ORAL CONTRACEPTIVES",
+        "Form ID": 403,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450479243)/"
+      },
+      {
+        "Formulary Desc": "MEC PRENATAL VITAMINS",
+        "Form ID": 405,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450719817)/"
+      },
+      {
+        "Formulary Desc": "MEC SMOKING CESSATION",
+        "Form ID": 404,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1420450619777)/"
+      },
+      {
+        "Formulary Desc": "MEC VACCINES - OTHER",
+        "Form ID": 479,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1481093638190)/"
+      },
+      {
+        "Formulary Desc": "MEDICAL FOODS",
+        "Form ID": 75,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1301932800000)/"
+      },
+      {
+        "Formulary Desc": "METHADONE MAINTENANCE",
+        "Form ID": 97,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1304006400000)/"
+      },
+      {
+        "Formulary Desc": "MIDCOAST EXCLUSIONS FORMULARY",
+        "Form ID": 474,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1478583831917)/"
+      },
+      {
+        "Formulary Desc": "MIGRAINE NASAL SPRAY",
+        "Form ID": 198,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1322621925943)/"
+      },
+      {
+        "Formulary Desc": "Mutual Drug Custom Formulary",
+        "Form ID": 486,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1490684364543)/"
+      },
+      {
+        "Formulary Desc": "NAIL FUNGUS",
+        "Form ID": 195,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1320595200000)/"
+      },
+      {
+        "Formulary Desc": "NBLA Insulin",
+        "Form ID": 223,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1328248627570)/"
+      },
+      {
+        "Formulary Desc": "NEEDLES AND SYRINGES",
+        "Form ID": 189,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1319644800000)/"
+      },
+      {
+        "Formulary Desc": "NEEDLES AND SYRINGES OTHER THAN INSULIN",
+        "Form ID": 93,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1303228800000)/"
+      },
+      {
+        "Formulary Desc": "NON-ORAL IMMUNOSUPPRESSANT",
+        "Form ID": 213,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "NON-ORAL MIGRAINE",
+        "Form ID": 45,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "NON-REPACKS",
+        "Form ID": 240,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1340187105107)/"
+      },
+      {
+        "Formulary Desc": "NORTH TOWNSHIP TRUSTEE INDIGENT",
+        "Form ID": 242,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1340590629367)/"
+      },
+      {
+        "Formulary Desc": "NUTRITIONAL SUPPLIMENTS",
+        "Form ID": 22,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296748800000)/"
+      },
+      {
+        "Formulary Desc": "ORAL CONTRACEPTIVES",
+        "Form ID": 192,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1320225572457)/"
+      },
+      {
+        "Formulary Desc": "ORAL MIGRAINE",
+        "Form ID": 87,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1302624000000)/"
+      },
+      {
+        "Formulary Desc": "ORAL VITAMINS",
+        "Form ID": 199,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1322623781057)/"
+      },
+      {
+        "Formulary Desc": "OSTOMY SUPPLIES",
+        "Form ID": 210,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324483200000)/"
+      },
+      {
+        "Formulary Desc": "OTC MULTIVITAMINS",
+        "Form ID": 353,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1392104281870)/"
+      },
+      {
+        "Formulary Desc": "OTC NOT INCLUDING DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 208,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324396800000)/"
+      },
+      {
+        "Formulary Desc": "OTC SMOKING CESSATION",
+        "Form ID": 373,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1397183100873)/"
+      },
+      {
+        "Formulary Desc": "OTC VITAMINS",
+        "Form ID": 354,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1392104423547)/"
+      },
+      {
+        "Formulary Desc": "PINNACLE PREVENTATIVES LIST",
+        "Form ID": 478,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1480313910903)/"
+      },
+      {
+        "Formulary Desc": "PRE-DENTAL",
+        "Form ID": 32,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "PRENATAL VITAMINS",
+        "Form ID": 352,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1392103225867)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN $4 GENERIC (MATCH-IT)",
+        "Form ID": 250,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1352960898640)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN C2 DRUGS",
+        "Form ID": 262,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1359427181597)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN COSMETIC AGENTS FORMULARY (LIFESTYLE)",
+        "Form ID": 274,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361175946327)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN ERECTILE DYSFUNCTION FORMULARY (LIFESTYLE)",
+        "Form ID": 273,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361175736227)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN FERTILITY DRUGS FORMULARY (LIFESTYLE)",
+        "Form ID": 272,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361175046890)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN HAIR RESTORATION FORMULARY (LIFESTYLE)",
+        "Form ID": 275,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361175976433)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN SELECTED ANTIBIOTICS FORMULARY (LIFESTYLE)",
+        "Form ID": 278,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361176114320)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN SMOKING CESSATION FORMULARY (LIFESTYLE)",
+        "Form ID": 276,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361176023640)/"
+      },
+      {
+        "Formulary Desc": "PUBLIC PLAN WEIGHT LOSS PRODUCTS FORMULARY (LIFESTYLE)",
+        "Form ID": 277,
+        "pcc": null,
+        "Created By": "dallen",
+        "Created Date": "/Date(1361176054657)/"
+      },
+      {
+        "Formulary Desc": "REMEDYONE NON-PREFERRED BRANDS",
+        "Form ID": 461,
+        "pcc": null,
+        "Created By": "Ipiraino",
+        "Created Date": "/Date(1464093804813)/"
+      },
+      {
+        "Formulary Desc": "REMEDYONE PREFERRED BRANDS",
+        "Form ID": 460,
+        "pcc": null,
+        "Created By": "Ipiraino",
+        "Created Date": "/Date(1464093804813)/"
+      },
+      {
+        "Formulary Desc": "Sayreville Fertility Regulators",
+        "Form ID": 101,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1308290778920)/"
+      },
+      {
+        "Formulary Desc": "SERX GPI Formulary",
+        "Form ID": 492,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1501658707203)/"
+      },
+      {
+        "Formulary Desc": "SHAMPOOS/SOAPS",
+        "Form ID": 216,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324915200000)/"
+      },
+      {
+        "Formulary Desc": "SMITH DRUG 340B",
+        "Form ID": 184,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1316620800000)/"
+      },
+      {
+        "Formulary Desc": "SMOKING CESSATION",
+        "Form ID": 38,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "SMOKING CESSATION BRANDS",
+        "Form ID": 355,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1392173158183)/"
+      },
+      {
+        "Formulary Desc": "SMOKING CESSATION EXCEPT OTC GUM AND OTC PATCHES",
+        "Form ID": 224,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1328593389893)/"
+      },
+      {
+        "Formulary Desc": "SMOKING CESSATION GENERICS",
+        "Form ID": 356,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1392173181203)/"
+      },
+      {
+        "Formulary Desc": "SMOKING CESSATION NON-ORAL",
+        "Form ID": 215,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324915200000)/"
+      },
+      {
+        "Formulary Desc": "Strandview Enterprises",
+        "Form ID": 490,
+        "pcc": null,
+        "Created By": "ipiraino",
+        "Created Date": "/Date(1498030931280)/"
+      },
+      {
+        "Formulary Desc": "SUBSTANCE ABUSE",
+        "Form ID": 217,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1324915200000)/"
+      },
+      {
+        "Formulary Desc": "TEST",
+        "Form ID": 3,
+        "pcc": null,
+        "Created By": "mglover",
+        "Created Date": "/Date(1294890998357)/"
+      },
+      {
+        "Formulary Desc": "TRETINOIN",
+        "Form ID": 63,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "TRINITY FORMULARY",
+        "Form ID": 381,
+        "pcc": null,
+        "Created By": "chuffer",
+        "Created Date": "/Date(1409031500263)/"
+      },
+      {
+        "Formulary Desc": "VACCINES - OTHER",
+        "Form ID": 473,
+        "pcc": null,
+        "Created By": "tjsadmin",
+        "Created Date": "/Date(1476857247723)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREFERRED FORMULARY",
+        "Form ID": 220,
+        "pcc": null,
+        "Created By": "swalker",
+        "Created Date": "/Date(1326771668200)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREM PLUS BRAND DIABETIC SUPPLIES AND INSULIN",
+        "Form ID": 42,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREM PLUS BRANDS",
+        "Form ID": 43,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREM PLUS TEST STRIPS, INSULIN, INSULIN SYRINGE",
+        "Form ID": 59,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1300118400000)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREM PLUS TIER 3 BRANDS",
+        "Form ID": 110,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1310054400000)/"
+      },
+      {
+        "Formulary Desc": "VENTEGRA PREMIUM FORMULARY",
+        "Form ID": 89,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1302624000000)/"
+      },
+      {
+        "Formulary Desc": "VITAMINES (NOT INCLUDING PRENATAL)",
+        "Form ID": 39,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1298390400000)/"
+      },
+      {
+        "Formulary Desc": "VITAMINS",
+        "Form ID": 15,
+        "pcc": null,
+        "Created By": "slbadmin",
+        "Created Date": "/Date(1296403200000)/"
+      }
+    ]
+  }
+}

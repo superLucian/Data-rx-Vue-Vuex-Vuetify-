@@ -1,0 +1,53 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "provider": [
+      {
+        "pid": 93626,
+        "nabp": "2364189",
+        "npi": "1871674366",
+        "type_cd": null,
+        "status_cd": "A",
+        "store_id": "",
+        "name_txt": "ER DRUGS",
+        "loc_addr1_txt": "27260 EUREKA RD",
+        "loc_addr2_txt": "",
+        "loc_city_txt": "TAYLOR",
+        "loc_state_cd": "MI",
+        "loc_zip_cd": "48180",
+        "mail_addr1_txt": "27260 EUREKA RD",
+        "mail_addr2_txt": "",
+        "mail_city_txt": "TAYLOR",
+        "mail_state_cd": "MI",
+        "mail_zip_cd": "48180",
+        "phone_num": "7349559110",
+        "fax_num": "7349559101",
+        "email_addr_txt": "ERDRUGS@YAHOO.COM",
+        "web_url_txt": "",
+        "fed_license_txt": "",
+        "fed_tax_id": "364489925",
+        "state_license_txt": "",
+        "state_tax_id": "364489925",
+        "medicad_id": "4698040001",
+        "open_24_hours_ind": "N",
+        "contact_lname": "KOUZA",
+        "contact_fname": "RAAD",
+        "contact_addr1_txt": "",
+        "contact_addr2_txt": "",
+        "contact_city_txt": "",
+        "contact_state_cd": "  ",
+        "contact_zip_cd": "",
+        "contact_phone_num": "7349559110",
+        "contact_cell_num": "",
+        "contact_fax_num": "",
+        "contact_pager_num": "",
+        "contact_email_addr_txt": "RKOUZA@GMAIL.COM",
+        "comment_txt": "",
+        "created_by": "gmwg1_admin",
+        "created_dt": "/Date(1269447628297)/",
+        "updated_by": "dataq",
+        "updated_dt": "/Date(1497297238917)/"
+      }
+    ]
+  }
+}

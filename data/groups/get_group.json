@@ -1,0 +1,311 @@
+{
+    "d": {
+        "__type": "System.Data.DataSet",
+        "group": [
+            {
+                "group_id": 3486,
+                "group_cd": "NEW GROUP NAME",
+                "org_cd": null,
+                "type_cd": 0,
+                "parent_group_id": 0,
+                "status_cd": "A",
+                "name_txt": "NEW GROUP DESC",
+                "mail_addr1_txt": "",
+                "mail_addr2_txt": "",
+                "mail_city_txt": "",
+                "mail_state_cd": "  ",
+                "mail_zip_cd": "",
+                "invoice_addr1_txt": "",
+                "invoice_addr2_txt": "",
+                "invoice_city_txt": "",
+                "invoice_state_cd": "TX",
+                "invoice_zip_cd": "",
+                "cust_svc_phone_num": "",
+                "phone_num": "",
+                "fax_num": "",
+                "email_addr_txt": "",
+                "web_url_txt": "",
+                "admin_fee_amt": 0,
+                "reversal_time_limit": 15,
+                "required_fields": "CA,CB,C4,C5,D5",
+                "response_msg_txt": "",
+                "reject_msg_txt": "FOR DRX HELPDESK CALL 877-389-0003 (PHARMACY USE ONLY)",
+                "field_edits": "",
+                "validate_dx_cd_flg": "F",
+                "gl_acct_num": "",
+                "calendar_period_start_dt": "09/09/2017",
+                "calendar_period_end_dt": "12/31/9998",
+                "contact_lname": "CHOWDHURY",
+                "contact_fname": "JAY",
+                "contact_addr1_txt": null,
+                "contact_addr2_txt": null,
+                "contact_city_txt": null,
+                "contact_state_cd": null,
+                "contact_zip_cd": null,
+                "contact_phone_num": "123456",
+                "contact_cell_num": null,
+                "contact_fax_num": null,
+                "contact_pager_num": null,
+                "contact_email_addr_txt": "TEST@GMAIL.COM",
+                "next_inv_num": 1,
+                "comment_txt": "",
+                "created_by": "admin",
+                "created_dt": "/Date(1504884160557)/",
+                "updated_by": null,
+                "updated_dt": null,
+                "deleted_by": null,
+                "deleted_dt": null,
+                "spec_program_id": 0,
+                "min_charge_amt": null,
+                "future_fill_time_limit": 7
+            }
+        ],
+        "group_field_edits": [],
+        "spec_program_list": [
+            {
+                "program_id": 2,
+                "desc_txt": "$4 Gens - 30 Days Supply"
+            },
+            {
+                "program_id": 28,
+                "desc_txt": "1 Price Generic Drug List"
+            },
+            {
+                "program_id": 29,
+                "desc_txt": "1 Price Medical Center Pharmacy Generic Drug List"
+            },
+            {
+                "program_id": 34,
+                "desc_txt": "AIP Generic Drug List"
+            },
+            {
+                "program_id": 38,
+                "desc_txt": "AMERIPHARM 30DS MATCHIT Generic Drug List"
+            },
+            {
+                "program_id": 37,
+                "desc_txt": "AMERIPHARM 90DS MATCHIT Generic Drug List"
+            },
+            {
+                "program_id": 36,
+                "desc_txt": "AMERIPHARM MATCHIT Generic Drug List"
+            },
+            {
+                "program_id": 22,
+                "desc_txt": "APPRORx Generic Drug List "
+            },
+            {
+                "program_id": 45,
+                "desc_txt": "Best Value Flu Program"
+            },
+            {
+                "program_id": 26,
+                "desc_txt": "Brookshire's Generic Drug List"
+            },
+            {
+                "program_id": 6,
+                "desc_txt": "Cameron County $4Generic Drug List"
+            },
+            {
+                "program_id": 14,
+                "desc_txt": "Denton County Project Access $5 Drugs"
+            },
+            {
+                "program_id": 43,
+                "desc_txt": "DLS PHARMACY EXTENDED DAYS SUPPLY"
+            },
+            {
+                "program_id": 32,
+                "desc_txt": "DRXNW Drug Savings List"
+            },
+            {
+                "program_id": 49,
+                "desc_txt": "DRXNW TRUESCRIPTS SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 23,
+                "desc_txt": "Fords Drug $4 Generic Drug List"
+            },
+            {
+                "program_id": 69,
+                "desc_txt": "Hampshire Pharmacy"
+            },
+            {
+                "program_id": 71,
+                "desc_txt": "Hampshire Pharmacy by gpi"
+            },
+            {
+                "program_id": 41,
+                "desc_txt": "KLEINSRX LOYALTY DRUG LIST"
+            },
+            {
+                "program_id": 67,
+                "desc_txt": "Klingensmith 5 Special Pricing Program"
+            },
+            {
+                "program_id": 68,
+                "desc_txt": "KLINGENSMITHS EMP PRICING PROGRAM"
+            },
+            {
+                "program_id": 31,
+                "desc_txt": "LRX Drug Savings List"
+            },
+            {
+                "program_id": 1,
+                "desc_txt": "MATCHIT Generic Drug List"
+            },
+            {
+                "program_id": 50,
+                "desc_txt": "MCDG SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 18,
+                "desc_txt": "MEDCHEST Generic Drug List"
+            },
+            {
+                "program_id": 30,
+                "desc_txt": "MEDPLUS Drug Savings List"
+            },
+            {
+                "program_id": 44,
+                "desc_txt": "MEDWORKS SPECIALTY PROGRAM FOR RUSH PLANS"
+            },
+            {
+                "program_id": 17,
+                "desc_txt": "MKS90 Days Supply Pricing"
+            },
+            {
+                "program_id": 66,
+                "desc_txt": "Mutual Drug Special Pricing Program"
+            },
+            {
+                "program_id": 55,
+                "desc_txt": "NOT USED"
+            },
+            {
+                "program_id": 46,
+                "desc_txt": "NRX PB100 LOYALTY LIST"
+            },
+            {
+                "program_id": 3,
+                "desc_txt": "NRX Ron's $4 Generic Drug List"
+            },
+            {
+                "program_id": 5,
+                "desc_txt": "NRX WAC + $4 Generic Drug List"
+            },
+            {
+                "program_id": 15,
+                "desc_txt": "NRX100 Count Pricing"
+            },
+            {
+                "program_id": 47,
+                "desc_txt": "NRX30 CHS OTC Special Program"
+            },
+            {
+                "program_id": 33,
+                "desc_txt": "NRX30 Days Supply Pricing"
+            },
+            {
+                "program_id": 42,
+                "desc_txt": "NRX30 Days Supply Pricing Alternate Pricing (NRX30DEL)"
+            },
+            {
+                "program_id": 11,
+                "desc_txt": "NRX90 Days Supply Pricing"
+            },
+            {
+                "program_id": 70,
+                "desc_txt": "Performance Health"
+            },
+            {
+                "program_id": 62,
+                "desc_txt": "PromiseRx Special Pricing Program 9J1182"
+            },
+            {
+                "program_id": 63,
+                "desc_txt": "PromiseRx Special Pricing Program 9J1185"
+            },
+            {
+                "program_id": 64,
+                "desc_txt": "PromiseRx Special Pricing Program 9J1189"
+            },
+            {
+                "program_id": 40,
+                "desc_txt": "PUBLIC PLANS $4 GENERICS (MATCH-IT)"
+            },
+            {
+                "program_id": 60,
+                "desc_txt": "QUAD2016 Spec Program"
+            },
+            {
+                "program_id": 16,
+                "desc_txt": "QUALITY CARE PHARMACY LCG & Free Antibiotics"
+            },
+            {
+                "program_id": 8,
+                "desc_txt": "QUALITY CARE PHARMACY Low Cost Generics"
+            },
+            {
+                "program_id": 10,
+                "desc_txt": "QUALITY CARE PHARMACY MATCHIT Low Cost Generics"
+            },
+            {
+                "program_id": 65,
+                "desc_txt": "Quality Care Special Pricing Program"
+            },
+            {
+                "program_id": 24,
+                "desc_txt": "Riggs $4 Generic Drug List"
+            },
+            {
+                "program_id": 48,
+                "desc_txt": "RXDISC LOYALTY1 SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 51,
+                "desc_txt": "RXNGO ALL TRUCK SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 52,
+                "desc_txt": "RXNGO ANDERSON UNIVERSITY SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 59,
+                "desc_txt": "RXNGO FRANKLIN ELECTRIC SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 53,
+                "desc_txt": "RXNGO FULL CDL SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 57,
+                "desc_txt": "RXNGO PRASCO SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 54,
+                "desc_txt": "RXNGO PREVENTATIVE SPECIAL PROGRAM"
+            },
+            {
+                "program_id": 35,
+                "desc_txt": "SWISH340B MATCHIT Generic Drug List"
+            },
+            {
+                "program_id": 25,
+                "desc_txt": "Target $4 Generic Drug List"
+            },
+            {
+                "program_id": 39,
+                "desc_txt": "TRIADCARE Spec Drug List"
+            },
+            {
+                "program_id": 27,
+                "desc_txt": "TRX90 Generic Drug List"
+            },
+            {
+                "program_id": 61,
+                "desc_txt": "WALMART $4 List"
+            }
+        ]
+    }
+}

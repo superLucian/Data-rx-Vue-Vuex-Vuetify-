@@ -1,0 +1,282 @@
+{
+  "d": {
+    "__type": "System.Data.DataSet",
+    "feature_codes": [
+      {
+        "feature_id": 1,
+        "desc": "Agent Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 2,
+        "desc": "Chain Administration",
+        "default_access": 3
+      },
+      {
+        "feature_id": 33,
+        "desc": "Claim Details Dollar Amounts",
+        "default_access": 0
+      },
+      {
+        "feature_id": 50,
+        "desc": "Claim Export",
+        "default_access": 0
+      },
+      {
+        "feature_id": 4,
+        "desc": "Claim Paid Amount",
+        "default_access": 0
+      },
+      {
+        "feature_id": 3,
+        "desc": "Claim Search",
+        "default_access": 1
+      },
+      {
+        "feature_id": 35,
+        "desc": "Contract Administration",
+        "default_access": 0
+      },
+      {
+        "feature_id": 32,
+        "desc": "Crystal Reports Export",
+        "default_access": 0
+      },
+      {
+        "feature_id": 5,
+        "desc": "Diagnosis Code Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 51,
+        "desc": "Drug Export",
+        "default_access": 0
+      },
+      {
+        "feature_id": 6,
+        "desc": "Drug Search",
+        "default_access": 1
+      },
+      {
+        "feature_id": 53,
+        "desc": "Formularies - ALL",
+        "default_access": 0
+      },
+      {
+        "feature_id": 52,
+        "desc": "Formularies - PCN Specific",
+        "default_access": 0
+      },
+      {
+        "feature_id": 7,
+        "desc": "Group Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 36,
+        "desc": "Group Mac Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 38,
+        "desc": "HCPCS Claim Tab View",
+        "default_access": 0
+      },
+      {
+        "feature_id": 60,
+        "desc": "HICP Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 18,
+        "desc": "HMAC Pricing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 8,
+        "desc": "Member Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 59,
+        "desc": "Member Card Report",
+        "default_access": 0
+      },
+      {
+        "feature_id": 9,
+        "desc": "Network Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 55,
+        "desc": "Order Adjustments",
+        "default_access": 0
+      },
+      {
+        "feature_id": 48,
+        "desc": "PCN Administration",
+        "default_access": 0
+      },
+      {
+        "feature_id": 11,
+        "desc": "Plan Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 31,
+        "desc": "Plan Claim Tab View",
+        "default_access": 0
+      },
+      {
+        "feature_id": 58,
+        "desc": "Plan Rebate",
+        "default_access": 0
+      },
+      {
+        "feature_id": 57,
+        "desc": "Plan Transparency",
+        "default_access": 0
+      },
+      {
+        "feature_id": 12,
+        "desc": "Plan Wizard",
+        "default_access": 0
+      },
+      {
+        "feature_id": 13,
+        "desc": "Prescriber Administration",
+        "default_access": 2
+      },
+      {
+        "feature_id": 37,
+        "desc": "Pricing Source",
+        "default_access": 0
+      },
+      {
+        "feature_id": 10,
+        "desc": "Prior Auth Administration",
+        "default_access": 1
+      },
+      {
+        "feature_id": 14,
+        "desc": "Provider Administration",
+        "default_access": 2
+      },
+      {
+        "feature_id": 34,
+        "desc": "Raw Data Tab On Claim Display",
+        "default_access": 0
+      },
+      {
+        "feature_id": 46,
+        "desc": "Report Administration",
+        "default_access": 0
+      },
+      {
+        "feature_id": 40,
+        "desc": "Report Category Auditing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 23,
+        "desc": "Report Category Claim Review",
+        "default_access": 0
+      },
+      {
+        "feature_id": 45,
+        "desc": "Report Category Discount Card",
+        "default_access": 0
+      },
+      {
+        "feature_id": 24,
+        "desc": "Report Category Form",
+        "default_access": 0
+      },
+      {
+        "feature_id": 41,
+        "desc": "Report Category Hospice",
+        "default_access": 0
+      },
+      {
+        "feature_id": 39,
+        "desc": "Report Category Hospice Billing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 28,
+        "desc": "Report Category Internal",
+        "default_access": 0
+      },
+      {
+        "feature_id": 21,
+        "desc": "Report Category Misc",
+        "default_access": 0
+      },
+      {
+        "feature_id": 25,
+        "desc": "Report Category Orders",
+        "default_access": 0
+      },
+      {
+        "feature_id": 26,
+        "desc": "Report Category Patient",
+        "default_access": 0
+      },
+      {
+        "feature_id": 44,
+        "desc": "Report Category Patient Census",
+        "default_access": 1
+      },
+      {
+        "feature_id": 22,
+        "desc": "Report Category Payor Billing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 29,
+        "desc": "Report Category Pharmacy Hospice Billing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 42,
+        "desc": "Report Category Skilled Nursing",
+        "default_access": 0
+      },
+      {
+        "feature_id": 27,
+        "desc": "Report Category Therapeutic",
+        "default_access": 0
+      },
+      {
+        "feature_id": 15,
+        "desc": "Report Export",
+        "default_access": 0
+      },
+      {
+        "feature_id": 16,
+        "desc": "Report Viewing",
+        "default_access": 2
+      },
+      {
+        "feature_id": 30,
+        "desc": "Store Claim Tab View",
+        "default_access": 0
+      },
+      {
+        "feature_id": 17,
+        "desc": "User Administration",
+        "default_access": 2
+      },
+      {
+        "feature_id": 19,
+        "desc": "User Permissions",
+        "default_access": 0
+      },
+      {
+        "feature_id": 56,
+        "desc": "Wholesaler",
+        "default_access": 0
+      }
+    ]
+  }
+}
